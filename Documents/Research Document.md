@@ -102,10 +102,10 @@ Based on this research and the available data I made a SWOT analysis for each do
 ![Biodiversity SWOT](biodiversity-swot.png)  
 ![Air Temperature / Water SWOT](Airtemp-water-swot.png)  
 ![Air Pollutant Emissions SWOT](air-pollutant-emissions-swot.png)  -->
-![Fine Dust SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/blob/main/Copy%20paste%20images/swot/fine-dust-swot.png) 
-![Biodiversity SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/blob/main/Copy%20paste%20images/swot/biodiversity-swot.png)  
-![Air Temperature / Water SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/blob/main/Copy%20paste%20images/swot/Airtemp-water-swot.png)  
-![Air Pollutant Emissions SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/blob/main/Copy%20paste%20images/swot/air-pollutant-emissions-swot.png)
+![Fine Dust SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/swot/fine-dust-swot.png) 
+![Biodiversity SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/swot/biodiversity-swot.png)  
+![Air Temperature / Water SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/swot/Airtemp-water-swot.png)  
+![Air Pollutant Emissions SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/swot/air-pollutant-emissions-swot.png)
 
 Though Simona had done her own research into what was possible, she agreed with picking Fine Dust as this was the one with the most potential for success and would incorporate AR and AI the best.   
 
