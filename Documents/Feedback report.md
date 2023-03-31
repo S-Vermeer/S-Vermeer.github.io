@@ -148,7 +148,7 @@ Based on this, we can see that the concept itself is good and liked, but there a
 ![[adjusted-designs-app.png]]
 -->
 
-![updated designs app](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/adjusted-designs-app.png)
+![updated designs app](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/adjusted-designs-app.png)  
 In this case, the info screen has a scroll functionality. Text was made bigger, a settings screen was added, icons and labels were added, and the permissions were replaced with icons and sliders. The sliders were all moved to the bottom of the page.
 
 The girls liked the full screen more, but the functionality they would've liked to see, with a zoom in on a location on a tap is not possible as we get the data in the location scope so we cannot be more specific than a GPS coordinate. The confidence indicator needs some additional testing as to what the best design for it is.
