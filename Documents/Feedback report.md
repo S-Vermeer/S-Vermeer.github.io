@@ -43,8 +43,8 @@ To do this, we will test our POC's at various different stages with various diff
 ### Introduction
 To validate our designs make sense to the possible users as well as see in which ways they can be improved, we made a clickable prototype. However the goal of this was not to validate the user behaviour but to ensure the designs and concept of the application are clear. That is why it would be more a 'clickable wireframe'. The designs in question are:
 
-![[Pasted image 20230330105652.png]]
-![[Pasted image 20230330105704.png]]
+![[initial-designs-app1.png]]
+![[initial-designs-app2.png]]
 
 ### Preparation
 #### Expo / Survey
@@ -142,7 +142,7 @@ The girls had some feedback and generally also mentioned that they agreed with p
 #### Conclusion
 Based on this, we can see that the concept itself is good and liked, but there are some adjustments to be made. The main repeating ones are to make the text larger, add icons to text or replace text with icons and add labels to existing icons and moving the sliders to the bottom. Based on that we can make some new designs:
 
-![[Pasted image 20230330132839.png]]
+![[adjusted-designs-app.png]]
 
 In this case, the info screen has a scroll functionality. Text was made bigger, a settings screen was added, icons and labels were added, and the permissions were replaced with icons and sliders. The sliders were all moved to the bottom of the page.
 

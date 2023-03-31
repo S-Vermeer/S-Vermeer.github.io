@@ -97,21 +97,21 @@ Misschien handiger als je was begonnen met gewoon één locatie etc
 **Simona 9-3-23**
 Onder de indruk van wat ik tot nu toe heb gedaan. Ik kan uitdagingen aan, maar ik moet het ook niet meteen te moeilijk voor mezelf te maken, begin met een basis en zoek daarna uitdaging. Bart had ook gezegd dat ik hard werk maar moet mezelf niet voorbijlopen.
 
-![[Pasted image 20230329103951.png]]
-![[Pasted image 20230329103936.png]]
+![[feedback-simona-9-3-part1.png]]
+![[feedback-simona-9-3-part2.png]]
 
 **Frank 15-3-23**
 Op de goede weg, onderzoek past bij hoofdvraag, goed georganizeerd en lijkt goed op planning. Zorg wel dat onderzoek niet te lang duurt.
-![[Pasted image 20230329104112.png]]
+![[feedback-frank-15-3.png]]
 
 **Simona 15-3-23**
 Goed en hard aan het werk, mijn design en planning zien er goed uit. Ik stel ook goede vragen bij de knowledge sharing sessions. 
-![[Pasted image 20230329104342.png]]
+![[feedback-simona-15-3.png]]
 
 **Simona 22-3-23**
 Ik moet niet vergeten mijn AR testen te documenteren zodat het herproduceerbaar is.
-![[Pasted image 20230329104441.png]]
+![[feedback-simona-22-3.png]]
 
 **Bernd-Jan**
 Ik moet zorgen dat ik een device heb dat werkt met AR, want het is erg specifiek per device. Focus op het laten werken van een prototype op een AR-ready device. Het kan handig zijn om mijn i-account fhict domein klaar te zetten.
-![[Pasted image 20230329104651.png]]
+![[feedback-bernd-jan-22-3.png]]
