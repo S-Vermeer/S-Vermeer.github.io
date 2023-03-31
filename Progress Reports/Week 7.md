@@ -7,10 +7,10 @@
 **Document(s) handed in**: {XXX}  
 
 ##### Biggest accomplishment
-xxxxx
+I managed to get help on multiple fronts, AR and validating my designs so I could go forward and also managed to seperate my git repository into seperate ones.
 
 ##### Biggest setback
-xxxx
+I am still quite stuck in some aspects, for example my EDA I am having trouble getting trends from my data, and the AR for now is still 'location based' so based on a GPS location instead of the phone location.
 
 ### Daily progress
 ![Test Image](basic-weekly-template.png)
@@ -41,3 +41,5 @@ On Friday I started by testing whether my way of deploying (python http.server a
 After that, I started working on seperating the git repository. I wanted to create a group for it, but right now that wasn't possible with my git.fhict.nl permissions. So I made 3 repositories, Front-end, Back-end and documentation. In front-end, the focus will be on the AR, so the development of the application. The back-end is focused on the data, obtaining, analysing and predicting with it. Documentation is just the general documentation for the internship. I will ask Simona whether she can create a group for me at our next meeting. I also created a workspace in Gitkraken with these repositories (as well as the old one) for easier monitoring.
 
 I also uploaded the previously not in the repository testing files for HTML AR and the Unity React combo. I have not yet found a way to share the unity project as the gitignore currently just removes all the directories in the project.
+
+After that I started going through all the documents that are currently relevant (project plan, research document, feedback report) and fixing their formatting.

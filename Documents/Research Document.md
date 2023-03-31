@@ -1,21 +1,22 @@
 # City Digital Twin AR Zoom Lens - Research Document  
 **_Fontys Lectorate High Tech Embedded Systems Eindhoven_**  
 _Eindhoven_  
-|  Date     |              16-03-2023  |
+|  Date     |              31-03-2023  |
 |:----------|:-------------------------|
-|  Version  |                   2.0.0  |
+|  Version  |                   2.1.0  |
 |  Status   | Second Draft             |
 |  Author   |  Skyler Vermeer          |     
 <div style="page-break-after: always;"></div>  
 
-|   **Version**   |   **Date**    |   **Author**       |   **Amendments**                                                                                            |   **Status**     |
-|:----------------|:--------------|:-------------------|:------------------------------------------------------------------------------------------------------------|:-----------------|
-|         0.1.0   |    8-2-2023   |   Skyler Vermeer   |   Layout                                                                                                    |   Layout Draft   |
-|         1.0.0   |   10-2-2023   |   Skyler Vermeer   |   Added Research Question 1                                                                                 |   Draft          |
-|         1.1.0   |   13-2-2023   |   Skyler Vermeer   |   Added Research Question 2                                                                                 |   Draft          |
-|         1.2.0   |   16-2-2023   |   Skyler Vermeer   |   Add introductions sections, Spelling + Grammar Check + Chosen domain (conclusion)                         |   Draft          |
-|         1.2.1   |    3-3-2023   |   Skyler Vermeer   |   Process feedback Simona (1.2 structure + change sources to references + added layout for new questions)   |   Draft          |
-|         2.0.0   |   16-3-2023   |   Skyler Vermeer   |   Incorporate Expert Interview + adding more structure with headings and such                               |   Second Draft   |  
+|    **Version**    |    **Date**     |    **Author**        |    **Amendments**                                                                                             |    **Status**      |
+|:------------------|:----------------|:---------------------|:--------------------------------------------------------------------------------------------------------------|:-------------------|
+|          0.1.0    |     8-2-2023    |    Skyler Vermeer    |    Layout                                                                                                     |    Layout Draft    |
+|          1.0.0    |    10-2-2023    |    Skyler Vermeer    |    Added Research Question 1                                                                                  |    Draft           |
+|          1.1.0    |    13-2-2023    |    Skyler Vermeer    |    Added Research Question 2                                                                                  |    Draft           |
+|          1.2.0    |    16-2-2023    |    Skyler Vermeer    |    Add introductions sections, Spelling + Grammar Check + Chosen domain (conclusion)                          |    Draft           |
+|          1.2.1    |     3-3-2023    |    Skyler Vermeer    |    Process feedback Simona (1.2 structure + change sources to references + added layout for new questions)    |    Draft           |
+|          2.0.0    |    16-3-2023    |    Skyler Vermeer    |    Incorporate Expert Interview + adding more structure with headings and such                                |    Second Draft    |
+|             2.1.0 |       31-3-2023 | Skyler Vermeer       | Incorporate designs                                                                                           | Second Draft       |  
 
 ### **Communication**  
 | **Version** | **Date**  | **To**          |
@@ -126,9 +127,25 @@ Augmented Reality brings virtual information to the user's immediate surrounding
 
 ### 2.1 How can this problem be visualized?  
 #### Concept Designs
-{Insert designs and how they were verified etc}
+To visualize this problem, based on the requests and feedback from the stakeholder and expert we started by creating sketches.
+{Scan and upload sketches}
 
-{Insert design conclusion}
+After creating these sketches, we talked them through with the stakeholder. She said that the zoom in designs both look good, the zoomed in version looks the best. A good idea is to add a 'confidence level' to the designs to indicate how accurate the visualisation is. Based on this feedback, we adjusted the sketches into figma clickable wireframes.
+<!-- works in gitlab. For local referencing use:
+![[initial-designs-app1.png]]
+![[initial-designs-app2.png]]
+-->
+![initial designs app1](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/initial-designs-app1.png)  
+![initial designs app2](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/initial-designs-app2.png)  
+
+These were then shown to Media Semester 6 students and based on their feedback {INSERT SOURCE?} the designs were adjusted again. Their main feedback was to make the text larger, add icons to text, replace text with icons and add labels to existing icons. They also mentioned that the sliders should be moved to the bottom to make it more ergonomical. That is why in the updated designs the info screen has a scroll functionality to account for the bigger text. There are a combination of icons and images, with a settings screen to allow the user the autonomy to remove one or the other.
+
+<!-- works in gitlab. For local referencing use:
+![[adjusted-designs-app.png]]
+-->
+![adjusted designs app](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/adjusted-designs-app.png)
+
+{Verify with stakeholder, maybe even with expert and describe the key aspects in the design}
 
 ### 2.2 - What is the best Augmented Reality technique for this application?
 #### Types of Augmented Reality
