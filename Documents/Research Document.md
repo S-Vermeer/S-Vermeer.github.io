@@ -22,14 +22,14 @@ _Eindhoven_
 |:------------|:----------|:----------------|
 |       1.2.0 | 17-2-2023 | Simona Orzan    |
 |       1.2.1 |  3-3-2023 | Frank Schürgers |  
-
 <div style="page-break-after: always;"></div>  
+
 ## Abstract  
 In this document, we will answer the question "How can the severity of city problems in Eindhoven be visualized using Augmented Reality?".  
 The goal of this document is to create an overview of the research done, with sources, summaries and conclusions. In case more detailed answers are in another document, the relevant documents will be referenced.    
 To do this, we will use the research questions as defined in the project plan and answer them using the documents that our research consisted of.  
-
 <div style="page-break-after: always;"></div>  
+
 ## Table of Contents  
 - [Document History](#document-history)  
   - [Version](#version)  
@@ -47,15 +47,15 @@ To do this, we will use the research questions as defined in the project plan an
   - [3.1 What data is available regarding this problem](#31-what-data-is-available-regarding-this-problem)  
   - [3.2 How can AI be used to make predictions using this data?](#32-how-can-ai-be-used-to-make-predictions-using-this-data)  
 - [Conclusion](#conclusion)  
-
 <div style="page-break-after: always;"></div>  
+
 ## 1. City problems  
 The first aspect we need to research is city problems. This is to make sure we pick a problem that is still a problem, fits with our requirements of Augmented Reality, Location Based Data and Artificial Intelligence, and needs to be made more tangible.   
 
 ### 1.1 Which city problems are being monitored in Eindhoven?  
 The city of Eindhoven is monitoring several problems so they can see the progression and create and evaluate policies based on it. They also share the data from their sensors publically. This research will focus on the nature and climate-based problems that can be influenced by humans.  
 
-These topics were found on the data portal of Eindhoven, under the topic 'Nature and Environment' (_Explore — Eindhoven Open Data_, n.d.) [1](#^source1-resourcedoc). Based on this list, the following is an analysis of the causes related to the data that is being monitored.  
+These topics were found on the data portal of Eindhoven, under the topic 'Nature and Environment' (_Explore — Eindhoven Open Data_, n.d.)[<sup>1</sup>](#references). Based on this list, the following is an analysis of the causes related to the data that is being monitored.  
 
 #### Population Growth
 One of the problems that are being monitored is the effects of population growth. The growing urban population is causing an increase in air temperature, CO<sub>2</sub> and other air pollutant emissions. This has led to a decrease in stored carbon and is threatening ecosystems and mankind. Because of the higher temperatures, there is an increase in air pollution due to an increase in ozone formation and as energy demands for cooling increase. (_Impacts of Nature-Based Solutions on the Urban Atmospheric Environment_, n.d.) [2](#^source2-resourcedoc)  
