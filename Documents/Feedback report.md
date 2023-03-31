@@ -42,9 +42,12 @@ To do this, we will test our POC's at various different stages with various diff
 ## 1. Clickable Prototype / Wireframe 
 ### Introduction
 To validate our designs make sense to the possible users as well as see in which ways they can be improved, we made a clickable prototype. However the goal of this was not to validate the user behaviour but to ensure the designs and concept of the application are clear. That is why it would be more a 'clickable wireframe'. The designs in question are:
-
+<!-- works in gitlab. For local referencing use:
 ![[initial-designs-app1.png]]
 ![[initial-designs-app2.png]]
+-->
+![initial designs app1](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/initial-designs-app1.png)
+![initial designs app2](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/initial-designs-app2.png)
 
 ### Preparation
 #### Expo / Survey
@@ -54,34 +57,34 @@ The goal of our survey is to get an overview of our testers so we could relate t
 
 The questions prepared in a printed survey were:
 
-**General**
-What is your age:
-What is your gender:
-What is your highest form of education:
-Are you busy or do you have a lot of free time?: _Busy_ |----------------------------------------| _Free time_
-Do you stay in one place or move around a lot: _Stationary_ |----------------------------------------| _Moving_
+**General**  
+What is your age:  
+What is your gender:  
+What is your highest form of education:  
+Are you busy or do you have a lot of free time?: _Busy_ |----------------------------------------| _Free time_  
+Do you stay in one place or move around a lot: _Stationary_ |----------------------------------------| _Moving_  
 
-**Domain**
-Do you know what fine dust is?:
-Do you know why it is being monitored?:
-Do you know what the main health concerns are?:
+**Domain**  
+Do you know what fine dust is?:  
+Do you know why it is being monitored?:  
+Do you know what the main health concerns are?:  
 
-**Concept**
-The A(I)R Zoom lens is an application meant to make fine dust more tangible, to make people aware it exists, is a problem, and how big of a problem it is at that moment for them.
-Do you understand the concept?:
-Would you use the application based on this concept?:
-For what goal would you use this application? You are allowed to refer to the personas for examples:
-Do you have any questions regarding the concept?:
-Do you have any tips/feedback based on solely this concept?:
+**Concept**  
+The A(I)R Zoom lens is an application meant to make fine dust more tangible, to make people aware it exists, is a problem, and how big of a problem it is at that moment for them.  
+Do you understand the concept?:  
+Would you use the application based on this concept?:  
+For what goal would you use this application? You are allowed to refer to the personas for examples:  
+Do you have any questions regarding the concept?:  
+Do you have any tips/feedback based on solely this concept?:  
 
-**Design**
-There is a clickable prototype available with designs for the application. You can click through the application to see what it might look like, and if you press the ‘AR’ Navigation button multiple times you can cycle through multiple different designs.
-What is the first interesting thing you notice about the designs?:
-What is the first point of annoyance about the designs?:
-Please describe the AR design you prefer:
-Do you have any feedback about the designs?
+**Design**  
+There is a clickable prototype available with designs for the application. You can click through the application to see what it might look like, and if you press the ‘AR’ Navigation button multiple times you can cycle through multiple different designs.  
+What is the first interesting thing you notice about the designs?:  
+What is the first point of annoyance about the designs?:  
+Please describe the AR design you prefer:  
+Do you have any feedback about the designs?  
 
-**Additional Feedback:**
+**Additional Feedback:**  
 
 #### Through other eyes
 The goal of this was to validate our clickable wireframes through the eyes of someone else as they might see something we did not notice. In this case we had similar aspects as the survey, except we focused on validating the concept and  design instead of also testing the base knowledge of the testers and relating them to the personas.
@@ -141,9 +144,11 @@ The girls had some feedback and generally also mentioned that they agreed with p
 
 #### Conclusion
 Based on this, we can see that the concept itself is good and liked, but there are some adjustments to be made. The main repeating ones are to make the text larger, add icons to text or replace text with icons and add labels to existing icons and moving the sliders to the bottom. Based on that we can make some new designs:
-
+<!-- works in gitlab. for local referencing use:
 ![[adjusted-designs-app.png]]
+-->
 
+![updated designs app](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/adjusted-designs-app.png)
 In this case, the info screen has a scroll functionality. Text was made bigger, a settings screen was added, icons and labels were added, and the permissions were replaced with icons and sliders. The sliders were all moved to the bottom of the page.
 
 The girls liked the full screen more, but the functionality they would've liked to see, with a zoom in on a location on a tap is not possible as we get the data in the location scope so we cannot be more specific than a GPS coordinate. The confidence indicator needs some additional testing as to what the best design for it is.
