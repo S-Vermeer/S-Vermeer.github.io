@@ -189,7 +189,7 @@ There is nothing decided yet, however, my company coach has offered to do code r
 **Main: How can the severity of city problems in Eindhoven be visualized using AR?**  
 The final product will be an AR application with location-based data. For this, I will need to design and develop an application based on research. Though the specific questions that will be answered are not yet known, the following research methods will most likely be used:  
 
--  *Document Analysis* - The City Digital Twin project already has done multiple pieces of research. Part of my research will be analysing these documents, what has already been researched and achieved and the insights gained from there.
+- *Document Analysis* - The City Digital Twin project already has done multiple pieces of research. Part of my research will be analysing these documents, what has already been researched and achieved and the insights gained from there.
 - *Observation* - To ensure the severity is tangible, I need to see whether other people think and behave as expected. Some form of observation will probably be included in testing.
 - *Peer and/or Product Review* - To see how the product can be improved, a peer and/or product review can be used as an outsider's perspective.
 
@@ -254,7 +254,8 @@ Phase 5 - Finalize
 - Advise future students
 - Finalize Portfolio
 
-![Waterfall draft1](Waterfall-draft1.png)
+![Waterfall Draft](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/Waterfall-draft1.png)
+%%![Waterfall draft1](Waterfall-draft1.png)%%
 
 ### 2.4 Time plan
 
