@@ -36,4 +36,8 @@ After the knowledges sharing session Bart had some Media S6 students come by to 
 On Thursday I started by documenting the feedback from the media students more properly. I also documented my survey for the poster market as I did do the prep work, but not enough people showed up. I also had a meeting with Teague and Guido about the portfolio blog project. After that I reconvened with Tessa as she couldn't make it to the meeting to discuss what was said and our opinions on this. After that I started working on my EDA again. 
 
 ##### Friday
-{xxxx}
+On Friday I started by testing whether my way of deploying (python http.server and linking it using ngrok) worked, by using the code from Bernd-Jan which was working.
+
+After that, I started working on seperating the git repository. I wanted to create a group for it, but right now that wasn't possible with my git.fhict.nl permissions. So I made 3 repositories, Front-end, Back-end and documentation. In front-end, the focus will be on the AR, so the development of the application. The back-end is focused on the data, obtaining, analysing and predicting with it. Documentation is just the general documentation for the internship. I will ask Simona whether she can create a group for me at our next meeting. I also created a workspace in Gitkraken with these repositories (as well as the old one) for easier monitoring.
+
+I also uploaded the previously not in the repository testing files for HTML AR and the Unity React combo. I have not yet found a way to share the unity project as the gitignore currently just removes all the directories in the project.
