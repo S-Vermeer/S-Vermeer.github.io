@@ -1,18 +1,18 @@
 GENERAL
 - [ ] Add Requirement Prioritization based on Fine Dust Domain
-- [ ] AR Research in Research Doc
-- [ ] Create ReadMe
+- [x] AR Research in Research Doc
+- [x] Create ReadMe
 - [ ] Fill in Software Architecture Doc (so far)
 
 Augmented Reality
 - [ ] Test Unity in React
-- [ ] Test HTML page AR.JS
+- [x] Test HTML page AR.JS
 - [ ] Design AR application
-	- [ ] Get user feedback on Design
+	- [x] Get user feedback on Design
 	- [ ] Get user feedback on html or app
-	- [ ] {Create feedback report for feedback}
+	- [x] {Create feedback report for feedback}
 
-- [ ] Process Expert Interview [[Jean-Paul 7-3-23]]
+- [x] Process Expert Interview [[Jean-Paul 7-3-23]]
 - [ ] Check out sources Jean-Paul
 	- [ ] https://odzob.nl/meetnet
 	- [ ] https://aireas.com/real-time-metingen/
@@ -23,7 +23,7 @@ CI/CD:
 - [ ] Add Sonar Cloud to CI/CD Pipeline
 
 Data:
-- [ ] Scrape data for fine dust dataset
+- [x] Scrape data for fine dust dataset
 - [ ] EDA Fine Dust
 - [ ] Real Time Data POC (React)
 - [ ] Which things can be predicted
@@ -62,7 +62,7 @@ Documents
 	- [x] Answered What impact do these city problems make?
 	- [x] Explained choice of city problem
 	- [ ] Answered How can this problem be visualized?
-	- [ ] Answered What are the benefits and deficits of using Augmented Reality for this visualization?
+	- [x] Answered What are the benefits and deficits of using Augmented Reality for this visualization?
 	- [ ] Answered What data is available regarding this problem?
 	- [ ] Answered How can AI be used to make predictions using this data?
 	- [ ] Answered What devices will the AR application be available on?
@@ -77,7 +77,7 @@ Documents
 	- [ ] xxx
 
 - [ ] Feedback Report
-	- [ ] Testing method 1
+	- [x] Testing method 1
 	- [ ] Testing method 2
 	- [ ] Testing method 3
 	- [ ] Spell check

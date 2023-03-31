@@ -22,7 +22,7 @@ Monday was a day that was filled with other meetings and preparing for those mee
 On Tuesday I worked some more on the EDA, defining the data quality and connecting the location of the boxes data to it. I finished a small, incomplete version of a README, just the basics so there was at least something there. Lastly, I started going through all the markdownfiles in git and adjusting any errors.
 
 ##### Wednesday
-Wednesday was mostly spent working on the design for the poster for the poster market and converting the sketches to figma so they were a bit neater. I also had a meeting with Simona where we discussed my struggles with AR (she was going to talk with Bert Jan), my poster design, my AR design progress and in general some other aspects of the project such as whether heat sensors were available in Eindhoven. We also discussed that from now on the meetings would be on Wednesday.
+Wednesday was mostly spent working on the design for the poster for the poster market and converting the sketches to figma so they were a bit neater. I also had a meeting with [[22-3-23 Simona]] where we discussed my struggles with AR (she was going to talk with Bert Jan), my poster design, my AR design progress and in general some other aspects of the project such as whether heat sensors were available in Eindhoven. We also discussed that from now on the meetings would be on Wednesday.
 
 ##### Thursday
 On thursday I worked some more on transferring my sketches to figma and creating an interactive prototype. I also worked on the poster some more, created a marker-based AR application for on the poster as well as a POC for AR, and also created some models for this.
