@@ -254,8 +254,8 @@ Phase 5 - Finalize
 - Advise future students
 - Finalize Portfolio
 
+[//]: Works for gitlab. For local reference use ![waterfall](Waterfall-draft1.png)
 ![Waterfall Draft](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/Waterfall-draft1.png)
-%%![Waterfall draft1](Waterfall-draft1.png)%%
 
 ### 2.4 Time plan
 
