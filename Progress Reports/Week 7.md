@@ -2,9 +2,9 @@
 
 ### General info
 **Week**: 7
-**Phase**: 2 - Research and Experiment + Possibly 3 - Component Development
-**Contacted**: Frank
-**Document(s) handed in**: {XXX}  
+**Phase**: 2 - Research and Experiment + 3 - Component Development
+**Contacted**: Bart, Simona, Bernd-Jan, Frank
+**Document(s) handed in**: -
 
 ##### Biggest accomplishment
 I managed to get help on multiple fronts, AR and validating my designs so I could go forward and also managed to seperate my git repository into seperate ones.
