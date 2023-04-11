@@ -1,12 +1,6 @@
-EDA verdergaan
-- Data per location, circles? Waffle for percentages?
-- Plot all locations
-- Single location - share in image where it is
 
-HTML
-- Jquery werkend -> css voor 'actieve' pagina
-- Custom model(s) for fine dust particles
 
+---\
 
 Meeting met Simona:
 - Valideren Design
@@ -35,10 +29,3 @@ Meeting met Simona:
 - Name(s) students presenting at IT festival: Skyler Vermeer
 
 ---
-Knowledge sharing session:
-
-- Outline text naar links, niet naar midden
-- Kijk naar Pikmin bloom voor scheiden AR (??)
-- Kijk naar kleurenschemas online
-- symbooltjes niet svgs maar als favicon font dingetjes
-- Check navbar sizing guide (insta post)

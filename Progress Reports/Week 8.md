@@ -23,13 +23,13 @@ I figured out that to make the AR/camera not full screen, I would need to use if
 I also met with Sabina, an old coach of mine and Veronica, a student who was interested in joining the lectorate for an internship and wanted to know more about it.
 
 ##### Tuesday
-{xxxx}
+On Tuesday I started on creating the main pages, so transferring the design into an actual page while keeping the repeating header and footers. To allow the footer to stay at the bottom and have some scroll in the center, took a bit of extra time so I spent some time on that, as well as creating accurate sliders and fixing some more formatting. 
 
 ##### Wednesday
-{xxxx}
+On Wednesday I worked a bit on having AR in the application, I helped Tessa with her code, gave a knowledge sharing session presentation and had a meeting with [[5-4-23 Frank and Simona]] and after that a meeting with Guido about portfolio.
 
 ##### Thursday
-{xxxx}
+I spent thursday working on my portfolio, updating what I had already and seeing whether I could make a small website around it. 
 
 ##### Friday
-{xxxx}
+Friday was a holiday and I didn't work on school.
