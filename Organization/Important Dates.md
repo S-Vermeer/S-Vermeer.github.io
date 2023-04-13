@@ -14,6 +14,6 @@ Deadlines
 13 juni(?) - Portfolio totaal
 
 Extra
-12 April - Career Day
-12 April - Reunion Day
+~~12 April - Career Day
+12 April - Reunion Day~~
 28 april - midterm review
