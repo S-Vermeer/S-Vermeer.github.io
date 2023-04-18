@@ -27,7 +27,8 @@ In the afternoon I also had a meeting with Simona and Jean-Paul. Jean-Paul was n
 On Wednesday I worked a little bit on implementing the models into the AR application, I had my 'comeback day' presentation and had a knowledge sharing session. In the afternoon was the career day where I was representing the Lectorate together with Teague, Dennis and Tessa.
 
 ##### Thursday
-On thursday I got to working on trying to interact between the slider in the AR page and the animation in the Aframe, I also got back my feedback form from Simona with extremely positive feedback. 
+On thursday I got to working on trying to interact between the slider in the AR page and the animation in the Aframe, I also got back my feedback form from Simona with extremely positive feedback. In the afternoon I worked on updating my portfolio.
 
 ##### Friday
-{xxxx}
+In the morning I worked on making my AR page interact with my Iframe animations. This took a bit of figuring out, but eventually I got it working. 
+After that, I attempted to make a request to the API through javascript, to no avail.
