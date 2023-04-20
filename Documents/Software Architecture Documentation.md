@@ -13,10 +13,10 @@ _Eindhoven_
 ## Document History
 ### Version
 
-|  **Version**          |  **Date**              |  **Author**          |  **Amendments**                                            |  **Status**  |
-|:----------------------|:-----------------------|:---------------------|:-----------------------------------------------------------|:-------------|
-|                0.1.0  |  27-02-2023     |  Skyler Vermeer      |  Layout  |  Layout         |
-|  xxxx                 |  xxx                   |  xxxx                |  xxx                                                       |  xxx         |  
+|   **Version**            |   **Date**                      |   **Author**           |   **Amendments**                                             |   **Status**      |
+|:-------------------------|:--------------------------------|:-----------------------|:-------------------------------------------------------------|:------------------|
+|                  0.1.0   |                 27-02-2023      |   Skyler Vermeer       |   Layout                                                     |   Layout          |
+|   1.0.0                  |   19-04-2023                    |   Skyler Vermeer       |   Update Contexts                                            |   Draft           |  
 
 ### Communication
 

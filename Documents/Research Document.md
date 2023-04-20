@@ -8,21 +8,25 @@ _Eindhoven_
 |  Author   |  Skyler Vermeer          |     
 <div style="page-break-after: always;"></div>  
 
-|    **Version**    |    **Date**     |    **Author**        |    **Amendments**                                                                                             |    **Status**      |
-|:------------------|:----------------|:---------------------|:--------------------------------------------------------------------------------------------------------------|:-------------------|
-|          0.1.0    |     8-2-2023    |    Skyler Vermeer    |    Layout                                                                                                     |    Layout Draft    |
-|          1.0.0    |    10-2-2023    |    Skyler Vermeer    |    Added Research Question 1                                                                                  |    Draft           |
-|          1.1.0    |    13-2-2023    |    Skyler Vermeer    |    Added Research Question 2                                                                                  |    Draft           |
-|          1.2.0    |    16-2-2023    |    Skyler Vermeer    |    Add introductions sections, Spelling + Grammar Check + Chosen domain (conclusion)                          |    Draft           |
-|          1.2.1    |     3-3-2023    |    Skyler Vermeer    |    Process feedback Simona (1.2 structure + change sources to references + added layout for new questions)    |    Draft           |
-|          2.0.0    |    16-3-2023    |    Skyler Vermeer    |    Incorporate Expert Interview + adding more structure with headings and such                                |    Second Draft    |
-|             2.1.0 |       31-3-2023 | Skyler Vermeer       | Incorporate designs                                                                                           | Second Draft       |  
+|      **Version**      |      **Date**       |      **Author**          |      **Amendments**                                                                                               |      **Status**        |
+|:----------------------|:--------------------|:-------------------------|:------------------------------------------------------------------------------------------------------------------|:-----------------------|
+|            0.1.0      |       8-2-2023      |      Skyler Vermeer      |      Layout                                                                                                       |      Layout Draft      |
+|            1.0.0      |      10-2-2023      |      Skyler Vermeer      |      Added Research Question 1                                                                                    |      Draft             |
+|            1.1.0      |      13-2-2023      |      Skyler Vermeer      |      Added Research Question 2                                                                                    |      Draft             |
+|            1.2.0      |      16-2-2023      |      Skyler Vermeer      |      Add introductions sections, Spelling + Grammar Check + Chosen domain (conclusion)                            |      Draft             |
+|            1.2.1      |       3-3-2023      |      Skyler Vermeer      |      Process feedback Simona (1.2 structure + change sources to references + added layout for new questions)      |      Draft             |
+|            2.0.0      |       6-3-2023      |      Skyler Vermeer      | AR techniques research                                                                                            |      Second Draft      |
+|                 2.0.1 |            7-3-2023 | Skyler Vermeer           | AR frameworks research                                                                                            | Second Draft           |
+|            2.1.0      |      16-3-2023      |      Skyler Vermeer      |      Incorporate Expert Interview + adding more structure with headings and such                                  |      Second Draft      |
+|               2.2.0   |         31-3-2023   |   Skyler Vermeer         |   Incorporate designs                                                                                             |   Second Draft         |
+|                3.0.0  |         20-04-2023  |  Skyler Vermeer          |  Incorporate POC's in AR research                                                                                 |  Third Draft           |  
 
 ### **Communication**  
 | **Version** | **Date**  | **To**          |
 |:------------|:----------|:----------------|
 |       1.2.0 | 17-2-2023 | Simona Orzan    |
-|       1.2.1 |  3-3-2023 | Frank Schürgers |  
+|       1.2.1 |  3-3-2023 | Frank Schürgers |
+|       2.1.0 |  5-4-2023 | Simona Orzan |
 <div style="page-break-after: always;"></div>  
 
 ## Abstract  
@@ -202,10 +206,45 @@ WebAR Kit wants to take the best from open source WebAR and take it to the next 
 ##### Zapworks
 Zapworks is a complete toolkit just like 8th Wall. However it lacks some features but compensates in pricing. It has trouble anchoring due to not supporting world tracking on web. It allows to create AR experiences without coding or with low code. It supports a variety of the above mentioned features, and has a 14 day free trial. After that it is 58-435 euros per month, with a custom pricing for enterprises. It is compatible with safari and chrome, and a large amount of 3D JS frameworks. It has image and face tracking.
 
-#### Conclusion
-Based on our knowledge of the types of AR and the frameworks we would need to develop them, and our knowledge of the project, we can draw a conclusion. We know that we will either have to use Location-based AR, as it is based around the location of the user, or have the phone as the 'marker' in the sense that it gets the location, generates data based on it and calculates where the 3D models should be displayed. Markers are usually needed to give the AR for example a point where the surface is to make it more real, or to select what is to be displayed. However, in our case we can also simulate AR by displaying 3D models over the camera view on a phone.
+### 2.2.1 Which Augmented Reality techniques can we work with?
+#### Proof of Concepts
+Based on our theoretical knowledge of the types of AR and the frameworks we would need to develop them, and our knowledge of the project, we can say that we will either have to use Location-based AR or have the phone as the marker and place things relative to the phone. This because we are working off of coordinate data, but want the visualization to be somewhat relative to the user so it is immersive. This could be done by getting the location of the phone, referencing it to the data we want to visualize, and displaying the 3D models around the user.
 
 If we want to use location-based, our options for development are 8th Wall or AR.js, and seeing as AR.js is free this is definetely an option. However, it is also known to not be extremely user friendly when developing, so if that doesn't work out, we can also work with Unity in a non-location-based application way. Unity implements ARCore and a variety of features and would also be free to develop with, along with a friendlier user interface.
+
+However, before we can decide what we will be using, we need to make a few proof of concepts to see whether they will work. Something to note is that the development of these concepts happened mostly simultaneously, so some aspects do overlap.
+
+##### Unity
+To start the experimenting with Unity, I followed a tutorial on Augmented Reality with Unity. The tutorial that was provided by Unity itself was throwing a lot of errors, so we decided to approach it differently and use a (_Create an AR Game Using Unity’s AR Foundation_, n.d.)[<sup>20</sup>](#references) <!-- [20](#^source20-resourcedoc)-->. We got the camera to work and have a model display at the location of the camera. However, initially, it was just stuck in the position of where the camera pointed first.
+
+There is an error in the tutorial, where it is missing some code. By using a youtube tutorial, we were able to find the error area, and alter the code. (Indra M, 2022)[<sup>21</sup>](#references) <!-- [21](#^source21-resourcedoc)--> We also figured out that we were using the wrong 'version', as we needed one that used the Universal Render Pipeline so we had the ForwardRenderer Script. After recreating the project using the correct setup, we were able to correct this, so it followed the camera and stuck to whatever surface was being detected. 
+
+This meant that we had a simple form of AR. However, as we are not experienced in Unity, setting up an entire application around it would be extremely time consuming, so we decided that if Unity was going to be continued to develop, we would need a way to integrate it into our React Application. 
+
+##### React
+As we had a base setup for a web-based react application, the first goal was to see whether we could get augmented reality working within this application. However, this application was Javascript based, we couldn't just use the tutorials for Aframe and AR.js as these were HTML/CSS based.
+
+After getting the camera to work somewhat, as it didn't work on mobile yet, we started experimenting with a methods to see whether we could get something to display. Things such as an aframe package (_Aframe-React_, 2018)[<sup>22</sup>](#references) <!-- [22](#^source22-resourcedoc)--> were not working, as nothing was showing up. Trying to get HTML code to work was also not having the desired effect. 
+
+Seeing as Unity was working, and during our search for ways to get AR in React we found a few packages that used Unity to display AR in React, we decided to focus on trying to integrate Unity into React.
+
+For integrating Unity into React there are a variety of packages such as react-native-unity-view-reinvented (_React-Native-Unity-View-Reinvented_, 2019)[<sup>23</sup>](#references) <!-- [23](#^source23-resourcedoc)-->, react-native-unity-view (Madsen, 2019/2023)[<sup>24</sup>](#references) <!-- [24](#^source24-resourcedoc)-->, react-native-unity (_@azesmway/React-Native-Unity_, 2022)[<sup>25</sup>](#references) <!-- [25](#^source25-resourcedoc)-->, react-native-unity-play (_React-Native-Unity-Play_, 2021)[<sup>26</sup>](#references) <!-- [26](#^source26-resourcedoc)--> and react-unity-webgl (_React-Unity-Webgl_, 2023)[<sup>27</sup>](#references) <!-- [27](#^source27-resourcedoc)-->. However, as soon as we started working on this, version conflicts started occuring. It appears that either the version of React we are working in was too new, or in general the ability to get Unity working in React was depracated. 
+
+We got react-native-unity to somewhat work, in the sense that there were no version conflicts that broke the starting of the application, however in this case the importing of the Unity project was the problem. The Gradle kept not being able to reference the Unity project, despite us following multiple tutorials and troubleshooting and even creating a new project to keep the differences to the bare minimum. Nothing was working.
+
+##### HTML/CSS and AR.JS
+For AR.js we started by trying to do the location-based tutorials for AR.js (_Image Tracking and Location-Based AR with A-Frame and AR.Js 3_, n.d.).[<sup>28</sup>](#references) <!-- [28](#^source28-resourcedoc)-->. However, this didn't appear to work as no matter what we tried, nothing was showing up on the screen, aside from the camera.
+
+Based on this, we went 'back to basics' and worked on marker-based AR. This as we could use it for the Poster Market and to see whether the most well documented forms of AR did work. For this, we used the tutorial for MindAR (_Build a Marker-Based AR App in 6 minutes | Source Code included | kandi tutorial_, n.d.).[<sup>29</sup>](#references) <!-- [29](#^source29-resourcedoc)--> This tutorial came with models and working code, which could be altered to fit our needs. Based on this application, after changing it to use our own marker and model, we were able to make a POC of marker-based AR. 
+
+However, though it meant that we could make AR work, it wasn't useable for our application as that needed to be marker-less. Based on that we started working on a location-based prototype. Around that same time, we got into contact with a teacher that is also working on AR, Bernd-Jan. He has been working on a location-based prototype. After finding that our testing phone was not ideal for AR, we decided to get a phone from the ISSD so we could focus on the software instead of the technology. We also got access to their location-based protoype, so we could experiment with it. Based on that we were able to make a location-based prototype and a relative to the user prototype.
+
+
+### Conclusion
+Though there are a variety of options, based on our current needs and options that work, the best AR technique for right now is AR.js. It is the only one out of our options that works, despite our research saying it is not user-friendly to work with. We experienced that during the start-up phase, however once we were able to get something to show, it was relatively easy to work with. It is free, online so it is widely available as long as your phone allows for AR and allows for easy integration into a web application.
+
+Our version is best described as Markerless AR, and could be specified as Location-based although it doesn't fit the official description. If React or Unity work, it might be possible to create a downloadable application through them, however for now the AR.js application functions on both laptops and phones which is how we can make it the most accessible currently. 
+
 <div style="page-break-after: always;"></div>  
 
 ## 3. Artificial Intelligence  
@@ -247,3 +286,13 @@ Answer: How can the severity of city problems in Eindhoven be visualized using A
 17. Chong, T. J., Tang, X. J., Leng, C. H., Yogeswaran, M., Ng, O. E., & Chong, Y. Z. (2015). Sensor Technologies and Simultaneous Localization and Mapping (SLAM). _Procedia Computer Science_, _76_, 174–179. [https://doi.org/10.1016/j.procs.2015.12.336](https://doi.org/10.1016/j.procs.2015.12.336)^source17-resourcedoc
 18. Paucher, R., & Turk, M. (2010). Location-based augmented reality on mobile phones. _2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Workshops_, 9–16. [https://doi.org/10.1109/CVPRW.2010.5543249](https://doi.org/10.1109/CVPRW.2010.5543249)^source18-resourcedoc
 19. Behringer, R., Klinker, G., & Mizell, D. (1999). _Augmented Reality: Placing Artificial Objects in Real Scenes_. CRC Press. ^source19-resourcedoc
+20. _Create an AR game using Unity’s AR Foundation_. (n.d.). Google Codelabs. Retrieved 7 March 2023, from [https://codelabs.developers.google.com/arcore-unity-ar-foundation](https://codelabs.developers.google.com/arcore-unity-ar-foundation). ^source20-resourcedoc
+21. Indra M (Director). (2022, June 8). _Create an AR game using Unity’s AR Foundation (Car Driving) | Unity 2020 (Codelab Tutorial)_. [https://www.youtube.com/watch?v=-wWOktZCSX0](https://www.youtube.com/watch?v=-wWOktZCSX0) ^source21-resourcedoc
+22. _Aframe-react_. (2018, February 12). Npm. [https://www.npmjs.com/package/aframe-react](https://www.npmjs.com/package/aframe-react) ^source22-resourcedoc
+23. _React-native-unity-view-reinvented_. (2019, December 2). Npm. [https://www.npmjs.com/package/react-native-unity-view-reinvented](https://www.npmjs.com/package/react-native-unity-view-reinvented) ^source23-resourcedoc
+24. Madsen, A. S. (2023). _React-native-unity-view_ [C#]. [https://github.com/asmadsen/react-native-unity-view](https://github.com/asmadsen/react-native-unity-view) (Original work published 2019) ^source24-resourcedoc
+25. _@azesmway/react-native-unity_. (2022, November 25). Npm. [https://www.npmjs.com/package/@azesmway/react-native-unity](https://www.npmjs.com/package/@azesmway/react-native-unity) ^source25-resourcedoc
+26. _React-native-unity-play_. (2021, June 7). Npm. [https://www.npmjs.com/package/react-native-unity-play](https://www.npmjs.com/package/react-native-unity-play) ^source26-resourcedoc
+27. _React-unity-webgl_. (2023, January 6). Npm. [https://www.npmjs.com/package/react-unity-webgl](https://www.npmjs.com/package/react-unity-webgl) ^source27-resourcedoc
+28. _Image Tracking and Location-Based AR with A-Frame and AR.js 3_. (n.d.). A-Frame. Retrieved 20 April 2023, from [https://aframe.io](https://aframe.io) ^source28-resourcedoc
+29. _Build a Marker-Based AR App in 6 minutes | Source Code included | kandi tutorial_. (n.d.). Retrieved 20 April 2023, from [https://www.youtube.com/watch?v=iSIj2KFwVT4](https://www.youtube.com/watch?v=iSIj2KFwVT4) ^source29-resourcedoc

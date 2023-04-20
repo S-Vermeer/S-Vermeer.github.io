@@ -45,3 +45,12 @@ Another option was to use a proxy. However, at this rate, it would be better to 
 Another option was to use an extension to simulate the CORS being added. In this case, we used the Google Chrome extension [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related?hl=en). By default CORS is blocked for javascript APIs, which this feature unblocks on the browser it is installed on.
 
 By enabling this extension for our page, we could test whether this was definitely the actual error, instead of hiding a different error. In our case, we are now able to make GET requests without a CORS error. This means that it is the actual error, but it is no fix as it is just a workaround, we cannot ask our users to install this extension just to use our website.
+
+## Own API
+### Why
+Our own API functions as a kind of proxy between the front-end and the fine dust API. This means that we can use Python for the requests to the fine dust API, not triggering CORS, and either use the same origin or specify an allowed origin to use in our own API.
+
+It also means that in the future we can easily make requests to our AI model. 
+
+### Setup
+For this API, we pair it with a port, and have it run specifically on there. Then we use Flask to allow for easy referencing and processing REST requests. 

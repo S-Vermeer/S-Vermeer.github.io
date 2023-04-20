@@ -21,8 +21,10 @@ On Monday I tried to get requests to the API working by trying to execute python
 ##### Tuesday
 On tuesday I continued experimenting with CORS and after documenting some more and finding out that it could only be fixed by indirectly requesting the API through our own API, a proxy or such or by asking the creator to alter the API, I decided to create my own API. It was already quite clear at the start that to connect the AI model and the front-end I was going to need to make an API, but I hadn't started yet. Seeing as in my research on CORS I saw flash coming by a lot with ways to resolve CORS errors, and I looked into it and it looked simple enough, I decided to try and see whether I could get a simple API set up using Flask.
 
+I spent most of the afternoon working on getting the API working, and when it seemed to work, switching to docker so I would be able to host it on my own domain seeing as the ngrok had a 'failsafe' making it hard to request from there. It needed approval to continue, which didn't work for us so docker it is. At the end of the day it was able to run on docker with localhost (python http.server), and worked on Chrome. Firefox is still giving a CORS error, however that will probably be resolved by transferring to the same domain name.
+
 ##### Wednesday
-{xxxx}
+On Wednesday I finished creating a public repository on docker with our two images, with the goal that it can be connected to a domain and will work on both firefox and chrome. I also worked on updating the Software Architecture document as I now had better info on how my system worked and could actually visualize it.
 
 ##### Thursday
 {xxxx}
