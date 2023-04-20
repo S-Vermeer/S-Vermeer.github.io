@@ -55,10 +55,9 @@ The application that is described in this document is an application where you c
 
 ## 1. Contexts
 ### 1.1 C1
-System context - Abstract Flow
-
+![[Pasted image 20230420160730.png]]
 ### 1.2 C2
-Containers and Tech choices (Ex. microservices approach)
+![[Pasted image 20230420160714.png]]
 
 ### 1.3 C3
 Components incl interfaces etc

@@ -27,7 +27,7 @@ I spent most of the afternoon working on getting the API working, and when it se
 On Wednesday I finished creating a public repository on docker with our two images, with the goal that it can be connected to a domain and will work on both firefox and chrome. I also worked on updating the Software Architecture document as I now had better info on how my system worked and could actually visualize it.
 
 ##### Thursday
-{xxxx}
+On Thursday I reran a few graphs so they could be observed better, worked on updating the research document to have the AR section be supported by POC's and worked on C1 and C2 contexts. C3 and C4 are not currently needed, as the system is not developed far enough.
 
 ##### Friday
 {xxxx}
