@@ -27,6 +27,10 @@ In the evening, my brother was able to help me further so we could set up the cd
 ##### Tuesday
 On Tuesday I experimented with CORS, and after a lot of troubleshooting (hours and hours), it worked. We now have connection with the API, currently still a static call but eventually we will have it linked to the location of the user. Based on that the PM1 concentration amount is spawned in models, however this will be updated later.
 
+After that I tried to get the CI/CD pipeline working again, and after a while and a lot of troubleshooting I got it to work. With a whole lot of commits in a seperate branch, I got it to work so it builds and pushes the image, and pulls the image, removes the previous container and deploys the new one.
+
+I still need to add code reviews.
+
 ##### Wednesday
 {xxxx}
 
