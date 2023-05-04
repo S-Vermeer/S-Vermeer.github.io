@@ -32,10 +32,10 @@ After that I tried to get the CI/CD pipeline working again, and after a while an
 I still need to add code reviews.
 
 ##### Wednesday
-{xxxx}
+On Wednesday I worked on trying out different models and had a meeting with [[26-4-2023 Simona]]. I also checked in with Frank.
 
 ##### Thursday
-{xxxx}
+Thursday was a nationwide day off
 
 ##### Friday
-{xxxx}
+Friday was a day with limited productivity, as the holidays were about to begin. I did work a little bit on the weight of fine dust, but essentially, not much happened.
