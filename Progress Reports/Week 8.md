@@ -3,14 +3,14 @@
 ### General info
 **Week**: 8
 **Phase**: (2 - Research and Experiment +) 3 - Component Development
-**Contacted**: {XXXX}  
+**Contacted**: Frank, Simona  
 **Document(s) handed in**: {XXX}  
 
 ##### Biggest accomplishment
-xxxxx
+Displaying the AR relative to the user in an iframe.
 
 ##### Biggest setback
-xxxx
+It has been a while since I used CSS and JQuery, so it took longer than it should have to use these. 
 
 ### Daily progress
 ![Test Image](basic-weekly-template.png)

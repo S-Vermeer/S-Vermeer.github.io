@@ -2,15 +2,15 @@
 
 ### General info
 **Week**: 10  
-**Phase**: {XXXX}  
-**Contacted**: {XXXX}  
+**Phase**: 3 - Component Development  
+**Contacted**: Simona  
 **Document(s) handed in**: {XXX}  
 
 ##### Biggest accomplishment
-xxxxx
+Setting up the docker images so the images are linked to the repositories I use.
 
 ##### Biggest setback
-xxxx
+I spent a lot of time on CORS, and though I documented it and learned from it, it still is quite a lot of time spent trying to figure it out.
 
 ### Daily progress
 ![Test Image](basic-weekly-template.png)
@@ -30,4 +30,4 @@ On Wednesday I finished creating a public repository on docker with our two imag
 On Thursday I reran a few graphs so they could be observed better, worked on updating the research document to have the AR section be supported by POC's and worked on C1 and C2 contexts. C3 and C4 are not currently needed, as the system is not developed far enough.
 
 ##### Friday
-{xxxx}
+I researched how much fine dust weighed, I didn't document much yet as it was mostly reading but I went through several research papers trying to find an answer. 

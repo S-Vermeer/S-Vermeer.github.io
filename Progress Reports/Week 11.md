@@ -1,16 +1,16 @@
-# Progress Report - Week X
+# Progress Report - Week 11
 
 ### General info
 **Week**: 11
-**Phase**: {XXXX}  
-**Contacted**: {XXXX}  
+**Phase**: 3 - Component Development  
+**Contacted**: Bart, Simona, Frank
 **Document(s) handed in**: {XXX}  
 
 ##### Biggest accomplishment
-xxxxx
+I managed to get my pipeline deployed for the front-end using docker, so now if I want I can automatically update the front-end, create a new image and push it. It is also now on a public domain and CORS is fixed, so it is accessible to everyone that can display AR on their phone.
 
 ##### Biggest setback
-xxxx
+Due to a national holiday and a holiday coming up I wasn't as productive as I would have liked. I was also struggling quite a bit with questions that I couldn't get answers to until I spoke with Simona on Wednesday.
 
 ### Daily progress
 ![Test Image](basic-weekly-template.png)

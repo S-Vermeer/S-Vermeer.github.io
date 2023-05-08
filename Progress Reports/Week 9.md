@@ -2,15 +2,15 @@
 
 ### General info
 **Week**: 9  
-**Phase**: {XXXX}  
-**Contacted**: {XXXX}  
+**Phase**: Phase 3 - Component Development  
+**Contacted**: Simona, Jean-Paul
 **Document(s) handed in**: {XXX}  
 
 ##### Biggest accomplishment
-xxxxx
+The extremely positive feedback I received from Simona and my progress with interactive AR.
 
 ##### Biggest setback
-xxxx
+Javascript not allowing direct requests to the API
 
 ### Daily progress
 ![Test Image](basic-weekly-template.png)
