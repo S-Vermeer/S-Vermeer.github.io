@@ -21,7 +21,7 @@ During the holiday I worked a bit on the meeting wtih TNO, a little bit of model
 On Monday I had the meeting with TNO at 13.00, and had to apply for my minor at 9.00. Between that, stressing about suddenly having to contact the exam commission and travelling times I did not have a lot of room to work on the project. I did update my planning a bit so I knew what to do as soon as I could start working again.
 
 ##### Tuesday
-{xxxx}
+On Tuesday I mostly worked on integrating SonarQube into my CI/CD pipeline and adding a CI/CD pipeline to the API so I could do automatic code reviews. This took a while as I had to have a local instance of sonarqube running and had to open that up on the server as well as setting up another runner for the new repository and all the troubleshooting that came with.
 
 ##### Wednesday
 {xxxx}

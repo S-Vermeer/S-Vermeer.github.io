@@ -29,5 +29,6 @@ Oplevering
 	- Adviezen?
 - Eindoplevering, wanneer?
 - Oplevering 1 juni: wat highlighten? Resultaten, onderzoek, AR, AI? Is het een sales pitch of een beschrijving van mijn onderzoek etc.
+- Code reviews: laten zien + welke 'waardes' etc.
 
 ---
