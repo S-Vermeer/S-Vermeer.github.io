@@ -24,10 +24,10 @@ On Monday I had the meeting with TNO at 13.00, and had to apply for my minor at 
 On Tuesday I mostly worked on integrating SonarQube into my CI/CD pipeline and adding a CI/CD pipeline to the API so I could do automatic code reviews. This took a while as I had to have a local instance of sonarqube running and had to open that up on the server as well as setting up another runner for the new repository and all the troubleshooting that came with.
 
 ##### Wednesday
-{xxxx}
+On Wednesday I had the knowledge sharing session, a quick check in with Frank and a meeting with [[10-5-23 Simona]]. I also worked on trying to reposition the particles so all sizes were visible, made a few 3d models to represent different particles, and worked on getting the location of the user so it could later be used to get the information of the closest location.
 
 ##### Thursday
-{xxxx}
+On Thursday I worked on the AR part to create a grid screen and to make it ready for the XR event. I also adjusted my poster so I could use it in the XR event.
 
 ##### Friday
 {xxxx}
