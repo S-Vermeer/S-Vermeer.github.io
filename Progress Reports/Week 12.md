@@ -30,4 +30,5 @@ On Wednesday I had the knowledge sharing session, a quick check in with Frank an
 On Thursday I worked on the AR part to create a grid screen and to make it ready for the XR event. I also adjusted my poster so I could use it in the XR event.
 
 ##### Friday
-{xxxx}
+On Friday was the XR event, however it was mostly VR and there weren't many visitors to our stand so I couldn't really validate properly. I did note down some things in [[XR Event 12-5-23]], but it wasn't as productive as I'd hoped.
+
