@@ -44,7 +44,7 @@ Om te beginnen alleen de laatse maand
 Aanpassen naar een 'scherm' waar een 'snapshot' van de PM's in te zien zijn. Ex een grid voor positioneren waar zeker een PM10 in past en daarmee random de hoeveelheden laten zien.
 
 vrijdag 16 juni: hele dag
-dinsdag 20 juni: 14:00-16:00
+dinsdag 20 juni: 14:00-16:00 
 woensdag 21 juni: 9-12:30
 donderdag 22 juni ???
 vrijdag 23 juni hele dag.
