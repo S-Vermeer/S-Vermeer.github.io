@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Process and Result
+title: Reference
 permalink: /reference/
 nav_order: 4
 has_children: true
