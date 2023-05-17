@@ -3,6 +3,7 @@ layout: page
 title: Personas
 permalink: /reference/additional-research/personas
 parent: Additional Research
+grand_parent: Reference
 ---
 The initial personas are based on the visions of the stakeholder and the observations from the expert. 
 

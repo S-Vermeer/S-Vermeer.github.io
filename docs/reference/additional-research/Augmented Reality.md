@@ -3,6 +3,7 @@ layout: page
 title: Augmented Reality
 permalink: /reference/additional-research/augmented-reality
 parent: Additional Research
+grand_parent: Reference
 ---
 *Definition*:
 A real-time direct or indirect view of a physical real-world environment that has been enhanced/augmented by adding virtual computer-generated information to it [1] {Augmented Reality: An Overview Julie Carmigniani and Borko Furh}. 
