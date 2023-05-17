@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eindhoven
-permalink: /reference/additional-research/eindhoven
+permalink: /additional-research/eindhoven
 parent: Additional Research
 grand_parent: Reference
 ---

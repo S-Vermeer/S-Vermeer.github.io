@@ -1,7 +1,7 @@
 ---
 layout: page
 title: City Problems
-permalink: /reference/additional-research/city-problems
+permalink: /additional-research/city-problems
 parent: Additional Research
 grand_parent: Reference
 ---

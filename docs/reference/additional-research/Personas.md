@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personas
-permalink: /reference/additional-research/personas
+permalink: /additional-research/personas
 parent: Additional Research
 grand_parent: Reference
 ---

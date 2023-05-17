@@ -3,6 +3,7 @@ layout: page
 title: Software Architecture Documentation
 permalink: /documents/software-architecture-documentation
 parent: Documents
+grand_parent: Reference
 ---
 
 # City Digital Twin AR Zoom Lens - Software Architecture Documentation

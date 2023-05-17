@@ -3,6 +3,8 @@ layout: page
 title: Week 2
 permalink: /progress/week2
 parent: Progress
+grand_parent: Reference
+nav_order: 2
 ---
 # Progress Report - Week 2
 

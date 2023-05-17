@@ -3,6 +3,7 @@ layout: page
 title: Project Proposal
 permalink: /documents/project-proposal
 parent: Documents
+grand_parent: Reference
 ---
 
 # Goal and use of this document

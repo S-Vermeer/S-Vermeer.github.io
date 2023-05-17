@@ -3,6 +3,8 @@ layout: page
 title: Week 12
 permalink: /progress/week12
 parent: Progress
+grand_parent: Reference
+nav_order: 12
 ---
 # Progress Report - Week 12
 

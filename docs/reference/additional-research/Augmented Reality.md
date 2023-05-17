@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Augmented Reality
-permalink: /reference/additional-research/augmented-reality
+permalink: /additional-research/augmented-reality
 parent: Additional Research
 grand_parent: Reference
 ---

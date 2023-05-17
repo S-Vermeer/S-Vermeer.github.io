@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weight Fine Dust Particles
-permalink: /reference/additional-research/weight-fine-dust
+permalink: /additional-research/weight-fine-dust
 parent: Additional Research
 grand_parent: Reference
 ---
