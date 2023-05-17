@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personas
-permalink: /additional-research/personas
+permalink: /reference/additional-research/personas
 parent: Additional Research
 ---
 The initial personas are based on the visions of the stakeholder and the observations from the expert. 

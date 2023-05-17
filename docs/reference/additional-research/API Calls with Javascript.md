@@ -1,7 +1,7 @@
 ---
 layout: page
 title: API Calls with Javascript
-permalink: /additional-research/API-Javascript
+permalink: /reference/additional-research/API-Javascript
 parent: Additional Research
 ---
 

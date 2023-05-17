@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weight Fine Dust Particles
-permalink: /additional-research/weight-fine-dust
+permalink: /reference/additional-research/weight-fine-dust
 parent: Additional Research
 ---
 The API that we are using for our data is in the unit µg/m<sup>3</sup>. However, we need an amount, not a concentration so we know how many particles we need to display in our application. For this, we need to know how much fine dust particles weigh so we can determine how many particles there are relative to the concentration.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: City Problems
-permalink: /additional-research/city-problems
+permalink: /reference/additional-research/city-problems
 parent: Additional Research
 ---
 There are several problems that are being monitored in [[Eindhoven]]. In this chapter we will focus on the nature and climate based causes and effects that are causing problems in Eindhoven and their impacts.

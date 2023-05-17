@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eindhoven
-permalink: /additional-research/eindhoven
+permalink: /reference/additional-research/eindhoven
 parent: Additional Research
 ---
 - Fifth largest city in The Netherlands (89 km2) (Westerink et al.,

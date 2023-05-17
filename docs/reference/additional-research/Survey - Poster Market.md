@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survey Poster Market
-permalink: /additional-research/survey-poster-market
+permalink: /reference/additional-research/survey-poster-market
 parent: Additional Research
 ---
 **General**
