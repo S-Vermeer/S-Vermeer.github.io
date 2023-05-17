@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Documents
+parent: Reference
 has_children: true
 permalink: /documents/
 ---

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Additional Research
+parent: Reference
 has_children: true
-permalink: /additional-research/
+permalink: //additional-research/
 ---
 

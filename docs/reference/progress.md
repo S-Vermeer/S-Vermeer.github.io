@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Progress
+parent: Reference
 has_children: true
 permalink: /progress/
 ---
