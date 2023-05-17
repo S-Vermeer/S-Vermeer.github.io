@@ -1,3 +1,10 @@
+---
+layout: page
+title: Feedback report
+permalink: /documents/feedback-report
+parent: Documents
+---
+
 # City Digital Twin AR Zoom Lens - Feedback Report
 **_Fontys Lectorate High Tech Embedded Systems Eindhoven_**
 _Eindhoven_

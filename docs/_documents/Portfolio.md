@@ -1,3 +1,10 @@
+---
+layout: page
+title: Portfolio
+permalink: /documents/portfolio
+parent: Documents
+---
+
 # Portfolio - A(I)R Zoom Lens
 { TITLE PAGE }
 
