@@ -5,8 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: A(I)R Zoomlens
-#email: s.vermeer@student.fontys.nl
-description: A portfolio by Skyler Vermeer
+footer_content: A portfolio by Skyler Vermeer
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
