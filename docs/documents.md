@@ -1,9 +1,5 @@
 ---
-layout: page
+layout: default
 title: Documents
-permalink: /documents/
 has_children: true
 ---
-
-# Test
-blah
