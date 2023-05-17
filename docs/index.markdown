@@ -2,8 +2,12 @@
 layout: home
 title: Home
 ---
-# Home1
+# Introduction
+{ This the portfolio for xxxxx }
 
-## Welcome
-
-Test
+### Set-up
+{ Documents }
+{ Progress Reports }
+{ Additional, unofficial research }
+{ Meeting notes }
+{ Organization }
