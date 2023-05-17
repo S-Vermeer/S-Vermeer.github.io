@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+nav_order: 1
 ---
 # Introduction
 { This the portfolio for xxxxx }
