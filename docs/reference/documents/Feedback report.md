@@ -78,8 +78,8 @@ clickable prototype. However, the goal of this was not to validate the user beha
 concepts of the application are clear. That is why it would be more of a 'clickable wireframe'.  
 
 The designs in question are:  
-![initial designs app1](/docs/assets/initial-designs-app1.png)
-![initial designs app2](/docs/assets/initial-designs-app2.png)
+![initial designs app1](/assets/initial-designs-app1.png)
+![initial designs app2](/assets/initial-designs-app2.png)
 
 ### Preparation
 
@@ -195,7 +195,7 @@ mentioned that they liked the concept and would like it on their own phone. Thei
 - Add icons to the permissions, so you can remove the text.
 - Add sliders to the permissions instead of the on/off buttons.
 
-<ins>AR tab</ins  
+<ins>AR tab</ins>  
 
 - Make it more intuitive, for example confidence is not clear, but accuracy would be better. Make low confidence
   more prominent, as it is a bad thing so more prominent red. You could also just make the text red, so it would fit
@@ -222,7 +222,7 @@ icons and move the sliders to the bottom.
 
 Based on that we can make some new designs:  
 
-![updated designs app](/docs/assets/adjusted-designs-app.png)   
+![updated designs app](/assets/adjusted-designs-app.png)   
 
 In this case, the info screen has a scroll functionality. The text was made bigger, a settings screen was added, icons and
 labels were added, and the permissions were replaced with icons and sliders. The sliders were all moved to the bottom of
@@ -269,7 +269,7 @@ During the testing of this prototype, we noticed that the requesting of the late
 the user experience. That is why for the expo we decided to use the closest location to the festival statically.
 
 At the time of the AI Expo, the prototype looked like this:
-![IT Festival Demo Visual](/docs/assets/it-festival-demo.png)
+![IT Festival Demo Visual](/assets/it-festival-demo.png)
 
 The application was publicly accessible on cdt.skylervermeer.nl. One person took a picture to be able to look at it
 when they got home, but nobody used this functionality during the expo. We also brought the AR accessible phone that
