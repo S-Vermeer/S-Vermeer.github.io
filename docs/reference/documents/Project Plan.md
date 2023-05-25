@@ -4,6 +4,7 @@ title: Project Plan
 permalink: /documents/project-plan
 parent: Documents
 grand_parent: Reference
+nav_order: 2
 ---
 
 # City Digital Twin AR Zoom Lens - Project Plan

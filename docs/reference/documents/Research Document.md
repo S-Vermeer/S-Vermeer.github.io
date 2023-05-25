@@ -4,6 +4,7 @@ title: Research Document
 permalink: /documents/research-document
 parent: Documents
 grand_parent: Reference
+nav_order: 3
 ---
 
 # City Digital Twin AR Zoom Lens - Research Document  
