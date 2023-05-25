@@ -250,7 +250,7 @@ we didn't know how much we would be able to accomplish, there wasn't anything su
 see what comments or questions we would get and work from there.
 
 At the time of the XR Event, the prototype looked like this:
-![XR Event Demo Visual](/docs/assets/xr-event-demo.png)
+![XR Event Demo Visual](/assets/xr-event-demo.png)
 
 It had AR functionality, displaying the real time data for a static location. The real time data was the concentration
 that the API provides. There were 3 models, spheres in red, green and blue for PM10, PM2.5 and PM1 that were sized to
