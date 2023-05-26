@@ -12,10 +12,10 @@ nav_order: 4
 **_Fontys Lectorate High Tech Embedded Systems Eindhoven_**  
 _Eindhoven_  
 
-| Date    | 27-02-2023     |
+| Date    | 26-05-2023     |
 |---------|----------------|
-| Version | 0.1.0          |
-| Status  | Layout         |
+| Version | 1.2.0          |
+| Status  | Finished Draft |
 | Author  | Skyler Vermeer |  
 
 ## Document History
@@ -38,11 +38,9 @@ _Eindhoven_
 
 ## Introduction
 
-The goal of this document is to depict the architecture of the application in detail, harbour the functional and
-non-functional requirements, and document decisions and maintenance.
+The goal of this document is to depict the architecture of the application in detail, document decisions and detail the steps for further maintenance.
 
-The application that is described in this document is an application where you can use augmented reality to zoom in on
-fine dust particles and see their impact in the future if trends continue.
+The application that is described in this document is an application where you can use augmented reality to zoom in on fine dust particles and see their impact in the future if trends continue.
 
 ## Table of Contents
 - [1. Contexts](#1-contexts)
@@ -230,25 +228,16 @@ the image from the docker and pushes it to a container on the new server.
 
 The following variables are used in both the front-end and the back-end repository.
 | Type | Key | Value | Protected | Masked |
-|:--------|:-----------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:----------|
+|:--------|:---------|:---------------------------------|:-------------|:----------|
 | Var | DOCKER_PASSWORD | Password for Docker Account | ✓ | ✗ |
-| Var |
-DOCKER_TLS_CERTDIR | ""                                                                                                                                                                                    |
-✗ | ✗ |
+| Var | DOCKER_TLS_CERTDIR | "" | ✗ | ✗ |
 | Var | DOCKER_USERNAME | Username for Docker account | ✓ | ✗ |
-| File | ID_RSA | The file that is needed to connect to the server through
-SSH. `-----BEGIN OPENSSH PRIVATE KEY----- A bunch of text-----END OPENSSH PRIVATE KEY-----` | ✓ | ✗ |
+| File | ID_RSA | The file that is needed to connect to the server through SSH. `-----BEGIN OPENSSH PRIVATE KEY----- A bunch of text-----END OPENSSH PRIVATE KEY-----` | ✓ | ✗ |
 | Var | SERVER_IP | The IP that the server is hosted on. Is used to connect to it through SSH | ✓ | ✓ |
-| Var | SERVER_USER | The user of the server that is going to be 'executing' the docker commands. I created a seperate
-one called deployer. | ✓ | ✓ |
-| Var | SONAR_HOST_URL | Host where SonarQube can host the dashboard. In my
-case&nbsp;[http://sonarqube.skylervermeer.nl](http://sonarqube.skylervermeer.nl)                                                                                        |
-✗ | ✗ |
-| Var | SONAR_TOKEN | Token for SonarQube. Can be obtained by creating an account, clicking on said account, tab
-security and inputting a name and selecting generate. | ✗ | ✓ |
-| Var | WEATHER_API_KEY | API key
-for&nbsp;[https://www.weatherapi.com/](https://www.weatherapi.com/)                                                                                                                                          |
-✗ | ✓ |
+| Var | SERVER_USER | The user of the server that is going to be 'executing' the docker commands. I created a seperate one called deployer. | ✓ | ✓ |
+| Var | SONAR_HOST_URL | Host where SonarQube can host the dashboard. In my case&nbsp;[http://sonarqube.skylervermeer.nl](http://sonarqube.skylervermeer.nl) | ✗ | ✗ |
+| Var | SONAR_TOKEN | Token for SonarQube. Can be obtained by creating an account, clicking on said account, tab security and inputting a name and selecting generate. | ✗ | ✓ |
+| Var | WEATHER_API_KEY | API key for&nbsp;[https://www.weatherapi.com/](https://www.weatherapi.com/) | ✗ | ✓ |
 
 Seeing as you are probably not allowed to push to a private docker repository using different credentials than the
 owner, you might need to create one yourself and change the pull and push requests to {your username}/cdt-air-zoomlens:
