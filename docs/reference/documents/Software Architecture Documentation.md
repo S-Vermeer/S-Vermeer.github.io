@@ -10,7 +10,7 @@ nav_order: 4
 # City Digital Twin AR Zoom Lens - Software Architecture Documentation
 
 **_Fontys Lectorate High Tech Embedded Systems Eindhoven_**  
-_Eindhoven_  
+_Eindhoven_
 
 | Date    | 26-05-2023     |
 |---------|----------------|
@@ -38,11 +38,14 @@ _Eindhoven_
 
 ## Introduction
 
-The goal of this document is to depict the architecture of the application in detail, document decisions and detail the steps for further maintenance.
+The goal of this document is to depict the architecture of the application in detail, document decisions and detail the
+steps for further maintenance.
 
-The application that is described in this document is an application where you can use augmented reality to zoom in on fine dust particles and see their impact in the future if trends continue.
+The application that is described in this document is an application where you can use augmented reality to zoom in on
+fine dust particles and see their impact in the future if trends continue.
 
 ## Table of Contents
+
 - [1. Contexts](#1-contexts)
     - [1.1 C1](#11-c1)
     - [1.1 C2](#12-c2)
@@ -61,11 +64,12 @@ The application that is described in this document is an application where you c
 ## 1. Contexts
 
 ### 1.1 C1
+
 ![C1 Context](/assets/C1-Context.png)
 
 ### 1.2 C2
-![C2 Context](/assets/C2-Context.png)
 
+![C2 Context](/assets/C2-Context.png)
 
 ## 2. Data Storage
 
@@ -221,23 +225,25 @@ However, seeing as the docker containers are on my private server, you won't be 
 
 ### 4.3 Transferring the Deployed Application
 
-Eventually, the application should be deployed somewhere other than [cdt.skylervermeer.nl](https://cdt.skylervermeer.nl). Both because it should be on a
+Eventually, the application should be deployed somewhere other
+than [cdt.skylervermeer.nl](https://cdt.skylervermeer.nl). Both because it should be on a
 domain that is easier to find, but also because it is best if developers can see the logs. It should be able to be
 transferred simply by updating the variables for the CI/CD pipeline in the repository. This way, the application pulls
 the image from the docker and pushes it to a container on the new server.
 
 The following variables are used in both the front-end and the back-end repository.
-| Type | Key | Value | Protected | Masked |
-|:--------|:---------|:---------------------------------|:-------------|:----------|
-| Var | DOCKER_PASSWORD | Password for Docker Account | ✓ | ✗ |
-| Var | DOCKER_TLS_CERTDIR | "" | ✗ | ✗ |
-| Var | DOCKER_USERNAME | Username for Docker account | ✓ | ✗ |
-| File | ID_RSA | The file that is needed to connect to the server through SSH. `-----BEGIN OPENSSH PRIVATE KEY----- A bunch of text-----END OPENSSH PRIVATE KEY-----` | ✓ | ✗ |
-| Var | SERVER_IP | The IP that the server is hosted on. Is used to connect to it through SSH | ✓ | ✓ |
-| Var | SERVER_USER | The user of the server that is going to be 'executing' the docker commands. I created a seperate one called deployer. | ✓ | ✓ |
-| Var | SONAR_HOST_URL | Host where SonarQube can host the dashboard. In my case&nbsp;[http://sonarqube.skylervermeer.nl](http://sonarqube.skylervermeer.nl) | ✗ | ✗ |
-| Var | SONAR_TOKEN | Token for SonarQube. Can be obtained by creating an account, clicking on said account, tab security and inputting a name and selecting generate. | ✗ | ✓ |
-| Var | WEATHER_API_KEY | API key for&nbsp;[https://www.weatherapi.com/](https://www.weatherapi.com/) | ✗ | ✓ |
+
+| Type | Key                | Value                                                                                                                                                | Protected | Masked |  
+|:-----|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:-------|  
+| Var  | DOCKER_PASSWORD    | Password for Docker Account                                                                                                                          | ✓         | ✗      |  
+| Var  | DOCKER_TLS_CERTDIR | ""                                                                                                                                                   | ✗         | ✗      |  
+| Var  | DOCKER_USERNAME    | Username for Docker account                                                                                                                          | ✓         | ✗      |  
+| File | ID_RSA             | The file that is needed to connect to the server through SSH. `-----BEGIN OPENSSH PRIVATE KEY----- A bunch of text-----END OPENSSH PRIVATE KEY-----` | ✓         | ✗      |  
+| Var  | SERVER_IP          | The IP that the server is hosted on. Is used to connect to it through SSH                                                                            | ✓         | ✓      |  
+| Var  | SERVER_USER        | The user of the server that is going to be 'executing' the docker commands. I created a seperate one called deployer.                                | ✓         | ✓      |  
+| Var  | SONAR_HOST_URL     | Host where SonarQube can host the dashboard. In my case&nbsp;[http://sonarqube.skylervermeer.nl](http://sonarqube.skylervermeer.nl)                  | ✗         | ✗      |  
+| Var  | SONAR_TOKEN        | Token for SonarQube. Can be obtained by creating an account, clicking on said account, tab security and inputting a name and selecting generate.     | ✗         | ✓      |  
+| Var  | WEATHER_API_KEY    | API key for&nbsp;[https://www.weatherapi.com/](https://www.weatherapi.com/)                                                                          | ✗         | ✓      |
 
 Seeing as you are probably not allowed to push to a private docker repository using different credentials than the
 owner, you might need to create one yourself and change the pull and push requests to {your username}/cdt-air-zoomlens:
