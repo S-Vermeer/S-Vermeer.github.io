@@ -311,12 +311,35 @@ complete analysis.
 
 ##### Design
 
-{Research doc}
+I designed an application, sketching, then showing it to semester 6 Media students and improving it. With my current
+knowledge level, experience and scope, these are quite good designs. I have gone through several iterations, tested
+them, and verified them with my company coach, users and design experts. I could have focused more on the designs, only
+creating a prototype, but seeing as I also needed to incorporate AR and AI, with the current scope this level of design
+is optimal. I have already advised future designers based on the feedback that was received so they could focus on it
+completely, not having to worry about the integration of the different components or using mock data but simply
+improving the front-end designs.
+
+I also designed the software architecture that has a front-end, a back-end that uses an API and that connects to the
+external API's such as from TNO. There was no existing system, but the way I built this system it is scalable and can
+integrate new components quickly. It isn't the optimal system, as a second storage system is most likely needed, but it
+is a flexible, scalable system that is easy to use and continue with.
 
 ##### Realize
 
-{All of em}
-{IT Festival, XR Event}
+In my Feedback Report I have shown several demo's of the realized prototype, and the feedback I have obtained on it. It
+is not complete, but in my Advice Report I have also detailed aspects that still need to be done and how it can be done.
+The front-end can be found at [cdt.skylervermeer.nl](cdt.skylervermeer.nl) and under the
+subdomain [cdt-api.skylervermeer.nl](cdt-api.skylervermeer.nl) the API is hosted.
+
+Due to the XR event being a deadline for an integrated AR component, and the IT festival being the deadline for the
+integrated AI component the application was fully realized on May 23rd. The scope of the project was completed, though
+the exact interpretation of the scope, the planning so to say, was updated throughout the semester. The project was
+realized, and documented fully in such a way that students could easily continue the project simply by reading the
+documentation.
+
+I am proud that I was able to complete the project in such a way that there is a functional product with full potential
+for continuance including the research to back up the choices. This is something that I often struggle with, finding a
+proper point to stop. The fact that I managed to do it this early in the semester is admirable.
 
 ##### Advise
 
