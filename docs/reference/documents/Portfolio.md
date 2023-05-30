@@ -242,12 +242,89 @@ What do I recommend
 You carry out the professional duties on a junior bachelor level resulting in professional products in line with the
 IT-area you are working in.
 
-{All or a subset of the activities Analysis, Design, Realize, Advise, Manage&Control}
+In the section below I will detail which products I delivered and how they relate to the HBO-i contexts Analysis,
+Design, Realize, Advise and Manage&Control
+
 {Show professional products + ex. IT festival}
 
-##### Document
+##### Analysis
 
-xxxx
+A lot of this project was analysis. There was a lot of literature research and data analysis. Essentially, the project
+was analysing the problem and advising on the solution based on a prototype.
+
+For this section I will be focusing on the Research Document and the EDA. These are the two documents that display the
+Analysis component the most. This doesn't mean that there were no other analyses, but these were the most important
+ones.
+
+The first aspect I analysed were the problems in Eindhoven. This analysis was based around the problems that were on
+the [Eindhoven Open Data](https://data.eindhoven.nl/pages/home/) portal, and connecting these to their origins:
+Population Growth and Urban Growth. Using Literature Analysis I managed to make a comprehensive analysis of the problems
+and using SWOT I was able to choose a problem to scope the project with. My company coach thought that I made a clear,
+useful and educational overview of the city problems and agreed that I made it clear why I chose Fine
+Dust. ![Feedback Simona Research Document 27 Feb](/assets/feedback-simona-27-2-rd.png). Of course, I also processed the
+feedback about the structure for 1.2. I believe that I did an extremely good job at this analysis. Of course, not
+everyone will be able to comprehend the research. However, anyone who is working on the project will be up to speed on
+the different problems, their origins, why it is a problem and why we chose fine dust. It uses multiple techniques,
+literature research, expert interviews and SWOT analysis, and is still properly scoped.
+
+For the visualization aspect, aside from the designs I also researched Augmented Reality, analysed the different methods
+and frameworks to advice on the best one. For this, I scoped the techniques and frameworks using
+the ![research of Aytaç Sarkmaz](https://itouchi.github.io/). After I did this analysis, I moved towards testing my
+preferred methods. The practical research revealed that I needed to re-analyse as the advice from the initial analysis
+wasn't working. I believe I could have been more concise with my research, as it didn't need as much time spent on it.
+However, with the time that was spent on it, I believe I gave a clear overview of our choices and what we based our
+decisions on. Essentially, it was a bigger analysis than needed but the content is up to standards.
+
+{analysis user predictions}
+{EDA in Research Doc}
+
+The Exploratory Data Analysis was a feat in itself. Though it isn't up to my usual standards of an EDA, a detailed,
+transparent, reproducible analysis on several levels of the data, this had a valid reason. Due to the inconsistencies in
+the data from TNO, we needed to shift our focus to the report that TNO made on this same data. It is always good to
+analyse the data yourself, but after our findings weren't consistent with our theoretical knowledge we decided to
+compare it to the report of TNO. This revealed even more inconsistencies which shifted the focus of our project towards
+trying to figure out what inconsistencies we could find and discuss them with TNO. Initially we analysed the raw data of
+a single location. This revealed some long periods of time when there was no data recorded and a few spikes. Between
+PM2.5 and PM1 there was limited difference visible in comparison to PM10. After a basic analysis of a single location,
+we decided to combine the locations to see if we can observe patterns from there. Here we also find some irregularities
+so we decided to pivot towards comparing it to the TNO report. This analysis of the TNO report was a valuable addition
+to both the City Digital Twin project, our expert Jean-Paul and TNO itself. For the CDT project, it was useful as it
+showed irregularities in otherwise trusted data. Jean-Paul is part of the maintenance of the network and they were
+unaware of the inconsistencies of the TNO API, whether they were a problem at sensor level or API level. For TNO it was
+interesting as they too were unaware that there were problems within the API, as well as with the location data that was
+shared online. The analysis isn't perfect, but it was mainly meant to be a quick way of communication. Simona also noted
+that this EDA was good and that I didn't need to work on reordering, improving and expanding it. If I had more time, I
+would have highlighted the differences between the airport, urban and agricultural groups. I would also have reevaluated
+the data quality after the insights from TNO and prepared the data in such a way that the data from TNO only is the
+correct data. A heatmap of the different locations would also be an interesting visualization. All in all there are
+plenty of ways the EDA could have been expanded, but within the time scope of the project, this is the final result. It
+is a valued analysis of the data, including a comparison to the TNO report.
+
+Based on this analysis we contacted TNO and after a meeting we focused on modelling. Here there was an analysis as well,
+which model was the best fit for the project. For this we analysed ARIMA, ETS, PROPHET, SNAIVE, Seasonal ARIMA and
+Polynomial features. I did this based on a previous project from semester 4 which also uses time series. The Polynomial
+Features were added on advice of Simona. The selection of different models is extensive, however the descriptions and
+annotations of the results are minimal. The modelling analysis could have been expanded with different levels of
+grouping, such as every hour, every two hours, short-term predictions, long-term predictions and the likes. The model
+that is currently there is good and functions as intended and it is clear why it is chosen. However, it is by no means a
+complete analysis.
+
+##### Design
+
+{Research doc}
+
+##### Realize
+
+{All of em}
+{IT Festival, XR Event}
+
+##### Advise
+
+{Advise Report}
+
+##### Manage & Control
+
+{Software Architecture}
 
 #### Situation-orientation
 
