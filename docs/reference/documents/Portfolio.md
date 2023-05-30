@@ -269,7 +269,7 @@ literature research, expert interviews and SWOT analysis, and is still properly 
 
 For the visualization aspect, aside from the designs I also researched Augmented Reality, analysed the different methods
 and frameworks to advice on the best one. For this, I scoped the techniques and frameworks using
-the ![research of Aytaç Sarkmaz](https://itouchi.github.io/). After I did this analysis, I moved towards testing my
+the [research of Aytaç Sarkmaz](https://itouchi.github.io/). After I did this analysis, I moved towards testing my
 preferred methods. The practical research revealed that I needed to re-analyse as the advice from the initial analysis
 wasn't working. I believe I could have been more concise with my research, as it didn't need as much time spent on it.
 However, with the time that was spent on it, I believe I gave a clear overview of our choices and what we based our
