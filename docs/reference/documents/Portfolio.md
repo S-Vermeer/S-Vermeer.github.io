@@ -369,12 +369,28 @@ whether the pipeline succeeds.
 
 #### Situation-orientation
 
-You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the
-project and company.
+There is no doubt whether I delivered relevant results for the project and company. Though I wasn't able to create a
+fully functional application, all my research and insights and current progress are highly valuable to the City Digital
+Twins project.
 
-{You work in a methodological and structured way, adapted to the processes and way of working of the company}
-{you are embedded in an IT environment and work on a given IT problem with multiple stakeholders}
-{Link to previous achievements or smth / why are these results relevant to the company}
+The research in itself, on the city problems in Eindhoven is extensive and can be used for future projects that might
+use a different domain and have different objectives. The same goes for my research on AR.
+
+As for the data aspect, the data I scraped was used by Simona in a research paper, and my research found inconsistencies
+in the API from TNO, which is valuable to our expert, TNO and future and past users of the data.
+
+I used my previous knowledge in AI to pick time series models and tuned them until there was a model that worked. This
+is something that had not yet been done within other projects on fine dust.
+
+This all was done within the Fontys Lectorate, where I was almost daily on location, more than was required. Fontys
+Lectorate focuses on applied research and the sharing of knowledge. Not only did I use applied research for my
+application, I also shared knowledge at several layers of the project. During the knowledge sharing sessions I shared
+valuable information, asked insightful questions and provided meaningful feedback to my colleagues. I also shared the
+project during the XR event, IT Festival and CDT presentation.
+
+I worked in the environment of the City Digital Twin Projects, and had the company, the expert and the users as
+stakeholders. Using my portfolio I created a way for the project to be continued and expand the City Digital Twin
+Projects knowledge.
 
 ##### Document
 
