@@ -401,20 +401,63 @@ how I was in control of all aspects of the project and managed them efficiently.
 
 {Insert some decisions, trello etc}
 
-##### Document
-
-xxxx
-
 #### Investigative Problem Solving
 
-You take a critical look at your project from different perspectives, identify problems, find an effective approach and
-arrive at appropriate solutions.
+During this project I had to shift my focus at several points and had to do my best to not get lost trying to solve a
+problem and abandoning the goal.
 
-{Show where I had problems, how I solved them, critical look etc}
+The first problem I encountered was when choosing the focus of the project. This needed to be researched which I did
+while making the project plan. To ensure that I didn't spend too much time on this I decided to spend two weeks on it,
+with the second week deciding the topic during a meeting with Simona. This allowed me to scope, still spend enough time
+on it as it was the foundation of the project but make an educated choice within a reasonable timeframe. It also helped
+that we already had the scope of using the Eindhoven Open Data.
 
-##### Document
+Then we had the aspect of Augmented Reality. Based on my literary research the options were React, Unity integrated into
+React, and Aframe combined with AR.js. Despite my best efforts I didn't manage to make any prototypes work except for
+the Aframe and AR.js combination. I followed tutorials, asked Simona for help and tried out multiple options. Simona
+suggested I contact Bernd-Jan, who showed me his prototype based on which I could make my own and helped me get an
+appropriate phone from the ISSD so problems I encountered were most likely related to the software instead of the
+hardware. So by communicating with my company coach, asking for help and learning when to quit I managed to get a
+working Augmented Reality component. Arguably, I could have stopped experimenting with the others earlier, however the
+theoretical research indicated that those were a better fit and Aframe and AR.js were more difficult to work with so I
+wanted to put a little extra into trying to make the initial best fit work.
 
-xxxx
+The data was a problem in itself. The gathering of the data took quite long. Just under 50 locations needed to be
+scraped, the API didn't like the constant requests and crashed multiple times, and in general I could have made better
+choices such as only scraping one or a few locations. Alternatively, I could have looked into a desktop computer from
+school instead of the laptop that I had to travel with. Luckily the holiday covered most of this period, and I managed
+to do some things while the data was scraping, but this was a time-intensive task that could have started smaller.
+
+The analysing of the data was also a problem in and of itself. There wasn't much data aside from the measurements, so
+not a lot of new information could be gathered from it, aside from means, the data quality and some correlations between
+the locations. However, seeing as I wasn't seeing the trends that the expert had confirmed to me there were, I asked for
+help and Simona also took a look. This lead us towards the 2021 TNO report about the sensors. I started comparing their
+results with my own, as they should be using the same data. Technically they were, however they took a few additional
+steps such as only considering data if it was active during 75% of a timeframe (so 9 months out of a year, 75% of
+quartiles etc). Their visualizations were also grouped by the mean per hour. This still didn't account for a lot of the
+differences, so we contacted our expert and later TNO for an appointment. Based on this appointment we clarified some of
+our own errors or oversights, and we uncovered some errors from TNO that they were unaware of.
+
+Meanwhile I was also struggling with modelling. Most of my time series models were drawing straight lines, and even
+those that came somewhat close, only came close for short-term predictions. Based on the meeting with TNO, and our
+findings we decided to add weather data. This was only possible within the prophet model. This gave good results,
+especially when limiting the predictions to only a few hours into the future. This did require us to continuously
+request the most recent data, but overall it gave an acceptable model.
+
+Finally, the deployment. To be able to share it with the outside world, I needed a way to deploy the application. For
+this, I used docker to host them. However, I soon encountered CORS errors. After a lot of troubleshooting, trial and
+error and research into CORS, I decided to simply move the requests to the back-end, as CORS wouldn't allow the requests
+from the front-end. That is when I decided to set up an API, as I most likely would have had to either way to connect
+the model to the front-end. After connecting it to my own domain and running it using docker, I was able to use it as a
+trusted domain. However, the CORS errors only went away on Google Chrome. Firefox was still giving errors. This was
+because I needed to add HTTPS to the application.
+
+Once I did this, using LetsEncrypt, I started focussing on a CI/CD pipeline as from now on any changes would have to be
+pushed to the repository to update. For this I needed runners but git.fhict.nl didn't have any. That is why I also set
+some up on my own server, where the docker containers were also running. To get this up and running, especially since we
+were connecting to an external server, took a lot of effort and experimenting, but with determination I was able to set
+up the runners and the CI/CD pipeline for the front-end and back-end, including code reviews using SonarQube. This
+allowed me to automatically update my application and thus work more efficiently.
 
 #### Personal Leadership
 
