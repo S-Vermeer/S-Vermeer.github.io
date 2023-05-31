@@ -392,16 +392,14 @@ I worked in the environment of the City Digital Twin Projects, and had the compa
 stakeholders. Using my portfolio I created a way for the project to be continued and expand the City Digital Twin
 Projects knowledge.
 
-##### Document
-
-xxxx
-
 #### Future-Oriented Organisation
 
-You explore the organisational context of your project, make business, sustainable and ethical considerations and manage
-all aspects of the execution of the project.
+This project was made for future development and is aimed at improving the awareness around Fine Dust. It touches upon
+several sustainable development goals, and throughout the decision-making process several aspects were considered. In
+the sections' organization, the progress rapports and in the ways that the project is prepared for handover it is clear
+how I was in control of all aspects of the project and managed them efficiently.
 
-{Project plan, decision making, managing}
+{Insert some decisions, trello etc}
 
 ##### Document
 
