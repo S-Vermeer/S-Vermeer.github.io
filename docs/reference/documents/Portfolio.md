@@ -343,11 +343,29 @@ proper point to stop. The fact that I managed to do it this early in the semeste
 
 ##### Advise
 
-{Advise Report}
+Though I have advised smaller sections throughout the project, mostly during the conclusions of chapters, my main advise
+is visible in the Advice Report. In this report I advise future project members on how to continue the project, dividing
+it up into the sections research, design and functionality. I also have identified the student groups that would be a
+best fit for each subsection. I have done this advice based on conclusions of research, items that fell outside of the
+adjusted scope and acknowledging my own expertise while also identifying areas in the project that need to be improved.
+
+Alongside with that, I have also advised future project members in the Software Architecture Documentation on how they
+should proceed during development, initially using the current repository, then when a new server is set up transferring
+it to the new repository and server. This allows students to continue with the project with minimal effort.
 
 ##### Manage & Control
 
-{Software Architecture}
+For Manage & Control, I have detailed my process in the Software Architecture Documentation. In this document, I detail
+for the current contexts, the data, the CI/CD and for future development what steps I have taken and what steps other
+members might need to take. I have set up the project in such a way that it is easy to manage for me and easy to
+continue for future users. I am as transparent as possible and designed the project and application to be scalable. The
+biggest factor in this is the CI/CD pipeline. First, the image gets created based on (a directory in) the repository.
+Then SonarQube does a scan, and we can add 'requirements' to this scan, such as that it will fail and stop the pipeline
+if there are too many code smells. Then, the application gets pushed to the docker repository and to the server so it is
+automatically updated. This can be done by anyone who has permission to push to the repository. This helped me, as the
+project needs to be hosted on a server due to it needing HTTPS and CORS requiring a pre-determined domain. It allowed me
+to not have to worry about pushing and pulling the container, simply focussing on pushing the new commit and seeing
+whether the pipeline succeeds.
 
 #### Situation-orientation
 
