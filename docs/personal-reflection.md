@@ -7,7 +7,7 @@ nav_order: 4
 
 ## Personal Reflection
 
-#### Professional Duties
+### Professional Duties
 
 You carry out the professional duties on a junior bachelor level resulting in professional products in line with the
 IT-area you are working in.
@@ -17,7 +17,7 @@ Design, Realize, Advise and Manage&Control
 
 {Show professional products + ex. IT festival}
 
-##### Analysis
+#### Analysis
 
 A lot of this project was analysis. There was a lot of literature research and data analysis. Essentially, the project
 was analysing the problem and advising on the solution based on a prototype.
@@ -79,7 +79,7 @@ grouping, such as every hour, every two hours, short-term predictions, long-term
 that is currently there is good and functions as intended and it is clear why it is chosen. However, it is by no means a
 complete analysis.
 
-##### Design
+#### Design
 
 I designed an application, sketching, then showing it to semester 6 Media students and improving it. With my current
 knowledge level, experience and scope, these are quite good designs. I have gone through several iterations, tested
@@ -94,7 +94,7 @@ external API's such as from TNO. There was no existing system, but the way I bui
 integrate new components quickly. It isn't the optimal system, as a second storage system is most likely needed, but it
 is a flexible, scalable system that is easy to use and continue with.
 
-##### Realize
+#### Realize
 
 In my Feedback Report I have shown several demo's of the realized prototype, and the feedback I have obtained on it. It
 is not complete, but in my Advice Report I have also detailed aspects that still need to be done and how it can be done.
@@ -111,7 +111,7 @@ I am proud that I was able to complete the project in such a way that there is a
 for continuance including the research to back up the choices. This is something that I often struggle with, finding a
 proper point to stop. The fact that I managed to do it this early in the semester is admirable.
 
-##### Advise
+#### Advise
 
 Though I have advised smaller sections throughout the project, mostly during the conclusions of chapters, my main advise
 is visible in the Advice Report. In this report I advise future project members on how to continue the project, dividing
@@ -123,7 +123,7 @@ Alongside with that, I have also advised future project members in the Software 
 should proceed during development, initially using the current repository, then when a new server is set up transferring
 it to the new repository and server. This allows students to continue with the project with minimal effort.
 
-##### Manage & Control
+#### Manage & Control
 
 For Manage & Control, I have detailed my process in the Software Architecture Documentation. In this document, I detail
 for the current contexts, the data, the CI/CD and for future development what steps I have taken and what steps other
@@ -137,7 +137,7 @@ project needs to be hosted on a server due to it needing HTTPS and CORS requirin
 to not have to worry about pushing and pulling the container, simply focussing on pushing the new commit and seeing
 whether the pipeline succeeds.
 
-#### Situation-orientation
+### Situation-orientation
 
 There is no doubt whether I delivered relevant results for the project and company. Though I wasn't able to create a
 fully functional application, all my research and insights and current progress are highly valuable to the City Digital
@@ -162,7 +162,7 @@ I worked in the environment of the City Digital Twin Projects, and had the compa
 stakeholders. Using my portfolio I created a way for the project to be continued and expand the City Digital Twin
 Projects knowledge.
 
-#### Future-Oriented Organisation
+### Future-Oriented Organisation
 
 This project was made for future development and is aimed at improving the awareness around Fine Dust. It touches upon
 several sustainable development goals, and throughout the decision-making process several aspects were considered. In
@@ -171,7 +171,7 @@ how I was in control of all aspects of the project and managed them efficiently.
 
 {Insert some decisions, trello etc}
 
-#### Investigative Problem Solving
+### Investigative Problem Solving
 
 During this project I had to shift my focus at several points and had to do my best to not get lost trying to solve a
 problem and abandoning the goal.
@@ -229,7 +229,7 @@ were connecting to an external server, took a lot of effort and experimenting, b
 up the runners and the CI/CD pipeline for the front-end and back-end, including code reviews using SonarQube. This
 allowed me to automatically update my application and thus work more efficiently.
 
-#### Personal Leadership
+### Personal Leadership
 
 Throughout this semester I demonstrated my personal leadership by taking others with my in my own learning. Though I
 pushed to expand my knowledge in areas such as with Augmented Reality, I also tried asking for help from experts when
@@ -244,7 +244,7 @@ During these moments I also asked for feedback. By taking on multiple opportunit
 feedback from multiple perspectives I have shown that I am actively working on my personal and project development and
 towards being an IT professional.
 
-#### Targeted Interaction
+### Targeted Interaction
 
 Throughout this project I have communicated and collaborated with several partners and stakeholders. First of all there
 is my company coach, Simona, who is the owner of the City Digital Twin project and the main stakeholder of the project.
@@ -279,9 +279,9 @@ doing on multiple levels but based on the feedback I managed to make this work. 
 event there was some interaction, but mostly with people that are working on similar areas. This, of course, is also
 valuable information.
 
-#### Personal Goals
+### Personal Goals
 
-##### Incorporate feedback from others
+#### Incorporate feedback from others
 
 During this semester I tried to take any feedback opportunities that were presented to me. Not all of these succeeded
 but I did manage to find a balance where I worked with people to incorporate their feedback into my application. I know
@@ -289,14 +289,14 @@ that there must still have been some rigidness from my part, but whether that wa
 rigidness in allowing other perspectives I cannot determine. Nonetheless I actively worked towards this goal and have
 improved on this aspect.
 
-##### Create realistic scopes
+#### Create realistic scopes
 
 My first scope wasn't the final scope, but I did work on better adjusting the scopes during the project. Perhaps I could
 have achieved my original scope if the TNO data didn't cause such a delay, but this is also part of scoping. I did
 manage to follow most of my approach and due to my progress reports I also have better indications of how long I spent
 on something so I could better scope in the future.
 
-##### Ask for help on time
+#### Ask for help on time
 
 Whether I asked for help on time or could have asked for help sooner is still debatable, but I did ask for help in a
 timely manner. On several aspects I asked for help, for the domain knowledge I got recommended the expert. On AR I got
