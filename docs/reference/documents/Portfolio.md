@@ -476,11 +476,63 @@ towards being an IT professional.
 
 #### Targeted Interaction
 
-You determine which partners play a role in your project, collaborate constructively with them and communicate
-appropriately to achieve the desired impact.
+Throughout this project I have communicated and collaborated with several partners and stakeholders. First of all there
+is my company coach, Simona, who is the owner of the City Digital Twin project and the main stakeholder of the project.
+During this project I had a weekly meeting with Simona, where we discussed my progress, next steps and any troubles I
+was having. She had access to my repositories, and if I wanted feedback on anything I would send her an email with what
+I wanted feedback on.
 
-{Who did I talk to and how}
+Next there are my colleagues at the lectorate. My fellow interns I mostly had casual conversation with and helped them
+with their projects. If there was anything I wanted feedback on, I would show it in the knowledge sharing sessions so I
+would be able to get feedback from both my fellow interns and long-term Fontys employees. With these long-term Fontys
+employees I also had check-ins once in a while on how my project was progressing. For example Bart helped me when I was
+struggling with the weight of a fine dust particle and seeing as his project at the Lectorate was also relevant I also
+shared my portfolio with him every so often so he could read through it.
 
-##### Document
+I also communicated with our expert, Jean-Paul Closé. After getting in contact with him through Simona via email, we set
+up a lunch meeting where I got to do an interview and we discussed the project and he explained more about Fine dust.
+Afterwards we had a bit more contact once the data showed irregularities.
 
-xxxx
+TNO was an unexpected partner. After we found some irregularities in the data compared to the report, we contacted them.
+Through mail contact they already explained a few things, but we did set up a meeting for further discussions. During
+that meeting they were a bit of a second expert, but we also managed to provide insights for them about the API and how
+the data could be interpreted.
+
+Through Bart I managed to get in contact with two groups of Semester 6 media students. They were approached by Bart and
+sent to my testing setup where they could give me feedback on my designs from their expert opinion.
+
+Lastly there were the expo visitors. During this project there were a total of 4 expo's or variations thereof. There was
+the poster market, which not a lot of people came to unfortunately. There was the XR Event, where I was able to interact
+with some people but less than hoped despite the amount of people in attendance. The IT festival was the most successful
+event, as there was a lot of interaction and feedback from a variety of perspectives. I needed to communicate what I was
+doing on multiple levels but based on the feedback I managed to make this work. Lastly there was the CDT Webinar. This
+event there was some interaction, but mostly with people that are working on similar areas. This, of course, is also
+valuable information.
+
+#### Personal Goals
+
+##### Incorporate feedback from others
+
+During this semester I tried to take any feedback opportunities that were presented to me. Not all of these succeeded
+but I did manage to find a balance where I worked with people to incorporate their feedback into my application. I know
+that there must still have been some rigidness from my part, but whether that was healthy scoping and boundaries or
+rigidness in allowing other perspectives I cannot determine. Nonetheless I actively worked towards this goal and have
+improved on this aspect.
+
+##### Create realistic scopes
+
+My first scope wasn't the final scope, but I did work on better adjusting the scopes during the project. Perhaps I could
+have achieved my original scope if the TNO data didn't cause such a delay, but this is also part of scoping. I did
+manage to follow most of my approach and due to my progress reports I also have better indications of how long I spent
+on something so I could better scope in the future.
+
+##### Ask for help on time
+
+Whether I asked for help on time or could have asked for help sooner is still debatable, but I did ask for help in a
+timely manner. On several aspects I asked for help, for the domain knowledge I got recommended the expert. On AR I got
+recommended Bernd-Jan. On AI Simona helped for a bit and we got into contact with TNO. For the people aspect I asked
+Bart for help and he arranged help from the media students, which in turn is how I got help with the design aspect.
+
+I believe the longest I have waited to ask for help was for the AR aspect, as I wanted to make the theoretical knowledge
+work, but due to issues with for example versioning this was simply not possible. Still, this was something that I could
+have improved upon by for example setting a goal beforehand on when I should ask for help.
