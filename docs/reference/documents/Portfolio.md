@@ -461,14 +461,18 @@ allowed me to automatically update my application and thus work more efficiently
 
 #### Personal Leadership
 
-You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability
-and keep in mind what kind of IT professional and/or what type of positions you aspire to.
+Throughout this semester I demonstrated my personal leadership by taking others with my in my own learning. Though I
+pushed to expand my knowledge in areas such as with Augmented Reality, I also tried asking for help from experts when
+possible and if that didn't help enough, scope it down, conclude and use what I learned as advice for future project
+members that are more experienced in the area.
 
-{Feedback, Knowledge sharing Sessions, other presentations etc}
+Just like I mentioned in Situational Orientation I shared knowledge at several layers of the project. During the
+knowledge sharing sessions I shared valuable information, asked insightful questions and provided meaningful feedback to
+my colleagues. I also shared the project during the XR event, IT Festival and CDT presentation.
 
-##### Document
-
-xxxx
+During these moments I also asked for feedback. By taking on multiple opportunities to share knowledge and request
+feedback from multiple perspectives I have shown that I am actively working on my personal and project development and
+towards being an IT professional.
 
 #### Targeted Interaction
 
