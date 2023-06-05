@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Fine_dust_EDA
-permalink: /Fine_dust_EDA
+permalink: /notebooks/Fine_dust_EDA/
+parent: Notebooks
+grand_parent: Reference
+nav_order: 1
 ---
 
 # Data Collection and Preparation - City Digital Twin AR Zoom lens
