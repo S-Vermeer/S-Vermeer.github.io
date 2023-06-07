@@ -84,6 +84,10 @@ The city of Eindhoven is monitoring several problems so they can see the progres
 based on it. They also share the data from their sensors publically. This research will focus on the nature and
 climate-based problems that can be influenced by humans.
 
+text^[test footnote]
+
+[^1]
+[^1]: this is a footnote
 These topics were found on the data portal of Eindhoven, under the topic 'Nature and Environment' (_Explore — Eindhoven
 Open Data_, n.d.)[<sup>1</sup>] Based on this list, the following is an
 analysis of the causes related to the data that is being monitored.
