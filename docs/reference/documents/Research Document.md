@@ -520,7 +520,8 @@ understandable to the users?
 
 ## References
 
-[^1]:  _Explore—Eindhoven Open Data_. (n.d.). Retrieved 10 February 2023,
+[^1]:  
+    _Explore—Eindhoven Open Data_. (n.d.). Retrieved 10 February 2023,
 from [https://data.eindhoven.nl/explore/?refine.theme=Nature+and+environment&sort=modified](https://data.eindhoven.nl/explore/?refine.theme=Nature+and+environment&sort=modified)
 
 [^2]: _Impacts of nature-based solutions on the urban atmospheric environment: A case study for Eindhoven, The Netherlands
