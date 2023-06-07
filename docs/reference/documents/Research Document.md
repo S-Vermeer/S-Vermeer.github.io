@@ -39,8 +39,6 @@ _Eindhoven_
 | 1.2.1       | 3-3-2023  | Frank Schürgers |
 | 2.1.0       | 5-4-2023  | Simona Orzan    |
 
-<div style="page-break-after: always;"></div>  
-
 ## Abstract
 
 In this document, we will answer the question "How can the severity of city problems in Eindhoven be visualized using
@@ -49,15 +47,9 @@ The goal of this document is to create an overview of the research done, with so
 case more detailed answers are in another document, the relevant documents will be referenced.    
 To do this, we will use the research questions as defined in the project plan and answer them using the documents that
 our research consisted of.
-<div style="page-break-after: always;"></div>  
 
 ## Table of Contents
 
-- [Document History](#document-history)
-    - [Version](#version)
-    - [Communication](#communication)
-- [Introduction](#introduction)
-- [Table of Contents](#table-of-contents)
 - [1. City Problems](#1-city-problems)
     - [1.1 Which city problems are being monitored in Eindhoven?](#11-which-city-problems-are-being-monitored-in-eindhoven)
     - [1.2 Which impact do these city problems make?](#12-what-impact-do-these-city-problems-make)
@@ -69,8 +61,6 @@ our research consisted of.
     - [3.1 What data is available regarding this problem](#31-what-data-is-available-regarding-this-problem)
     - [3.2 How can AI be used to make predictions using this data?](#32-how-can-ai-be-used-to-make-predictions-using-this-data)
 - [Conclusion](#conclusion)
-
-<div style="page-break-after: always;"></div>  
 
 ## 1. City problems
 
@@ -84,18 +74,9 @@ The city of Eindhoven is monitoring several problems so they can see the progres
 based on it. They also share the data from their sensors publically. This research will focus on the nature and
 climate-based problems that can be influenced by humans.
 
-text123 <sup>[^1]</sup>
-text456 [^2]
-
-
-
-[^1]: this is a footnote
-[^2]: this is a second footnote
-
-
 These topics were found on the data portal of Eindhoven, under the topic 'Nature and Environment' (_Explore — Eindhoven
-Open Data_, n.d.)[<sup>1</sup>] Based on this list, the following is an
-analysis of the causes related to the data that is being monitored.
+Open Data_, n.d.)[^1] Based on this list, the following is an analysis of the causes related to the data that is being
+monitored.
 
 #### Population Growth
 
@@ -103,7 +84,7 @@ One of the problems that are being monitored is the effects of population growth
 causing an increase in air temperature, CO<sub>2</sub> and other air pollutant emissions. This has led to a decrease in
 stored carbon and is threatening ecosystems and mankind. Because of the higher temperatures, there is an increase in air
 pollution due to an increase in ozone formation and as energy demands for cooling increase. (_Impacts of Nature-Based
-Solutions on the Urban Atmospheric Environment_, n.d.)[<sup>2</sup>](#^source2-resourcedoc)
+Solutions on the Urban Atmospheric Environment_, n.d.)[^2]
 
 #### Urban Growth
 
@@ -112,10 +93,10 @@ natural habitat is converted into cities. This leads to a big loss of biodiversi
 on average 50% lower at urban sites than in intact natural habitats. However, the indirect effect has an even larger
 impact. This is due to the increased resources consumed within the city, and the increased pollution released from
 cities. It is estimated that the area required to feed the world's cities is 36 times greater than the urban area of
-cities (McDonald et al., 2020)[<sup>3</sup>](#^source3-resourcedoc)
+cities (McDonald et al., 2020)[^3]
 
 Due to the urban growth, there is also more road traffic and construction areas, which are the main sources of particle
-matter in metropolitan areas. (Pope et al., 2009) [<sup>4</sup>](#^source4-resourcedoc)
+matter in metropolitan areas. (Pope et al., 2009) [^4]
 
 ### 1.2 What impact do these city problems make?
 
@@ -130,16 +111,15 @@ which in return leads to a higher concentration of CO<sub>2</sub> in the air. CO
 atmosphere, leading to a heightened air temperature. Though a heightened CO<sub>2</sub> does improve the functions of
 some processes in plants, the benefit we gain from this is limited as once the temperature rises too much the heightened
 CO<sub>2</sub> can no longer compensate for the diminishing effects caused by temperature-sensitive processes. Wang et
-al [<sup>5</sup>](#^source5-resourcedoc) found that after an increase of 2 <sup>o</sup>C the
+al [^5] found that after an increase of 2 <sup>o</sup>C the
 heightened CO<sub>2</sub> no longer compensated for the heightened temperature. This was based on the temperature in
 2018, and the temperatures are estimated to rise between 0.1 <sup>o</sup>C and 0.3 <sup>o</sup>C each decade, and the
-rate is increasing (_Chapter 1 — Global Warming of 1.5 oC_,
-n.d.) [<sup>6</sup>](#^source6-resourcedoc)
+rate is increasing (_Chapter 1 — Global Warming of 1.5 oC_, n.d.) [^6]
 
 Due to these temperatures rising, the glaciers and ice sheets are melting. The water that comes free from this as well
 as the thermal expansion of seawater as it warms is causing the water levels to rise. The global mean sea level has
 risen approximately 3.6mm per year from 2006 to 2015. This is an increase from the 1.4mm that was the average of most of
-the 20th century. (_Climate Change_, n.d.) [<sup>7</sup>](#^source7-resourcedoc)
+the 20th century. (_Climate Change_, n.d.) [^7]
 
 #### Increasing Air Pollutant Emissions
 
@@ -155,8 +135,7 @@ promotes ozone formation and concentrations increase. During the night, the incr
 3</sub> consumption. This is why hotter months have higher O<sub>3</sub> concentrations due to the longer and higher
 intensity solar radiation. During the weekend, the average O<sub>3</sub> concentrations are higher than during weekdays
 due to the lower nitric oxide levels and VOC emissions in the morning, which build up through photochemical reactions. (
-_Impacts of Nature-Based Solutions on the Urban Atmospheric Environment_,
-n.d.) [<sup>2</sup>](#^source2-resourcedoc)
+_Impacts of Nature-Based Solutions on the Urban Atmospheric Environment_, n.d.) [^2]
 
 #### Loss of Biodiversity
 
@@ -173,15 +152,13 @@ the ecosystem becomes unbalanced. Additionally, the number of species needed to 
 lower than the number of species needed to sustain multiple processes simultaneously. So even if we were to stabilize a
 single process, ecosystems are multifunctional and need more biodiversity to maintain that.
 
-Hooper et al [<sup>8</sup>](#^source8-resourcedoc) revealed that the impacts of species loss on
-primary productivity are of comparable magnitude to the impacts of other global change stressors.  
-If we try to increase or at least maintain the current biodiversity, this would have a positive impact to combat the
-negative effects of both population growth and urban growth. Diversity increases the yield of commercial crops, the
-production of fodder and greater stability of fisheries yields. In diverse plant communities, plant pathogens are less
-prevalent. It also increases aboveground carbon storage as biomass production is enhanced. Nutrient mineralization and
-soil organic matter also increase with plant richness (Cardinale et al.,
-
-2012) [<sup>9</sup>](#^source9-resourcedoc)
+Hooper et al [^8] revealed that the impacts of species loss on primary productivity are of comparable magnitude to the
+impacts of other global change stressors. If we try to increase or at least maintain the current biodiversity, this
+would have a positive impact to combat the negative effects of both population growth and urban growth. Diversity
+increases the yield of commercial crops, the production of fodder and greater stability of fisheries yields. In diverse
+plant communities, plant pathogens are less prevalent. It also increases aboveground carbon storage as biomass
+production is enhanced. Nutrient mineralization and soil organic matter also increase with plant richness (Cardinale et
+al., 2012) [^9]
 
 #### Increase in Fine Dust Particles
 
@@ -193,13 +170,13 @@ agricultural ammonia emissions contribute to secondary fine dust formation.
 The main sources of fine dust formation can be categorized into metropolitan, airport and agricultural. Fine dust
 particles come from a variety of sources, natural sources such as sea salt, but also unnatural ones such as wear and
 tear and combustion. The natural sources aren't necessarily a problem, we need them as they block parts of the sun and
-they reflect the light (Otjes & Close, 2023) [<sup>10</sup>](#^source10-resourcedoc). There
+they reflect the light (Otjes & Close, 2023) [^10]. There
 are also varying sizes of fine dust particles, of which PM1 is the most dangerous, excluding Ultra Fine Particles (UFP)
 which are so small that measuring them is quite expensive (J.P. Close, personal communication, March 7, 2023).
 
 Fine dust is harmful to the health of people. This is because its chemical and physical properties produce oxidative
 stress on mitochondria, DNA and proteins. It can also cause systemic inflammatory reactions. It has been connected with
-cardiovascular disease and some cancers (Ritz et al.,2019) [<sup>11</sup>](#^source11-resourcedoc). This effect is
+cardiovascular disease and some cancers (Ritz et al.,2019) [^11]. This effect is
 exacerbated when someone smokes, as this gives an immense amount of fine dust particles direct access to the airways.
 Not all types of fine dust particles are particularly harmful, for example, sea salt is not as harmful as combustion
 fine dust particles. The human body does have some defences to prevent fine dust from entering, but PM1 is so small that
@@ -261,9 +238,7 @@ immersing the user in a synthetic world, AR technology augments the sense of rea
 and cues upon the real world in real-time. AR could potentially apply to all senses and can be used to augment or
 substitute the user's missing senses by sensory substitution. AR applications can also remove real objects from the
 environment. This is usually called mediated or diminished reality. In this case, the object is covered with virtual
-information so the user has the impression that the object is not there (Carmigniani & Furht,
-
-2011) [<sup>12</sup>](#^source12-resourcedoc).
+information so the user has the impression that the object is not there (Carmigniani & Furht, 2011) [^12].
 
 ### 2.1 How can this problem be visualized?
 
@@ -296,8 +271,7 @@ I checked these designs with my stakeholder, and they agreed that this was the d
 
 #### Types of Augmented Reality
 
-These types are based on the research of Aytaç Sarkmaz (_Frontend_,
-n.d.) [<sup>13</sup>](^source13-resourcedoc), to have a limited pool on what to focus on.
+These types are based on the research of Aytaç Sarkmaz (_Frontend_, n.d.) [^13], to have a limited pool on what to focus on.
 There are two categories of AR, marker-based AR and markerless AR. The difference lies in the information source for the
 position of the digital content within the user's view.
 
@@ -307,13 +281,13 @@ Marker-based is based on the principle that the system needs to know where the u
 user wants to focus. This could be done by adding a predefined marker in the environment, which can be in the form of a
 2D picture, QR code, or 3D object. Using this marker, computer vision techniques can be used to detect it, a process
 called 'tracking'. This marker makes it easier to identify the position of the virtual objects to be displayed (
-Boonbrahm et al., 2020) [<sup>14</sup>](#^source14-resourcedoc).
+Boonbrahm et al., 2020) [^14].
 
 **Face-AR**  
 In the case of Face-AR, your face is the marker. Using face detection, a mask-like image is placed over your face,
 altering your facial features in a realistic or unrealistic way. Face detection uses local features such as your eyes
 and nose to identify the dimensions on your face and adjust the overlay accordingly as well as track your face when it
-is moving (Ahmed, M. N., 2016) [<sup>15</sup>](#^source15-resourcedoc).
+is moving (Ahmed, M. N., 2016) [^15].
 
 ##### Markerless AR
 
@@ -321,7 +295,7 @@ With markerless AR, a combination fo GPS and the compass sensor on the smartphon
 any position within the range of the camera view. An example of this is Pokémon Go. There are also platforms that use
 data from a device's motion sensor and camera to identify spatial movement across six axes. This makes it so virtual
 objects remain accurately positioned in the real world. It also adds a plane detection function, so the virtual items
-can be placed onto surfaces in a realistic way (Boonbrahm et al., 2020) [<sup>14</sup>](#^source14-resourcedoc)
+can be placed onto surfaces in a realistic way (Boonbrahm et al., 2020) [^14].
 
 **Location-based**  
 Location-based Augmented Reality revolves around localizing the user and placing a 3D object somewhere relative to the
@@ -331,30 +305,27 @@ Localization systems are constantly evolving. Early versions used radio signals 
 user's location. Radio Frequencies (RF) tend to be able to reach where regular GPS fails, such as indoors and in urban
 environments due to their higher power levels, wider coverage and their ability to penetrate buildings due to their
 lower frequencies. However, they usually do not carry timing, which is critical in range calculation and they are prone
-to degrading due to other signals. They were also not made for localization (Moghtadaiee et
-al.,2011) [<sup>16</sup>](#^source16-resourcedoc)
+to degrading due to other signals. They were also not made for localization (Moghtadaiee et al.,2011) [^16]
 
 Simultaneous Localization and Mapping (SLAM) approaches are mostly developed for robots, and use a variety of sensors to
 position a robot in an environment, using things such as sound, infrared and landmarks to map the environment in real
-time (Chong et al., 2015) [<sup>17</sup>](#^source17-resourcedoc)
+time (Chong et al., 2015) [^17]
 
 The 6 Degrees of Freedom (6DOF) pose estimation uses the 6 axes that a rigid body can move in a 3D space to estimate the
 position relative to for example images from a dataset.
 
 However, the most widespread is standard GPS localization, combined with the positioning of the phone through its native
-sensors and surface detection (Paucher & Turk, 2010) [<sup>18</sup>](#^source18-resourcedoc)
+sensors and surface detection (Paucher & Turk, 2010) [^18]
 
 **Projection Based / Spatial AR**  
 Spatial AR uses projections to augment the physical environment of the user regardless of their field of view. There are
 several versions of this, such as with and without head tracking. Without head tracking, the images do not constantly
-change while the user moves. With head tracking, the images are updated dynamically (Behringer et al.,
-
-1999) [<sup>19</sup>](#^source19-resourcedoc)
+change while the user moves. With head tracking, the images are updated dynamically (Behringer et al.,1999) [^19]
 
 #### Frameworks / Platforms
 
 There are a variety of frameworks and platforms to develop AR with. That is why we narrowed it down to the frameworks
-researched by Aytaç Sarkmaz (_Frontend_, n.d.) [<sup>13</sup>](#^source13-resourcedoc). The
+researched by Aytaç Sarkmaz (_Frontend_, n.d.) [^13]. The
 information was verified in the documentation and adjusted as some of it was outdated.
 
 ##### 8th Wall
@@ -437,12 +408,12 @@ overlap.
 
 To start experimenting with Unity, I followed a tutorial on Augmented Reality with Unity. The tutorial that was
 provided by Unity itself was throwing a lot of errors, so we decided to approach it differently and use a (_Create an AR
-Game Using Unity’s AR Foundation_, n.d.)[<sup>20</sup>](#^source20-resourcedoc). We got the
+Game Using Unity’s AR Foundation_, n.d.)[^20]. We got the
 camera to work and have a model display at the location of the camera. However, initially, it was just stuck in the
 position where the camera pointed first.
 
 There is an error in the tutorial, where it is missing some code. By using a Youtube tutorial, we were able to find the
-error area and alter the code. (Indra M, 2022)[<sup>21</sup>](#^source21-resourcedoc) We also
+error area and alter the code. (Indra M, 2022)[^21] We also
 figured out that we were using the wrong 'version', as we needed one that used the Universal Render Pipeline so we had
 the ForwardRenderer Script. After recreating the project using the correct setup, we were able to correct this, so it
 followed the camera and stuck to whatever surface was detected.
@@ -459,19 +430,19 @@ tutorials for Aframe and AR.js as these were HTML/CSS based.
 
 After getting the camera to work somewhat, as it didn't work on mobile yet, we started experimenting with a method to
 see whether we could get something to display. Things such as an Aframe package (_Aframe-React_,
-2018)[<sup>22</sup>](#^source22-resourcedoc) were not working, as nothing was showing up.
+2018)[^22] were not working, as nothing was showing up.
 Trying to get HTML code to work was also not having the desired effect.
 
 Seeing as Unity was working, and during our search for ways to get AR in React we found a few packages that used Unity
 to display AR in React, we decided to focus on trying to integrate Unity into React.
 
 For integrating Unity into React there are a variety of packages such as react-native-unity-view-reinvented (
-_React-Native-Unity-View-Reinvented_, 2019)[<sup>23</sup>](#^source23-resourcedoc),
-react-native-unity-view (Madsen, 2019/2023)[<sup>24</sup>](#^source24-resourcedoc),
+_React-Native-Unity-View-Reinvented_, 2019)[^23],
+react-native-unity-view (Madsen, 2019/2023)[^24],
 react-native-unity (_@azesmway/React-Native-Unity_,
-2022)[<sup>25</sup>](#^source25-resourcedoc), react-native-unity-play (
-_React-Native-Unity-Play_, 2021)[<sup>26</sup>](#^source26-resourcedoc) and
-react-unity-webgl (_React-Unity-Webgl_, 2023)[<sup>27</sup>](#^source27-resourcedoc). However,
+2022)[^25], react-native-unity-play (
+_React-Native-Unity-Play_, 2021)[^26] and
+react-unity-webgl (_React-Unity-Webgl_, 2023)[^27]. However,
 as soon as we started working on this, version conflicts started occurring. It appears that either the version of React
 we are working in was too new, or in general the ability to get Unity working in React was deprecated.
 
@@ -483,13 +454,13 @@ project to keep the differences to the bare minimum. Nothing was working.
 ##### HTML/CSS and AR.JS
 
 For AR.js we started by trying to do the location-based tutorials for AR.js (_Image Tracking and Location-Based AR with
-A-Frame and AR.Js 3_, n.d.).[<sup>28</sup>](#^source28-resourcedoc). However, this didn't
+A-Frame and AR.Js 3_, n.d.).[^28]. However, this didn't
 appear to work as no matter what we tried, nothing was showing up on the screen, aside from the camera.
 
 Based on this, we went 'back to basics' and worked on marker-based AR. As we could use it for the Poster Market and
 to see whether the most well-documented forms of AR did work. For this, we used the tutorial for MindAR (_Build a
 Marker-Based AR App in 6 minutes | Source Code included | kandi tutorial_,
-n.d.).[<sup>29</sup>](#^source29-resourcedoc) This tutorial came with models and working code,
+n.d.).[^29] This tutorial came with models and working code,
 which could be altered to fit our needs. Based on this application, after changing it to use our own marker and model,
 we were able to make a POC of marker-based AR.
 
@@ -497,7 +468,8 @@ However, though it meant that we could make AR work, it wasn't useable for our a
 markerless. Based on that we started working on a location-based prototype. Around that same time, we got into contact
 with a teacher that is also working on AR, Bernd-Jan. He has been working on a location-based prototype. After finding
 that our testing phone was not ideal for AR, we decided to get a phone from the ISSD so we could focus on the software
-instead of the technology. We also got access to their location-based prototype, so we could experiment with it. Based on
+instead of the technology. We also got access to their location-based prototype, so we could experiment with it. Based
+on
 that we were able to make a location-based prototype and a relative to the user prototype.
 
 ### Conclusion
@@ -548,41 +520,38 @@ understandable to the users?
 
 ## References
 
-[<sup>1</sup>]:  _Explore—Eindhoven Open Data_. (n.d.). Retrieved 10 February 2023,
-   from [https://data.eindhoven.nl/explore/?refine.theme=Nature+and+environment&sort=modified](https://data.eindhoven.nl/explore/?refine.theme=Nature+and+environment&sort=modified)
-   ^source1-resourcedoc
-2. _Impacts of nature-based solutions on the urban atmospheric environment: A case study for Eindhoven, The Netherlands
+[^1]:  _Explore—Eindhoven Open Data_. (n.d.). Retrieved 10 February 2023,
+from [https://data.eindhoven.nl/explore/?refine.theme=Nature+and+environment&sort=modified](https://data.eindhoven.nl/explore/?refine.theme=Nature+and+environment&sort=modified)
+
+[^2]: _Impacts of nature-based solutions on the urban atmospheric environment: A case study for Eindhoven, The Netherlands
    Elsevier Enhanced Reader_. (
-   n.d.). [https://doi.org/10.1016/j.ufug.2020.126870](https://doi.org/10.1016/j.ufug.2020.126870)  ^source2-resourcedoc
-3. McDonald, R. I., Mansur, A. V., Ascensão, F., Colbert, M., Crossman, K., Elmqvist, T., Gonzalez, A., Güneralp, B.,
+   n.d.). [https://doi.org/10.1016/j.ufug.2020.126870](https://doi.org/10.1016/j.ufug.2020.126870) 
+[^3]: McDonald, R. I., Mansur, A. V., Ascensão, F., Colbert, M., Crossman, K., Elmqvist, T., Gonzalez, A., Güneralp, B.,
    Haase, D., Hamann, M., Hillel, O., Huang, K., Kahnt, B., Maddox, D., Pacheco, A., Pereira, H. M., Seto, K. C.,
    Simkin, R., Walsh, B., … Ziter, C. (2020). Research gaps in knowledge of the impact of urban growth on biodiversity.
    _Nature Sustainability_, _3_(1), Article
-    1. [https://doi.org/10.1038/s41893-019-0436-6](https://doi.org/10.1038/s41893-019-0436-6) ^source3-resourcedoc
-4. Pope, C. A., Ezzati, M., & Dockery, D. W. (2009). Fine Particulate Air Pollution and US County Life Expectancies.
+    1. [https://doi.org/10.1038/s41893-019-0436-6](https://doi.org/10.1038/s41893-019-0436-6)
+[^4]: Pope, C. A., Ezzati, M., & Dockery, D. W. (2009). Fine Particulate Air Pollution and US County Life Expectancies.
    _The New England Journal of Medicine_, _360_(4),
-   376–386. [https://doi.org/10.1056/NEJMsa0805646](https://doi.org/10.1056/NEJMsa0805646) ^source4-resourcedoc
-5. Wang, W., Cai, C., Lam, S. K., Liu, G., & Zhu, J. (2018). Elevated CO2 cannot compensate for japonica grain yield
+   376–386. [https://doi.org/10.1056/NEJMsa0805646](https://doi.org/10.1056/NEJMsa0805646)
+[^5]: Wang, W., Cai, C., Lam, S. K., Liu, G., & Zhu, J. (2018). Elevated CO2 cannot compensate for japonica grain yield
    losses under increasing air temperature because of the decrease in spikelet density. _European Journal of Agronomy_,
    _99_, 21–29. [https://doi.org/10.1016/j.eja.2018.06.005](https://doi.org/10.1016/j.eja.2018.06.005)
-   ^source5-resourcedoc
-6. _Chapter 1—Global Warming of 1.5 oC_. (n.d.). Retrieved 13 February 2023,
+[^6]:_Chapter 1—Global Warming of 1.5 oC_. (n.d.). Retrieved 13 February 2023,
    from [https://www.ipcc.ch/sr15/chapter/chapter-1/](https://www.ipcc.ch/sr15/chapter/chapter-1/) ^source6-resourcedoc
-7. _Climate Change: Global Sea Level NOAA Climate.gov_. (n.d.). Retrieved 13 February 2023,
+[^7]: _Climate Change: Global Sea Level NOAA Climate.gov_. (n.d.). Retrieved 13 February 2023,
    from [http://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level](http://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level)
-   ^source7-resourcedoc
-8. Hooper, D. U., Adair, E. C., Cardinale, B. J., Byrnes, J. E. K., Hungate, B. A., Matulich, K. L., Gonzalez, A.,
+[^8]: Hooper, D. U., Adair, E. C., Cardinale, B. J., Byrnes, J. E. K., Hungate, B. A., Matulich, K. L., Gonzalez, A.,
    Duffy, J. E., Gamfeldt, L., & O’Connor, M. I. (2012). A global synthesis reveals biodiversity loss as a major driver
    of ecosystem change. _Nature_, _486_(7401),
-   105–108. [https://doi.org/10.1038/nature11118](https://doi.org/10.1038/nature11118)^source8-resourcedoc
-9. Cardinale, B. J., Duffy, J. E., Gonzalez, A., Hooper, D. U., Perrings, C., Venail, P., Narwani, A., Mace, G. M.,
+   105–108. [https://doi.org/10.1038/nature11118](https://doi.org/10.1038/nature11118)
+[^9]: Cardinale, B. J., Duffy, J. E., Gonzalez, A., Hooper, D. U., Perrings, C., Venail, P., Narwani, A., Mace, G. M.,
    Tilman, D., Wardle, D. A., Kinzig, A. P., Daily, G. C., Loreau, M., Grace, J. B., Larigauderie, A., Srivastava, D.
    S., & Naeem, S. (2012). Biodiversity loss and its impact on humanity. _Nature_, _486_(7401),
-   59–67. [https://doi.org/10.1038/nature11148](https://doi.org/10.1038/nature11148)^source9-resourcedoc
-10. Otjes, R., & Close, J. P. (Directors). (2023, February 8). STAD VAN MORGEN - Special Guest: René Otjes—08.02.2023
+   59–67. [https://doi.org/10.1038/nature11148](https://doi.org/10.1038/nature11148)
+[^10]: Otjes, R., & Close, J. P. (Directors). (2023, February 8). STAD VAN MORGEN - Special Guest: René Otjes—08.02.2023
     HQ. In _Stad van Morgen_.
     RARARADIO. [https://www.mixcloud.com/RARARADIO_EHV/stad-van-morgen-special-guest-rené-otjes-08022023/?play=fb](https://www.mixcloud.com/RARARADIO_EHV/stad-van-morgen-special-guest-rené-otjes-08022023/?play=fb)
-    ^source10-resourcedoc
 11. Ritz, B., Hoffmann, B., & Peters, A. (2019). The Effects of Fine Dust, Ozone, and Nitrogen Dioxide on Health.
     _Deutsches Ärzteblatt International_, _116_(51–52),
     881–886. [https://doi.org/10.3238/arztebl.2019.0881](https://doi.org/10.3238/arztebl.2019.0881)
