@@ -524,41 +524,49 @@ understandable to the users?
     _Explore—Eindhoven Open Data_. (n.d.). Retrieved 10 February 2023,
 from [https://data.eindhoven.nl/explore/?refine.theme=Nature+and+environment&sort=modified](https://data.eindhoven.nl/explore/?refine.theme=Nature+and+environment&sort=modified)
 
-[^2]: _Impacts of nature-based solutions on the urban atmospheric environment: A case study for Eindhoven, The Netherlands
-   Elsevier Enhanced Reader_. (
-   n.d.). [https://doi.org/10.1016/j.ufug.2020.126870](https://doi.org/10.1016/j.ufug.2020.126870) 
+[^2]: 
+    _Impacts of nature-based solutions on the urban atmospheric environment: A case study for Eindhoven, The Netherlands
+   Elsevier Enhanced Reader_. (n.d.). [https://doi.org/10.1016/j.ufug.2020.126870](https://doi.org/10.1016/j.ufug.2020.126870) 
 
-[^3]: McDonald, R. I., Mansur, A. V., Ascensão, F., Colbert, M., Crossman, K., Elmqvist, T., Gonzalez, A., Güneralp, B.,
+[^3]: 
+    McDonald, R. I., Mansur, A. V., Ascensão, F., Colbert, M., Crossman, K., Elmqvist, T., Gonzalez, A., Güneralp, B.,
    Haase, D., Hamann, M., Hillel, O., Huang, K., Kahnt, B., Maddox, D., Pacheco, A., Pereira, H. M., Seto, K. C.,
    Simkin, R., Walsh, B., … Ziter, C. (2020). Research gaps in knowledge of the impact of urban growth on biodiversity.
    _Nature Sustainability_, _3_(1), Article
     1. [https://doi.org/10.1038/s41893-019-0436-6](https://doi.org/10.1038/s41893-019-0436-6)
 
-[^4]: Pope, C. A., Ezzati, M., & Dockery, D. W. (2009). Fine Particulate Air Pollution and US County Life Expectancies.
+[^4]: 
+    Pope, C. A., Ezzati, M., & Dockery, D. W. (2009). Fine Particulate Air Pollution and US County Life Expectancies.
    _The New England Journal of Medicine_, _360_(4),
    376–386. [https://doi.org/10.1056/NEJMsa0805646](https://doi.org/10.1056/NEJMsa0805646)
 
-[^5]: Wang, W., Cai, C., Lam, S. K., Liu, G., & Zhu, J. (2018). Elevated CO2 cannot compensate for japonica grain yield
+[^5]: 
+    Wang, W., Cai, C., Lam, S. K., Liu, G., & Zhu, J. (2018). Elevated CO2 cannot compensate for japonica grain yield
    losses under increasing air temperature because of the decrease in spikelet density. _European Journal of Agronomy_,
    _99_, 21–29. [https://doi.org/10.1016/j.eja.2018.06.005](https://doi.org/10.1016/j.eja.2018.06.005)
 
-[^6]:_Chapter 1—Global Warming of 1.5 oC_. (n.d.). Retrieved 13 February 2023,
+[^6]:
+    _Chapter 1—Global Warming of 1.5 oC_. (n.d.). Retrieved 13 February 2023,
    from [https://www.ipcc.ch/sr15/chapter/chapter-1/](https://www.ipcc.ch/sr15/chapter/chapter-1/) ^source6-resourcedoc
 
-[^7]: _Climate Change: Global Sea Level NOAA Climate.gov_. (n.d.). Retrieved 13 February 2023,
+[^7]: 
+    _Climate Change: Global Sea Level NOAA Climate.gov_. (n.d.). Retrieved 13 February 2023,
    from [http://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level](http://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level)
 
-[^8]: Hooper, D. U., Adair, E. C., Cardinale, B. J., Byrnes, J. E. K., Hungate, B. A., Matulich, K. L., Gonzalez, A.,
+[^8]: 
+    Hooper, D. U., Adair, E. C., Cardinale, B. J., Byrnes, J. E. K., Hungate, B. A., Matulich, K. L., Gonzalez, A.,
    Duffy, J. E., Gamfeldt, L., & O’Connor, M. I. (2012). A global synthesis reveals biodiversity loss as a major driver
    of ecosystem change. _Nature_, _486_(7401),
    105–108. [https://doi.org/10.1038/nature11118](https://doi.org/10.1038/nature11118)
 
-[^9]: Cardinale, B. J., Duffy, J. E., Gonzalez, A., Hooper, D. U., Perrings, C., Venail, P., Narwani, A., Mace, G. M.,
+[^9]: 
+    Cardinale, B. J., Duffy, J. E., Gonzalez, A., Hooper, D. U., Perrings, C., Venail, P., Narwani, A., Mace, G. M.,
    Tilman, D., Wardle, D. A., Kinzig, A. P., Daily, G. C., Loreau, M., Grace, J. B., Larigauderie, A., Srivastava, D.
    S., & Naeem, S. (2012). Biodiversity loss and its impact on humanity. _Nature_, _486_(7401),
    59–67. [https://doi.org/10.1038/nature11148](https://doi.org/10.1038/nature11148)
 
-[^10]: Otjes, R., & Close, J. P. (Directors). (2023, February 8). STAD VAN MORGEN - Special Guest: René Otjes—08.02.2023
+[^10]: 
+    Otjes, R., & Close, J. P. (Directors). (2023, February 8). STAD VAN MORGEN - Special Guest: René Otjes—08.02.2023
     HQ. In _Stad van Morgen_.
     RARARADIO. [https://www.mixcloud.com/RARARADIO_EHV/stad-van-morgen-special-guest-rené-otjes-08022023/?play=fb](https://www.mixcloud.com/RARARADIO_EHV/stad-van-morgen-special-guest-rené-otjes-08022023/?play=fb)
 
