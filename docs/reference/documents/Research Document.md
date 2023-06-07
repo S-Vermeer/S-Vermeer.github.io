@@ -85,7 +85,7 @@ based on it. They also share the data from their sensors publically. This resear
 climate-based problems that can be influenced by humans.
 
 These topics were found on the data portal of Eindhoven, under the topic 'Nature and Environment' (_Explore — Eindhoven
-Open Data_, n.d.)[<sup>1</sup>](#^source1-resourcedoc) Based on this list, the following is an
+Open Data_, n.d.)[<sup>1</sup>] Based on this list, the following is an
 analysis of the causes related to the data that is being monitored.
 
 #### Population Growth
