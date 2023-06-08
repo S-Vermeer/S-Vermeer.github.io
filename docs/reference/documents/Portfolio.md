@@ -138,23 +138,16 @@ Based on my documentation from previous semesters I created a [template](/templa
 of the planned documents, and adjusted them to match the relevant document better.
 
 I also created a [to-do list](/todo-list/) so I had a better overview of important tasks that needed to be done. Later, I moved
-this over to [Trello](https://trello.com), so I could also filter my tasks and make them more visible to myself. I
-created 3 boards for this: Documentation, Development and Milestones. Documentation was to break down the documentation
-into bite-sized tasks and make sure I process the information such as expert interviews and feedback. It had the
-sections 'To Do', 'Doing' and 'Waiting on Verification', and 'Done'. I also added tags such as 'waiting on other
-task', 'High Priority', and 'Need Help' to better identify why I hadn't done a task or which task had priority.
-Development had a similar setup but was meant more for concrete tasks such as scraping data, testing, developing a
-feature, designing etc. Milestones were meant to keep me on track, make sure I have all the approvals I need, and all
-the documents I need, and had tasks such as 'Prediction Chosen'. These tasks are paired with the phases they are
-associated with, as described in the approach section.
+this over to [Trello](https://trello.com), so I could also filter my tasks and make them more visible to myself. I created 3 boards for this: Documentation, Development and Milestones.  Documentation was to break down the documentation into bite-sized tasks and make sure I process the information such as expert interviews and feedback. It had the sections 'To Do', 'Doing' and 'Waiting on Verification', and 'Done'. I also added tags such as 'waiting on other task', 'High Priority', and 'Need Help' to better identify why I hadn't done a task or which task had priority. ![Documentation trello](/assets/Pasted image 20230606143830.png)Development had a similar setup but was meant more for concrete tasks such as scraping data, testing, developing a feature, designing etc.
+![Development Trello](/assets/Pasted image 20230606143936.png)Milestones were meant to keep me on track, make sure I have all the approvals I need, and all the documents I need, and had tasks such as 'Prediction Chosen'. These tasks are paired with the phases they are associated with, as described in the approach section.
+![Milestones Trello](/assets/Pasted image 20230606143959.png)
 
 For the Git Repository, I used the FHICT Gitlab, allowing my company coach and assessors easy access, easy display of
 markdown and easier transferring if the project continued. Initially, I had a single repository, however, I noticed that
 if I was experimenting and wanted to work in branches, this meant I could not for example do my documentation because
 the experimentation branch was multiple commits behind the experimentation branch, and if I had something that was
 running for a while, I couldn't just switch branches as that would remove the progress. To fix this issue, once the
-progress allowed for it, I set up 3 repositories: cdt-a-i-r-zoom-lens-documentation {LINK},
-cdt-a-i-r-zoom-lens-front-end {LINK} and cdt-a-i-r-zoom-lens-back-end {LINK}. This way I would always have access to my
+progress allowed for it, I set up 3 repositories: [cdt-a-i-r-zoom-lens-documentation](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation) , [cdt-a-i-r-zoom-lens-front-end](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-front-end) and [cdt-a-i-r-zoom-lens-back-end](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-back-end). This way I would always have access to my
 documentation, and my front end, consisting of Augmented Reality and such was separated from my back end, consisting of
 my data analysis and modelling. These repositories were also shared with my company coach, Simona, so she could see my
 progress and do her own experimenting when needed.
