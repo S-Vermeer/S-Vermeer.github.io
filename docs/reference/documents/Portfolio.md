@@ -154,28 +154,28 @@ progress and do her own experimenting when needed.
 
 ### Problem definition
 
-The next aspect was to define the problem. To start this, I transferred my project proposal {LINK} into my Project Plan
-{LINK}. Based on this I knew I needed to scope down my project to a single city problem. That is why I did initial
+The next aspect was to define the problem. To start this, I transferred my [Project Proposal](/documents/project-proposal/) into my [Project Plan](/documents/project-plan/). 
+Based on this I knew I needed to scope down my project to a single city problem. That is why I did initial
 research to answer the questions:  "Which city problems are being monitored in Eindhoven?" and "What impact do these
-city problems make?". For this, I did literary research which was documented in the Research Document {LINK},
-specifically 1.1 and 1.2. I started the research off by looking at which problems were noted in
+city problems make?". For this, I did literary research which was documented in the [Research Document](/documents/research-document/),
+specifically [1.1](/documents/research-document#11-which-city-problems-are-being-monitored-in-eindhoven/) and [1.2](/documents/research-document#12-what-impact-do-these-city-problems-make/). I started the research off by looking at which problems were noted in
 the [Eindhoven Open Data](https://data.eindhoven.nl/pages/home/) portal, and connecting these to their origins:
 Population Growth and Urban Growth. Next, I started looking more into the impact of these problems and documenting this.
 Based on this research, I made a SWOT analysis of the different problems to see which would be the best to scope our
 project on.
 
-![Fine Dust SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/swot/fine-dust-swot.png)
-![Biodiversity SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/swot/biodiversity-swot.png)  
-![Air Temperature / Water SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/swot/Airtemp-water-swot.png)  
-![Air Pollutant Emissions SWOT](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/raw/main/Copy%20paste%20images/swot/air-pollutant-emissions-swot.png)
+![Fine Dust Swot](/assets/fine-dust-swot.png)
+![Biodiversity SWOT](/assets/biodiversity-swot.png)
+![Air Temperature SWOT](/assets/airtemp-water-swot.png)
+![Air Pollutant Emissions SWOT](/assets/air-pollutant-emissions-swot.png)
 
 Based on this, together with Simona, I decided that Fine Dust was the best choice to move forward, as this was the one
 with the most potential for success and would incorporate AR and AI the best. The complete breakdown of this
-decision-making process can be found in the conclusion of chapter 1 of the Research Document {LINK}.
+decision-making process can be found in the [conclusion of chapter 1 of the Research Document](documents/research-document#conclusion---which-city-problem-will-we-be-focussing-on/).
 
-{I was planning to make a requirement prioritization as indicated in the project plan, but during the research the
-priorities kept shifting as we discovered more and more things that we needed clarification on etc so I resorted to just
-discussing the current priorities with my company coach during our weekly meetings.}
+I was planning to make a requirement prioritization as indicated in the project plan, but during the research the
+priorities kept shifting as we discovered more and more things that we needed clarification on so I resorted to just
+discussing the current priorities with my company coach during our weekly meetings.
 
 ### Theoretical / Domain Research
 
