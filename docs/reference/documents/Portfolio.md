@@ -545,12 +545,12 @@ have achieved my original scope if the TNO data didn't cause such a delay, but t
 manage to follow most of my approach and due to my progress reports I also have better indications of how long I spent
 on something so I could better scope in the future. I did discuss the scope with Simona multiple times. I have sometimes adjusted it based on her feedback, and other times she just agreed with it.
 
-![Image of effort every week](Pasted image 20230608153429.png)
+![Image of effort every week](/assets/Pasted image 20230608153429.png)
 (still needs to be updated)
 
 
 ##### Ask for help on time
-![Ask for help on time goal](Pasted image 20230608152936.png)
+![Ask for help on time goal](/assets/Pasted image 20230608152936.png)
 Whether I asked for help on time or could have asked for help sooner is still debatable, but I did ask for help in a
 timely manner. On several aspects I asked for help, for the domain knowledge I got recommended the expert. On AR I got
 recommended Bernd-Jan. On AI Simona helped for a bit and we got into contact with TNO. For the people aspect I asked
