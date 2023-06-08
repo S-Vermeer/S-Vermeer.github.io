@@ -8,6 +8,15 @@ nav_order: 7
 ---
 
 # Portfolio - A(I)R Zoom Lens
+**_Fontys Lectorate High Tech Embedded Systems Eindhoven_**  
+_Eindhoven_
+
+| Date    | June 8th 2023 |
+|---------|-------------------|
+| Version |             2.3.2 |
+| Status  | Finished Draft            |
+| Author  | Skyler Vermeer    |  
+
 
 ## Document History
 
@@ -18,54 +27,46 @@ nav_order: 7
 | 0.1.0       | 07-02-2023 | Skyler Vermeer | Layout                                                                                                            | Layout      |
 | 1.0.0       | 06-04-2023 | Skyler Vermeer | Inputted actual learning outcomes + started filling in current information                                        | First Draft |
 | 1.1.0       | 13-04-2023 | Skyler Vermeer | Reformatting layout according to comeback day overview + adding research questions, approach and start of Process | First Draft |  
+|                    1.2.0  |                30-05-2023  |    Skyler Vermeer        |    Professional duties analysis, design, realize |    First Draft   |
+|                    1.3.0  |                31-05-2023  |    Skyler Vermeer        |    Professional duties Advice, manage and control, situation orientation, personal goals, investigative problem solving |    First Draft   |
+|                    1.4.0  |                01-06-2023  |    Skyler Vermeer        |    Personal leadership, targeted interaction, personal goals |    First Draft   |
+|                    1.5.0  |                07-06-2023  |    Skyler Vermeer        |    Added some images, removed some unknowns, expanded practical research, results, conclusions and recommendations |    Finished Draft   |
+|                    1.5.1  |                08-06-2023  |    Skyler Vermeer        |    Updated some versioning, add some links |    Finished Draft   |
 
 ### Communication
 
 | **Version** | **Date** | **To** |
 |:------------|:---------|:-------|
-| XXX         | xxxx     | xxxx   |
+|  1.4.0          |  02-06-2023      |  Frank Schürgers    |
 | XXX         | xxxx     | xxxx   |  
-
-<div style="page-break-after: always;"></div>
 
 ## Introduction
 
 xxxx
 
 ## Table of Contents
-
-- [Document History](#document-history)
-    - [Version](#version)
-    - [Communication](#communication)
-- [Table of Contents](#table-of-contents)
 - [The Assignment](#the-assignment)
     - [Context](#context)
         - [Problem](#problem)
         - [Opportunity](#opportunity)
         - [Goals](#goals)
 - [Process and Results](#process-and-results)
-    - [Analysis/Problem definition](#analysisproblem-definition)
-        - [Project Plan](#project-plan)
-    - [Advice](#advise)
-        - [Project Plan](#project-plan-1)
-        - [Research Document](#research-document)
-    - [Design](#design)
-        - [Research Document](#research-document-1)
-    - [Realization](#realization)
-        - [Research Document](#research-document-2)
-    - [Manage & Control](#manage--control)
-        - [Research Document](#research-document-3)
-- [Proof of Competence](#proof-of-competence)
-    - [Thingy](#thingy)
-        - [Document](#document)
-    - [Thingy](#thingy-1)
-        - [Document](#document-1)
-    - [Thingy](#thingy-2)
-        - [Document](#document-2)
-    - [Thingy](#thingy-3)
-        - [Document](#document-3)
+    - [Structure](#structure)
+    - [Problem definition](#problem-definition)
+    - [Theoretical / Domain Research](#theoretical--domain-research)
+    - [Practical Research](#practical-research)
+    - [Results](#results)
+- [Conclusions](#conclusions)
+- [Recommendations](#recommendations)
+- [Personal Reflection](#personal-reflection)
+    - [Professional Duties](#professional-duties)
+    - [Situation-orientation](#situation-orientation)
+    - [Future-Oriented Organisation](#future-oriented-organisation)
+    - [Investigative Problem Solving](#investigative-problem-solving)
+    - [Personal Leadership](#personal-leadership)
+    - [Targeted Interaction](#targeted-interaction)
+    - [Personal Goals](#personal-goals)
 
-<div style="page-break-after: always;"></div>
 
 ## The Assignment
 
@@ -133,7 +134,7 @@ features. The initial features that stood out to me were easy linking between do
 how documents (and research) were connected, the ability to install plugins, the ability to create templates for
 documents easily and by using markdown the files would be easily viewable in git.
 
-Based on my documentation from previous semesters I created a template {LINK} for my documentation, used them for each
+Based on my documentation from previous semesters I created a [template](/templates/research_doc_template/) {LINK} for my documentation, used them for each
 of the planned documents, and adjusted them to match the relevant document better.
 
 I also created a to-do list {LINK} so I had a better overview of important tasks that needed to be done. Later, I moved

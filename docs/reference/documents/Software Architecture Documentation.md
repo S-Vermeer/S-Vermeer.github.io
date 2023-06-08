@@ -101,7 +101,8 @@ locaties-airboxen.csv.
 For the modelling, we also worked with a dataset that combined some relevant weather data with our existing
 measurements. However, currently, the only weather data we have is until May 16th 2023, saved in
 hourdata_eindhoven_2021_16may2023.csv.  
-{{IMAGE}}
+![weatherdata not combined till 16 may](/assets/Pasted image 20230608110957.png)
+
 Originally the data we obtained from the KNMI had much more variables, but we didn't need most of them, as they weren't
 relevant to our domain. The full dataset can be found as uurgeg_370_2021-2030.csv.
 
@@ -146,11 +147,7 @@ to an error in their API.
 So the data is more accurate than regular sensor networks, easily accessible with an API and constantly monitored for
 downtime by a renowned organisation. However, the API in itself isn't trustworthy and some data needs to be verified.
 
-For the weather data, we used the data from KNMI, which had 2021 to November 2022 data. It has hourly data for
-Eindhoven, but seeing as we also need the data for November 2022 to now, we do need something supplemental for
-deployment. We can use some type of forecasting API for our own AI, but until that time we do need data to train on.
-However, it allowed us to test the model for now without paying from an account from an API, without having to scrape
-ourselves and spend a lot of time there.
+For the weather data, we used the data from KNMI, which had 2021 to mid May 2023 data. It has hourly data for Eindhoven, but seeing as we also need the data for the rest of may to now, we do need something supplemental for deployment. However,  it allowed us to test the model for now without paying from an account from an API, without having to scrape ourselves and spend a lot of time there. After we verified that weather data was beneficial to our project, Simona and I found [WeatherAPI](https://www.weatherapi.com/) which has a free and a paid subscription, which can be fit to the project's needs.
 
 ## 3. Repositories and CI/CD Pipeline
 
@@ -232,6 +229,7 @@ transferred simply by updating the variables for the CI/CD pipeline in the repos
 the image from the docker and pushes it to a container on the new server.
 
 The following variables are used in both the front-end and the back-end repository.
+
 
 | Type | Key                | Value                                                                                                                                                | Protected | Masked |  
 |:-----|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:-------|  

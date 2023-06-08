@@ -163,7 +163,7 @@ This is most likely a project for Software.
 
 ### 3.3 Variables
 
-The original design included to option to change the weather variables. This way the user got more autonomy and could
+The original design included the option to change the weather variables. This way the user got more autonomy and could
 see how different variables changed the amount and behaviour of the particles. The more the user can interact with the
 visualisation, the better they understand why time, rain, temperature and wind affect the data that is presented.
 
