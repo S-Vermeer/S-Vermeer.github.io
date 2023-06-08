@@ -578,20 +578,47 @@ In the future other predictions might be able to be added, such as by adjusting 
 
 ### 4.1 What devices will the AR application be available on?
 
-In our requirements we have that it should be available on a phone. This will detail which devices will be supported and
-why. It will also detail how these decisions were made.
+For this project, we wanted the application to be as accessible as possible. We knew we needed location data and access to the internet to make requests. Based on our previous research we made a web application, hosted on [cdt.skylervermeer.nl](cdt.skylervermeer.nl) so anyone who had a phone and internet would be able to visit the website. However, realistically this isn't the case. Though AFrame, the method that we are using, works cross-platform(_Introduction_, n.d.)[^30], we also rely on WebXR to show the AR in the browser.
+
+#### WebXR
+As you can see below, a variety of browsers do not yet support WebXR. There are some, such as Safari that do not support it by default but where it can be enabled. These are the ones that have a green flag near them. This means that on desktop newer versions of Chrome, Edge and Opera support it, and Safari and Firefox only when you enable it. As for the mobile devices, arguably more important, Chrome, Samsung Internet and Opera mobile support it automatically, while Firefox for Android and KaiOS Browser only when enabled. (_WebXR Device API | Can I Use... Support Tables for HTML5, CSS3, Etc_, n.d.)[^31] This means that for Android there is quite a lot of support, however, iOS does not appear to be supported as of yet.
+![WebXR visual](/assets/Pasted image 20230605113134.png)
+
+#### Performance
+Due to it still being in development, the performance is not always great. The Samsung Galaxy A5 (2017) has stability issues. The Xiaomi Mi 10 Lite, launched in 2020, was used for testing due to its improvement on this stability front. Whereas a static location on the Galaxy would rotate out of view for the user, the Mi simply has a slight tremor.
+
+#### Conclusion
+The industry is constantly evolving and developing. Currently, the application seems to be supported on desktops for Chrome 79+, Edge 79+ and Opera 66+. On mobile it seems to be supported by Chrome 113, Samsung Internet 12.0+ and Opera Mobile 73. Older browsers are either not supported, or not supported by default so unless it is for development purposes they should be assumed not to be supported. That being said, even if the browser is supported, the phone might still be too old for stable AR. The differences in performance and browser compatibility should be addressed to improve the user experience.
 
 ### 4.2 How can it be verified whether users understand the severity of the city problem?
 
-To verify whether the intended users can understand our product, we will be using a mix of *Observation*, to see what
-our users behave like, and various user testing methods to see how the user responds to the application.
+Though we cannot verify whether the user understands the severity of the city problem, we can use the feedback we obtained based on the several expos to verify whether users understand the concept, and what questions and concerns they currently have.
+
+Based on the several feedback moments with Media students, the XR Event, the IT festival and the CDT webinar we were able to conclude a few things, as documented in the [Feedback report](/documents/feedback-report).
+
+#### Concept
+The concept is good and liked. People are interested, want to know when they can use it, they like that it is more than a bunch of numbers. Some people related it to themselves, such as how they as a COPD patient can benefit from it. Some people supplemented additional use cases such as comparing long-term exposure rates. It was frequently compared to Buienradar.
+
+#### Questions
+There were a variety of questions, but they can mostly be summarized into a few general questions.
+- What are people seeing, is it good or bad?
+- What is the application meant for and/or how can people adjust their behaviour based on the application?
+- Where is the application best used?
+  These questions make the user understand the application better, making it easier for them to understand what they are seeing and draw conclusions.
+
+#### Adjustments
+Along with questions, a few adjustments were concluded based on this feedback so people understand the severity of the problem better.
+- Add the ability for more sources, such as through the sensor community. This allows people to 'personalise' it because they can apply it to their own environment.
+- A way for users to see how 'accurate' the visualization is. This is already in the designs but should be a priority in other iterations.
+  These adjustments make it more personal for the user, increasing the severity as it now affects them.
 <div style="page-break-after: always;"></div>  
 
 ## Conclusion
+The answer to the question 'How can the severity of city problems in Eindhoven be visualized using AR in a way that is accessible and understandable to the users?' can be partly answered. For this project, we essentially answered the question 'How can the severity of fine dust in Eindhoven be visualized using AR in a way that is accessible and understandable to the users?'. Parts of the research, however, are relevant to all city problems of Eindhoven.
 
-Answer: How can the severity of city problems in Eindhoven be visualized using AR in a way that is accessible and
-understandable to the users?
-<div style="page-break-after: always;"></div>  
+We have above concluded why we chose fine dust and why it is a problem. Based on this we created an application that can grow and be iterated upon to try and visualize the severity of fine dust in Eindhoven. The limiting factor is AR, as WebXR is not available on all devices. However, as time goes on this accessibility will increase. We have verified that the concept is understandable to the user and advised on how to improve this application to make it an even better answer to this question.
+
+All in all, the severity of fine dust in Eindhoven can be visualized using AR in a way that is accessible and understandable to the users using future iterations of the application currently on [cdt.skylervermeer.nl](cdt.skylervermeer.nl). Currently, the severity is not properly understandable and not accessible enough. With the processing of the advice report, this application should come close to being an answer to the research question.
 
 ## References
 
@@ -690,3 +717,8 @@ understandable to the users?
 
 [^29]: _Build a Marker-Based AR App in 6 minutes | Source Code included | kandi tutorial_. (n.d.). Retrieved 20 April 2023,
     from [https://www.youtube.com/watch?v=iSIj2KFwVT4](https://www.youtube.com/watch?v=iSIj2KFwVT4)
+
+[^30]: Introduction. (n.d.). A-Frame. Retrieved 5 June 2023, from https://aframe.io
+
+[^31]: WebXR Device API | Can I use... Support tables for HTML5, CSS3, etc. (n.d.). Retrieved 5 June 2023, from https://caniuse.com/webxr
+
