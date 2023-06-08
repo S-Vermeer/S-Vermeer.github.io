@@ -166,12 +166,12 @@ project on.
 
 ![Fine Dust Swot](/assets/fine-dust-swot.png)
 ![Biodiversity SWOT](/assets/biodiversity-swot.png)
-![Air Temperature SWOT](/assets/airtemp-water-swot.png)
+![Air Temperature SWOT](/assets/Airtemp-water-swot.png)
 ![Air Pollutant Emissions SWOT](/assets/air-pollutant-emissions-swot.png)
 
 Based on this, together with Simona, I decided that Fine Dust was the best choice to move forward, as this was the one
 with the most potential for success and would incorporate AR and AI the best. The complete breakdown of this
-decision-making process can be found in the [conclusion of chapter 1 of the Research Document](documents/research-document#conclusion---which-city-problem-will-we-be-focussing-on/).
+decision-making process can be found in the [conclusion of chapter 1 of the Research Document](/documents/research-document#conclusion---which-city-problem-will-we-be-focussing-on/).
 
 I was planning to make a requirement prioritization as indicated in the project plan, but during the research the
 priorities kept shifting as we discovered more and more things that we needed clarification on so I resorted to just
