@@ -2,8 +2,8 @@
 layout: page
 title: Weekly Progress Report Template
 permalink: /templates/progress_report_template/
-parent: Templates
-grand_parent: Organisation
+parent: Organisation
+grand_parent: Reference
 ---
 
 # Progress Report - Week X

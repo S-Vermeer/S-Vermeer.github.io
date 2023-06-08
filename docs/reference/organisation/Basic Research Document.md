@@ -2,8 +2,8 @@
 layout: page
 title: Basic Research Document Template
 permalink: /templates/research_doc_template/
-parent: Templates
-grand_parent: Organisation
+parent: Organisation
+grand_parent: Reference
 ---
 
 # Digital Twin Cities AR Zoom Lens - {NAME DOCUMENT}
