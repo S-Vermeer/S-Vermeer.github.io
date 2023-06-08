@@ -134,10 +134,10 @@ features. The initial features that stood out to me were easy linking between do
 how documents (and research) were connected, the ability to install plugins, the ability to create templates for
 documents easily and by using markdown the files would be easily viewable in git.
 
-Based on my documentation from previous semesters I created a [template](/templates/research_doc_template/) {LINK} for my documentation, used them for each
+Based on my documentation from previous semesters I created a [template](/templates/research_doc_template/) for my documentation, used them for each
 of the planned documents, and adjusted them to match the relevant document better.
 
-I also created a to-do list {LINK} so I had a better overview of important tasks that needed to be done. Later, I moved
+I also created a [to-do list](/todo-list/) so I had a better overview of important tasks that needed to be done. Later, I moved
 this over to [Trello](https://trello.com), so I could also filter my tasks and make them more visible to myself. I
 created 3 boards for this: Documentation, Development and Milestones. Documentation was to break down the documentation
 into bite-sized tasks and make sure I process the information such as expert interviews and feedback. It had the
