@@ -60,6 +60,9 @@ our research consisted of.
 - [3. Artificial Intelligence](#3-artificial-intelligence)
     - [3.1 What data is available regarding this problem](#31-what-data-is-available-regarding-this-problem)
     - [3.2 How can AI be used to make predictions using this data?](#32-how-can-ai-be-used-to-make-predictions-using-this-data)
+- [4. User Experience](#4-user-experience)
+  - [4.1 What devices will the ar-application be available on](#41-what-devices-will-the-ar-application-be-available-on)
+  - [4.2 How can it be verified whether users understand the severity of the city problem](#42-how-can-it-be-verified-whether-users-understand-the-severity-of-the-city-problem)
 - [Conclusion](#conclusion)
 
 ## 1. City problems
