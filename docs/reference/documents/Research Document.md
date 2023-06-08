@@ -720,5 +720,5 @@ All in all, the severity of fine dust in Eindhoven can be visualized using AR in
 
 [^30]: Introduction. (n.d.). A-Frame. Retrieved 5 June 2023, from https://aframe.io
 
-[^31]: WebXR Device API | Can I use... Support tables for HTML5, CSS3, etc. (n.d.). Retrieved 5 June 2023, from https://caniuse.com/webxr
+[^31]: WebXR Device API  Can I use... Support tables for HTML5, CSS3, etc. (n.d.). Retrieved 5 June 2023, from https://caniuse.com/webxr
 
