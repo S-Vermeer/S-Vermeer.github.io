@@ -587,109 +587,78 @@ understandable to the users?
     losses under increasing air temperature because of the decrease in spikelet density. _European Journal of Agronomy_,
     _99_, 21–29. [https://doi.org/10.1016/j.eja.2018.06.005](https://doi.org/10.1016/j.eja.2018.06.005)
 
-[^6]:
-  _Chapter 1—Global Warming of 1.5 oC_. (n.d.). Retrieved 13 February 2023,
-from [https://www.ipcc.ch/sr15/chapter/chapter-1/](https://www.ipcc.ch/sr15/chapter/chapter-1/)
+[^6]: _Chapter 1—Global Warming of 1.5 oC_. (n.d.). Retrieved 13 February 2023,
+    from [https://www.ipcc.ch/sr15/chapter/chapter-1/](https://www.ipcc.ch/sr15/chapter/chapter-1/)
 
-[^7]:
-  _Climate Change: Global Sea Level NOAA Climate.gov_. (n.d.). Retrieved 13 February 2023,
-from [http://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level](http://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level)
+[^7]: _Climate Change: Global Sea Level NOAA Climate.gov_. (n.d.). Retrieved 13 February 2023,
+    from [http://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level](http://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level)
 
-[^8]:
-  Hooper, D. U., Adair, E. C., Cardinale, B. J., Byrnes, J. E. K., Hungate, B. A., Matulich, K. L., Gonzalez, A.,
-Duffy, J. E., Gamfeldt, L., & O’Connor, M. I. (2012). A global synthesis reveals biodiversity loss as a major driver
-of ecosystem change. _Nature_, _486_(7401),
-105–108. [https://doi.org/10.1038/nature11118](https://doi.org/10.1038/nature11118)
+[^8]: Hooper, D. U., Adair, E. C., Cardinale, B. J., Byrnes, J. E. K., Hungate, B. A., Matulich, K. L., Gonzalez, A.,
+    Duffy, J. E., Gamfeldt, L., & O’Connor, M. I. (2012). A global synthesis reveals biodiversity loss as a major driver
+    of ecosystem change. _Nature_, _486_(7401),
+    105–108. [https://doi.org/10.1038/nature11118](https://doi.org/10.1038/nature11118)
 
-[^9]:
-  Cardinale, B. J., Duffy, J. E., Gonzalez, A., Hooper, D. U., Perrings, C., Venail, P., Narwani, A., Mace, G. M.,
-Tilman, D., Wardle, D. A., Kinzig, A. P., Daily, G. C., Loreau, M., Grace, J. B., Larigauderie, A., Srivastava, D.
-S., & Naeem, S. (2012). Biodiversity loss and its impact on humanity. _Nature_, _486_(7401),
-59–67. [https://doi.org/10.1038/nature11148](https://doi.org/10.1038/nature11148)
+[^9]: Cardinale, B. J., Duffy, J. E., Gonzalez, A., Hooper, D. U., Perrings, C., Venail, P., Narwani, A., Mace, G. M.,
+    Tilman, D., Wardle, D. A., Kinzig, A. P., Daily, G. C., Loreau, M., Grace, J. B., Larigauderie, A., Srivastava, D.
+    S., & Naeem, S. (2012). Biodiversity loss and its impact on humanity. _Nature_, _486_(7401),
+    59–67. [https://doi.org/10.1038/nature11148](https://doi.org/10.1038/nature11148)
 
-[^10]:
-  Otjes, R., & Close, J. P. (Directors). (2023, February 8). STAD VAN MORGEN - Special Guest: René Otjes—08.02.2023
-HQ. In _Stad van Morgen_.
-RARARADIO. [https://www.mixcloud.com/RARARADIO_EHV/stad-van-morgen-special-guest-rené-otjes-08022023/?play=fb](https://www.mixcloud.com/RARARADIO_EHV/stad-van-morgen-special-guest-rené-otjes-08022023/?play=fb)
+[^10]: Otjes, R., & Close, J. P. (Directors). (2023, February 8). STAD VAN MORGEN - Special Guest: René Otjes—08.02.2023
+    HQ. In _Stad van Morgen_.
+    RARARADIO. [https://www.mixcloud.com/RARARADIO_EHV/stad-van-morgen-special-guest-rené-otjes-08022023/?play=fb](https://www.mixcloud.com/RARARADIO_EHV/stad-van-morgen-special-guest-rené-otjes-08022023/?play=fb)
 
-[^11]:
-  Ritz, B., Hoffmann, B., & Peters, A. (2019). The Effects of Fine Dust, Ozone, and Nitrogen Dioxide on Health.
-_Deutsches Ärzteblatt International_, _116_(51–52),
-881–886. [https://doi.org/10.3238/arztebl.2019.0881](https://doi.org/10.3238/arztebl.2019.0881)
+[^11]: Ritz, B., Hoffmann, B., & Peters, A. (2019). The Effects of Fine Dust, Ozone, and Nitrogen Dioxide on Health.
+    _Deutsches Ärzteblatt International_, _116_(51–52),
+    881–886. [https://doi.org/10.3238/arztebl.2019.0881](https://doi.org/10.3238/arztebl.2019.0881)
 
-[^12]:
-  Carmigniani, J., & Furht, B. (2011). Augmented Reality: An Overview. In B. Furht (Ed.), _Handbook of Augmented
-Reality_ (pp. 3–46). Springer New
-York. [https://doi.org/10.1007/978-1-4614-0064-6_1](https://doi.org/10.1007/978-1-4614-0064-6_1)
+[^12]: Carmigniani, J., & Furht, B. (2011). Augmented Reality: An Overview. In B. Furht (Ed.), _Handbook of Augmented
+    Reality_ (pp. 3–46). Springer New
+    York. [https://doi.org/10.1007/978-1-4614-0064-6_1](https://doi.org/10.1007/978-1-4614-0064-6_1)
 
-[^13]:
-  _Frontend_. (n.d.). Retrieved 6 March 2023, from [https://itouchi.github.io/](https://itouchi.github.io/)
+[^13]: _Frontend_. (n.d.). Retrieved 6 March 2023, from [https://itouchi.github.io/](https://itouchi.github.io/)
 
-[^14]:
-  Boonbrahm, S., Boonbrahm, P., & Kaewrat, C. (2020). The Use of Marker-Based Augmented Reality in Space Measurement.
-_Procedia Manufacturing_, _42_,
-337–343. [https://doi.org/10.1016/j.promfg.2020.02.081](https://doi.org/10.1016/j.promfg.2020.02.081)
+[^14]: Boonbrahm, S., Boonbrahm, P., & Kaewrat, C. (2020). The Use of Marker-Based Augmented Reality in Space Measurement.
+    _Procedia Manufacturing_, _42_,
+    337–343. [https://doi.org/10.1016/j.promfg.2020.02.081](https://doi.org/10.1016/j.promfg.2020.02.081)
 
-[^15]:
-  Ahmed, M. N. (2016). Face Detection based Attendance marking
-System.. https://www.researchgate.net/profile/Varsha-H-S/publication/337672627_Face_Detection_based_Attendance_marking_System/links/5de4ab4492851c83645a14d5/Face-Detection-based-Attendance-marking-System.pdf
+[^15]: Ahmed, M. N. (2016). Face Detection based Attendance marking
+    System.. https://www.researchgate.net/profile/Varsha-H-S/publication/337672627_Face_Detection_based_Attendance_marking_System/links/5de4ab4492851c83645a14d5/Face-Detection-based-Attendance-marking-System.pdf
 
-[^16]:
-  Moghtadaiee, V., Dempster, A. G., & Lim, S. (2011). Indoor localization using FM radio signals: A fingerprinting
-approach. _2011 International Conference on Indoor Positioning and Indoor Navigation_,
-1–7. [https://doi.org/10.1109/IPIN.2011.6071932](https://doi.org/10.1109/IPIN.2011.6071932)
+[^16]: Moghtadaiee, V., Dempster, A. G., & Lim, S. (2011). Indoor localization using FM radio signals: A fingerprinting
+    approach. _2011 International Conference on Indoor Positioning and Indoor Navigation_,
+    1–7. [https://doi.org/10.1109/IPIN.2011.6071932](https://doi.org/10.1109/IPIN.2011.6071932)
 
-[^17]:
-  Chong, T. J., Tang, X. J., Leng, C. H., Yogeswaran, M., Ng, O. E., & Chong, Y. Z. (2015). Sensor Technologies and
-Simultaneous Localization and Mapping (SLAM). _Procedia Computer Science_, _76_,
-174–179. [https://doi.org/10.1016/j.procs.2015.12.336](https://doi.org/10.1016/j.procs.2015.12.336)
+[^17]: Chong, T. J., Tang, X. J., Leng, C. H., Yogeswaran, M., Ng, O. E., & Chong, Y. Z. (2015). Sensor Technologies and
+    Simultaneous Localization and Mapping (SLAM). _Procedia Computer Science_, _76_,
+    174–179. [https://doi.org/10.1016/j.procs.2015.12.336](https://doi.org/10.1016/j.procs.2015.12.336)
 
-[^18]:
-  Paucher, R., & Turk, M. (2010). Location-based augmented reality on mobile phones. _2010 IEEE Computer Society
-Conference on Computer Vision and Pattern Recognition - Workshops_,
-9–16. [https://doi.org/10.1109/CVPRW.2010.5543249](https://doi.org/10.1109/CVPRW.2010.5543249)
+[^18]: Paucher, R., & Turk, M. (2010). Location-based augmented reality on mobile phones. _2010 IEEE Computer Society
+    Conference on Computer Vision and Pattern Recognition - Workshops_,
+    9–16. [https://doi.org/10.1109/CVPRW.2010.5543249](https://doi.org/10.1109/CVPRW.2010.5543249)
 
-[^19]:
-  Behringer, R., Klinker, G., & Mizell, D. (1999). _Augmented Reality: Placing Artificial Objects in Real Scenes_. CRC
-Press.
+[^19]: Behringer, R., Klinker, G., & Mizell, D. (1999). _Augmented Reality: Placing Artificial Objects in Real Scenes_. CRC Press.
 
-[^20]:
-  _Create an AR game using Unity’s AR Foundation_. (n.d.). Google Codelabs. Retrieved 7 March 2023,
-from [https://codelabs.developers.google.com/arcore-unity-ar-foundation](https://codelabs.developers.google.com/arcore-unity-ar-foundation).
+[^20]: _Create an AR game using Unity’s AR Foundation_. (n.d.). Google Codelabs. Retrieved 7 March 2023,
+    from [https://codelabs.developers.google.com/arcore-unity-ar-foundation](https://codelabs.developers.google.com/arcore-unity-ar-foundation).
 
-[^21]:
-  Indra M (Director). (2022, June 8). _Create an AR game using Unity’s AR Foundation (Car Driving) | Unity 2020 (
-Codelab Tutorial)_. [https://www.youtube.com/watch?v=-wWOktZCSX0](https://www.youtube.com/watch?v=-wWOktZCSX0)
+[^21]: Indra M (Director). (2022, June 8). _Create an AR game using Unity’s AR Foundation (Car Driving) | Unity 2020 (
+    Codelab Tutorial)_. [https://www.youtube.com/watch?v=-wWOktZCSX0](https://www.youtube.com/watch?v=-wWOktZCSX0)
 
-[^22]:
-  _Aframe-react_. (2018, February 12).
-Npm. [https://www.npmjs.com/package/aframe-react](https://www.npmjs.com/package/aframe-react)
+[^22]: _Aframe-react_. (2018, February 12). Npm. [https://www.npmjs.com/package/aframe-react](https://www.npmjs.com/package/aframe-react)
 
-[^23]:
-  _React-native-unity-view-reinvented_. (2019, December 2).
-Npm. [https://www.npmjs.com/package/react-native-unity-view-reinvented](https://www.npmjs.com/package/react-native-unity-view-reinvented)
+[^23]: _React-native-unity-view-reinvented_. (2019, December 2). Npm. [https://www.npmjs.com/package/react-native-unity-view-reinvented](https://www.npmjs.com/package/react-native-unity-view-reinvented)
 
-[^24]:
-  Madsen, A. S. (2023).
-_React-native-unity-view_ [C#]. [https://github.com/asmadsen/react-native-unity-view](https://github.com/asmadsen/react-native-unity-view) (
-Original work published 2019)
+[^24]: Madsen, A. S. (2023).
+    _React-native-unity-view_ [C#]. [https://github.com/asmadsen/react-native-unity-view](https://github.com/asmadsen/react-native-unity-view) (
+    Original work published 2019)
 
-[^25]:
-  _@azesmway/react-native-unity_. (2022, November 25).
-Npm. [https://www.npmjs.com/package/@azesmway/react-native-unity](https://www.npmjs.com/package/@azesmway/react-native-unity)
+[^25]: _@azesmway/react-native-unity_. (2022, November 25). Npm. [https://www.npmjs.com/package/@azesmway/react-native-unity](https://www.npmjs.com/package/@azesmway/react-native-unity)
 
-[^26]:
-  _React-native-unity-play_. (2021, June 7).
-Npm. [https://www.npmjs.com/package/react-native-unity-play](https://www.npmjs.com/package/react-native-unity-play)
+[^26]: _React-native-unity-play_. (2021, June 7). Npm. [https://www.npmjs.com/package/react-native-unity-play](https://www.npmjs.com/package/react-native-unity-play)
 
-[^27]:
-  _React-unity-webgl_. (2023, January 6).
-Npm. [https://www.npmjs.com/package/react-unity-webgl](https://www.npmjs.com/package/react-unity-webgl)
+[^27]: _React-unity-webgl_. (2023, January 6). Npm. [https://www.npmjs.com/package/react-unity-webgl](https://www.npmjs.com/package/react-unity-webgl)
 
-[^28]:
-  _Image Tracking and Location-Based AR with A-Frame and AR.js 3_. (n.d.). A-Frame. Retrieved 20 April 2023,
-from [https://aframe.io](https://aframe.io)
+[^28]: _Image Tracking and Location-Based AR with A-Frame and AR.js 3_. (n.d.). A-Frame. Retrieved 20 April 2023, from [https://aframe.io](https://aframe.io)
 
-[^29]:
-  _Build a Marker-Based AR App in 6 minutes | Source Code included | kandi tutorial_. (n.d.). Retrieved 20 April 2023,
-from [https://www.youtube.com/watch?v=iSIj2KFwVT4](https://www.youtube.com/watch?v=iSIj2KFwVT4)
+[^29]: _Build a Marker-Based AR App in 6 minutes | Source Code included | kandi tutorial_. (n.d.). Retrieved 20 April 2023,
+    from [https://www.youtube.com/watch?v=iSIj2KFwVT4](https://www.youtube.com/watch?v=iSIj2KFwVT4)
