@@ -575,18 +575,17 @@ understandable to the users?
     n.d.). [https://doi.org/10.1016/j.ufug.2020.126870](https://doi.org/10.1016/j.ufug.2020.126870)
 
 [^3]: McDonald, R. I., Mansur, A. V., Ascensão, F., Colbert, M., Crossman, K., Elmqvist, T., Gonzalez, A., Güneralp, B.,
-  Haase, D., Hamann, M., Hillel, O., Huang, K., Kahnt, B., Maddox, D., Pacheco, A., Pereira, H. M., Seto, K. C.,
-  Simkin, R., Walsh, B., … Ziter, C. (2020). Research gaps in knowledge of the impact of urban growth on biodiversity.
-  _Nature Sustainability_, _3_(1), Article 1. [https://doi.org/10.1038/s41893-019-0436-6](https://doi.org/10.1038/s41893-019-0436-6)
+    Haase, D., Hamann, M., Hillel, O., Huang, K., Kahnt, B., Maddox, D., Pacheco, A., Pereira, H. M., Seto, K. C.,
+    Simkin, R., Walsh, B., … Ziter, C. (2020). Research gaps in knowledge of the impact of urban growth on biodiversity.
+    _Nature Sustainability_, _3_(1), Article 1. [https://doi.org/10.1038/s41893-019-0436-6](https://doi.org/10.1038/s41893-019-0436-6)
 
 [^4]: Pope, C. A., Ezzati, M., & Dockery, D. W. (2009). Fine Particulate Air Pollution and US County Life Expectancies.
-  _The New England Journal of Medicine_, _360_(4),
-  376–386. [https://doi.org/10.1056/NEJMsa0805646](https://doi.org/10.1056/NEJMsa0805646)
+    _The New England Journal of Medicine_, _360_(4),
+    376–386. [https://doi.org/10.1056/NEJMsa0805646](https://doi.org/10.1056/NEJMsa0805646)
 
-[^5]:
-  Wang, W., Cai, C., Lam, S. K., Liu, G., & Zhu, J. (2018). Elevated CO2 cannot compensate for japonica grain yield
-losses under increasing air temperature because of the decrease in spikelet density. _European Journal of Agronomy_,
-_99_, 21–29. [https://doi.org/10.1016/j.eja.2018.06.005](https://doi.org/10.1016/j.eja.2018.06.005)
+[^5]: Wang, W., Cai, C., Lam, S. K., Liu, G., & Zhu, J. (2018). Elevated CO2 cannot compensate for japonica grain yield
+    losses under increasing air temperature because of the decrease in spikelet density. _European Journal of Agronomy_,
+    _99_, 21–29. [https://doi.org/10.1016/j.eja.2018.06.005](https://doi.org/10.1016/j.eja.2018.06.005)
 
 [^6]:
   _Chapter 1—Global Warming of 1.5 oC_. (n.d.). Retrieved 13 February 2023,
