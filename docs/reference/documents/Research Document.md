@@ -541,10 +541,38 @@ data.
 
 ### 3.2 How can AI be used to make predictions using this data?
 
-As this project is done in the context of an AI internship, artificial intelligence is also an important aspect. To see
-which AI will be created, some *Data Analytics* is needed and based on that a Prototype will be created. After testing
-that prototype we can see whether the predictions have the desired effect.
-<div style="page-break-after: always;"></div>  
+The initial concept meant a time and location based prediction of fine dust. Based on a previous project where time series was used we tried multiple models to see which ones would be suitable for tuning.
+
+ARIMA:
+![ARIMA Visual](/assets/Pasted image 20230606134901.png)
+
+ETS:
+![ETS Visual](/assets/Pasted image 20230606134939.png)
+
+Prophet:
+![Prophet Visual](/assets/Pasted image 20230606135015.png)
+
+
+SNAIVE:
+![SNAIVE Visual](/assets/Pasted image 20230606135041.png)
+
+
+Seasonal ARIMA:
+![Seasonal ARIMA Visual](/assets/Pasted image 20230606135105.png)
+
+Polynomial Features:
+![Polynomial Features Visual](/assets/Pasted image 20230606135142.png)
+
+As you can see, they do not perform even close to a level that is acceptable. Most come close to a straight line. That is why we decided to add weather data to see how that would improve it. The only option for this was Prophet. For the weather data we used wind direction, wind speed, precipitation and temperature. This is based on the feedback from our expert Jean-Paul and from TNO. This produced the following results.
+
+![Prophet with weather data visual](/assets/Pasted image 20230606135314.png)
+
+As you can see, this is close to the actual data. Of course it is not perfect, but seeing as the users will also not be standing on top of the sensor, the results will always be an approximation of the actual values.
+
+### Conclusion
+Time series data alone are not sufficient to predict accurate results for fine dust. Combined with local weather data the predictions come close to the real data, as long as it is a prediction not too long after the historical data. That is also why the data will constantly need to be updated to be as accurate as possible. Using Prophet, data of fine dust per location grouped per hour and using local weather data can make predictions.
+
+In the future other predictions might be able to be added, such as by adjusting the weather data features but for now a prediction of the concentration of PM10, PM2.5 and PM1 per hour on a location is the prediction that we know can be done based on the current data.
 
 ## 4. User Experience
 
