@@ -132,3 +132,6 @@ As detailed in the conclusion of the [Research Document](/documents/research-doc
 
 ## Recommendations
 For the recommendations, I refer you to the [Advice Report](/documents/advice-report/).
+
+## References
+[^1]: Goudriaan, R., Zhang, J., Tokaya, J. P., Hensen, A., van Dinter, D., Kaandorp, J. J., Blom, M. J., & Plomp, A. (2022). Regionaal meetnet ILM2 in Zuidoost-Brabant: Jaarrapportage 2021. https://repository.tno.nl/islandora/object/uuid%3A9f6fd889-efce-4e7c-bf4b-56f690e25dac

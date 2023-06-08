@@ -139,7 +139,7 @@ Twins project.
 The research in itself, on the city problems in Eindhoven is extensive and can be used for future projects that might
 use a different domain and have different objectives. The same goes for my research on AR.
 
-As for the data aspect, the data I scraped was used by Simona in a research paper[^2], and my research found inconsistencies
+As for the data aspect, the data I scraped was used by Simona in a research paper[^1], and my research found inconsistencies
 in the API from TNO, which is valuable to our expert, TNO and future and past users of the data.
 
 I used my previous knowledge in AI to pick time series models and tuned them until there was a model that worked. This
@@ -313,5 +313,4 @@ work, but due to issues with for example versioning this was simply not possible
 have improved upon by for example setting a goal beforehand on when I should ask for help.
 
 ## Reference
-[^1]: Goudriaan, R., Zhang, J., Tokaya, J. P., Hensen, A., van Dinter, D., Kaandorp, J. J., Blom, M. J., & Plomp, A. (2022). Regionaal meetnet ILM2 in Zuidoost-Brabant: Jaarrapportage 2021. https://repository.tno.nl/islandora/object/uuid%3A9f6fd889-efce-4e7c-bf4b-56f690e25dac
-[^2]: Langhorst, T., Punter, T., Orzan, S., & Witkamp, B.-J. (2023). A mixed data grid approach for systemic city questions.
+[^1]: Langhorst, T., Punter, T., Orzan, S., & Witkamp, B.-J. (2023). A mixed data grid approach for systemic city questions.
