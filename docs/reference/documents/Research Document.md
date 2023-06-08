@@ -570,21 +570,18 @@ understandable to the users?
 [^1]: _Explore—Eindhoven Open Data_. (n.d.). Retrieved 10 February 2023,
     from [https://data.eindhoven.nl/explore/?refine.theme=Nature+and+environment&sort=modified](https://data.eindhoven.nl/explore/?refine.theme=Nature+and+environment&sort=modified)
 
-[^2]: 
-  _Impacts of nature-based solutions on the urban atmospheric environment: A case study for Eindhoven, The Netherlands
+[^2]: _Impacts of nature-based solutions on the urban atmospheric environment: A case study for Eindhoven, The Netherlands
     Elsevier Enhanced Reader_. (
     n.d.). [https://doi.org/10.1016/j.ufug.2020.126870](https://doi.org/10.1016/j.ufug.2020.126870)
 
-[^3]:
-  McDonald, R. I., Mansur, A. V., Ascensão, F., Colbert, M., Crossman, K., Elmqvist, T., Gonzalez, A., Güneralp, B.,
-Haase, D., Hamann, M., Hillel, O., Huang, K., Kahnt, B., Maddox, D., Pacheco, A., Pereira, H. M., Seto, K. C.,
-Simkin, R., Walsh, B., … Ziter, C. (2020). Research gaps in knowledge of the impact of urban growth on biodiversity.
-_Nature Sustainability_, _3_(1), Article 1. [https://doi.org/10.1038/s41893-019-0436-6](https://doi.org/10.1038/s41893-019-0436-6)
+[^3]: McDonald, R. I., Mansur, A. V., Ascensão, F., Colbert, M., Crossman, K., Elmqvist, T., Gonzalez, A., Güneralp, B.,
+  Haase, D., Hamann, M., Hillel, O., Huang, K., Kahnt, B., Maddox, D., Pacheco, A., Pereira, H. M., Seto, K. C.,
+  Simkin, R., Walsh, B., … Ziter, C. (2020). Research gaps in knowledge of the impact of urban growth on biodiversity.
+  _Nature Sustainability_, _3_(1), Article 1. [https://doi.org/10.1038/s41893-019-0436-6](https://doi.org/10.1038/s41893-019-0436-6)
 
-[^4]:
-  Pope, C. A., Ezzati, M., & Dockery, D. W. (2009). Fine Particulate Air Pollution and US County Life Expectancies.
-_The New England Journal of Medicine_, _360_(4),
-376–386. [https://doi.org/10.1056/NEJMsa0805646](https://doi.org/10.1056/NEJMsa0805646)
+[^4]: Pope, C. A., Ezzati, M., & Dockery, D. W. (2009). Fine Particulate Air Pollution and US County Life Expectancies.
+  _The New England Journal of Medicine_, _360_(4),
+  376–386. [https://doi.org/10.1056/NEJMsa0805646](https://doi.org/10.1056/NEJMsa0805646)
 
 [^5]:
   Wang, W., Cai, C., Lam, S. K., Liu, G., & Zhu, J. (2018). Elevated CO2 cannot compensate for japonica grain yield
