@@ -12,9 +12,9 @@ nav_order: 5
 **_Fontys Lectorate High Tech Embedded Systems Eindhoven_**  
 _Eindhoven_
 
-| Date    | 25-05-2023     |
+| Date    | 08-06-2023     |
 |:--------|:---------------|
-| Version | 2.1.0          |
+| Version | 2.1.1          |
 | Status  | Finished Draft |
 | Author  | Skyler Vermeer |  
 
@@ -29,13 +29,15 @@ _Eindhoven_
 | 1.0.0       | 30-03-2023 | Skyler Vermeer | Added Prep + Feedback Clickable Prototype                                             | Draft          |
 | 2.0.0       | 24-05-2023 | Skyler Vermeer | Added Prep + Feedback High Fidelity prototype (xr event and it festival) + Conclusion | Finished Draft |
 | 2.1.0       | 25-05-2023 | Skyler Vermeer | Formatting and spelling error fixes                                                   | Finished Draft |  
+| 2.1.1       | 08-06-2023 | Skyler Vermeer | Added 1.1, 1.2 etc                                                                    | Finished Draft |  
+
 
 ### **Communication**
 
-| **Version** | **Date** | **To**       |
-|:------------|:---------|:-------------|
-| 2.0.0       | 24-5-23  | Simona Orzan |
-| XXX         | xxxx     | xxxx         |  
+| **Version** | **Date**   | **To**       |
+|:------------|:-----------|:-------------|
+| 2.0.0       | 24-05-2023 | Simona Orzan |
+| XXX         | xxxx       | xxxx         |  
 
 ## Introduction
 
@@ -51,10 +53,10 @@ improve within our scope will be improved and the parts outside our scope will b
 
 - [1. Clickable Prototype / WireFrame](#1-clickable-prototype--wireframe)
     - [Introduction](#introduction-1)
-    - [Preparation](#preparation)
+    - [1.1 Preparation](#11-preparation)
         - [Expo / Survey](#expo--survey)
         - [Through other eyes](#through-other-eyes)
-    - [Feedback](#feedback)
+    - [1.2 Feedback](#12-feedback)
         - [Expo](#expo)
         - [Media Design Students](#media-design-students)
             - [Group 1 - 3 Guys](#group-1---3-guys)
@@ -62,10 +64,10 @@ improve within our scope will be improved and the parts outside our scope will b
     - [Conclusion](#conclusion)
 - [2. High-Fidelity Prototype](#2-high-fidelity-prototype)
     - [Introduction](#introduction-2)
-    - [Preparation](#preparation-1)
+    - [2.1 Preparation](#21-preparation)
         - [Augmented Reality Expo](#augmented-reality-expo)
         - [Artificial Intelligence Expo](#artificial-intelligence-expo)
-    - [Feedback](#feedback-1)
+    - [2.2 Feedback](#22-feedback)
         - [XR Event](#xr-event)
         - [IT Festival](#it-festival)
     - [Conclusion](#conclusion-1)
@@ -84,14 +86,14 @@ The designs in question are:
 ![initial designs app1](/assets/initial-designs-app1.png)
 ![initial designs app2](/assets/initial-designs-app2.png)
 
-### Preparation
+### 1.1 Preparation
 
 #### Expo / Survey
 
 On March 27th there was an interactive poster market where students could use the visitors to verify their concepts and
 projects. In preparation for this, we made a survey to test our clickable prototype.
 
-The goal of our survey is to get an overview of our testers so we could relate them to our personas, see what their
+The goal of our survey is to get an overview of our testers so we could relate them to our [personas](/assets/personas.png), see what their
 current knowledge of fine dust is, and get feedback on both the concept and designs.
 
 The questions prepared in a printed survey were:
@@ -139,7 +141,7 @@ design instead of also testing the base knowledge of the testers and relating th
 For this, we explained the concept, walked them through the prototype to show the different designs for them to provide
 feedback on and allowed them to comment on it.
 
-### Feedback
+### 1.2 Feedback
 
 #### Expo
 
@@ -247,7 +249,7 @@ To validate the base concept that the research is based on, and to see what need
 continued, we made a high-fidelity prototype. The goal is to see how much the user already comprehends the project,
 what they think of the project and see the limitations of the current project.
 
-### Preparation
+### 2.1 Preparation
 
 #### Augmented Reality Expo
 
@@ -289,7 +291,7 @@ functionality to be able to look 6 hours into the past and the future. With the 
 automatically for the location that the user is using. This includes historical weather data and a weather forecast for
 the coming 6 hours.
 
-### Feedback
+### 2.2 Feedback
 
 #### XR Event
 
