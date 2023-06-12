@@ -1,4 +1,4 @@
-# CDT A(I)R Zoom Lens - Documentation 
+# CDT A(I)R Zoom Lens - Portfolio 
   
 ## Description  
 ### Background  
@@ -7,57 +7,13 @@ This project is part of the City Digital Twin project, which was created to enri
 #### Fine Dust  
 This project will be concerning fine dust. Fine dust is a mixture of particles < 10 µm (0.01 mm) from various sources. Fine dust is harmful to the health of people. This is because its chemical and physical properties produce oxidative stress on mitochondria, DNA and proteins. It can also cause systemic inflammatory reactions. It also has been connected with cardiovascular disease and some cancers.  
   
-For more information, look at the research documentation in [the research document](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation/-/blob/main/Documents/Research%20Document.md).  
+For more information, look at the research documentation in [the research document](https://s-vermeer.github.io/documents/research-document).  
   
 ### Concept  
 For this project we will be using Augmented Reality to visualize the fine dust particles so they are more tangible to the inhabitants of Eindhoven.  We will also be using Artificial Intelligence to predict the behaviour of fine dust.
-  
-#### Current Features  
-We currently have already researched/documented a few things:
 
-Research
-- City Problems in Eindhoven
-	- Fine dust (including expert)
-- Augmented Reality
-
-Designs
-- Personas (Not yet validated)
-- Designs (Validated)
-
-  
-#### In Progress Features  
-We are currently working on / will be working in the near future on researching/documenting the following:
-
-Data
-- Document potential models / predictions
-
-Design
-- Document user testing HTML vs (React) application
-- Document Requirement Prioritization
-
-Software Architecture
-- Document data collection and storage
-- Document testing HTML vs (React) application
-  
-#### Desired future features  
-{Scope but not yet started}  
-{Advise but outside of scope}  
-  
-## Visuals  
-### Design  
-{Sketches or other designs}  
-  
-### Current Progress  
-{Gif, screenshot or video of what it looks like rn}  
-  
-## Installation  
-XXXX  
-  
-## Usage  
-XXXX  
-  
-## Roadmap  
-XXXX  
+### Aim of Repository
+This repository is meant for a digital representation of the portfolio. It is hosted using Github Pages and the just-the-docs template on [https://s-vermeer.github.io](https://s-vermeer.github.io). It can be used to reference the documentation more easily, but all research and code can be found on [the documentation git](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-documentation) , [the front-end git](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-front-end) and [the back-end git](https://git.fhict.nl/I428513/cdt-a-i-r-zoom-lens-back-end). The deployed version of the application can be found on [cdt.skylervermeer.nl](cdt.skylervermeer.nl).
   
 ## Authors and acknowledgment  
 ### Authors  
