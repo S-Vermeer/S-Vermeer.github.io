@@ -10,18 +10,18 @@ nav_order: 12
 
 ### General info
 **Week**: 12  
-**Phase**: {XXXX}  
-**Contacted**: {XXXX}  
+**Phase**:  3 - Component Development  
+**Contacted**: TNO, Frank, Simona
 **Document(s) handed in**: {XXX}  
 
 ##### Biggest accomplishment
-xxxxx
+Practically finish AR component
 
 ##### Biggest setback
-xxxx
+The XR event didn't bring as much feedback as hoped
 
 ### Daily progress
-![Test Image](basic-weekly-template.png)
+![[Week12-progress.png]]
 
 ##### Monday
 During the holiday I worked a bit on the meeting wtih TNO, a little bit of modelling so it could run in the background and I worked a bit on documenting my research on the weight of fine dust particles. However, I knew that my feedback was mainly to take breaks so I decided to spent the majority of my holiday as the free days I was entitled to by my contract.

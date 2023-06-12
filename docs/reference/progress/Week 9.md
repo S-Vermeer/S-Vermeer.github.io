@@ -21,7 +21,7 @@ The extremely positive feedback I received from Simona and my progress with inte
 Javascript not allowing direct requests to the API
 
 ### Daily progress
-![Test Image](basic-weekly-template.png)
+![ProgressWeek9 Image](/assets/Week9-progress.png)
 
 ##### Monday
 Second Easter day

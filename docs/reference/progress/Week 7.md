@@ -21,7 +21,7 @@ I managed to get help on multiple fronts, AR and validating my designs so I coul
 I am still quite stuck in some aspects, for example my EDA I am having trouble getting trends from my data, and the AR for now is still 'location based' so based on a GPS location instead of the phone location.
 
 ### Daily progress
-![Test Image](basic-weekly-template.png)
+![ProgressWeek7 Image](/assets/Week7-progress.png)
 
 ##### Monday
 On Monday I started by prioritising my tasks and figuring out what I would need for the poster market so I would be able to validate my designs and such during the expo. I also asked Frank to open a Feedpulse as I noticed that I hadn't documented my feedback there in a while. Then I started working on the basics for [[Personas]] and User stories so I would be able to set up my questions for a survey for during the expo more targeted.

@@ -21,7 +21,7 @@ I finally have all the data, which means I can start researching AI, and I have 
 It is proving to be very difficult to get AR in something that is accessible to our users. I can't get location-based AR to work on html (AR.js), I can get it to work on Unity but I would prefer it if I could make a React app with Unity integrated so I only have to do the AR in Unity instead of an entire app.
 
 ### Daily progress
-![Test Image](basic-weekly-template.png)
+![ProgressWeek5 Image](/assets/Week5-progress.png)
 
 ##### Monday
 Monday I was waiting for the API to get back up again to finish the last little bit of data acquisition. However, this took longer than I thought and had hoped and meanwhile I couldn't do anything as that last branch was quite far away from the last main commit. 

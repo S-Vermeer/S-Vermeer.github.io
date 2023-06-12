@@ -13,7 +13,7 @@ I managed to use my time efficiently so I did not have any stress about whether 
 There was a lot of time between the start of the internship and the first communication with Simona. I was able to set up some stuff, but there was also a lot of time that could have been better spent.
 
 ### Daily progress
-![ProgressWeek1 Image](Week1-progress.png)
+![ProgressWeek1 Image](/assets/Week1-progress.png)
 
 ##### Monday
 Monday was the first day of the internship. The first thing I did was contact my coach to see whether he wanted to meet before we were meeting with my internship tutor on Thursday. I met with him for a few minutes at the end of the day. After contacting him, I started transferring all the information of the [[Project Proposal]] to the [[Project Plan]]. When that was done, I started looking at which parts I could already fill in. Things such as who will be involved in my project and a more detailed explanation of my research. After that I worked on researching [[Augmented Reality]] for a little bit. Lastly I worked on setting up my organization by creating a [[To Do]] list and figuring out which [[Questions]] I wanted to ask my coaches on Thursday and setting up a [[Basic Research Document]] template.

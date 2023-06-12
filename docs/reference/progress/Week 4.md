@@ -21,7 +21,7 @@ I managed to get a little bit of AR working in Unity, which is more than I was a
 Jean-Paul had a lot of insights, however they did not make things easier for me. For example he mentioned how fine dust wasn't really able to be predicted and how between the sensor and 1 meter from the sensor there was a world of difference in the amount of fine dust particles. So that forced me to choose between making the solution fit the problem and fit the requests of the stakeholder and scope.
 
 ### Daily progress
-![Test Image](basic-weekly-template.png)
+![ProgressWeek4 Image](/assets/Week4-progress.png)
 
 ##### Monday
 Though a lot of data has been collected during the weekend, one of the locations is longer than the rest of them, and started collecting in 2015. This is good for some aspects, but as the API stopped working during the collection, the collecting needs to restart for that location and still start for the last 2 locations. This means that we still do not have all the data. Luckily we got the AR research so we can continue with that while we wait until we can combine all the data into one. I worked on AR techniques and spent the majority of my time on that.

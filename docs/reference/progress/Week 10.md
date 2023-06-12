@@ -21,7 +21,7 @@ Setting up the docker images so the images are linked to the repositories I use.
 I spent a lot of time on CORS, and though I documented it and learned from it, it still is quite a lot of time spent trying to figure it out.
 
 ### Daily progress
-![Test Image](basic-weekly-template.png)
+![ProgressWeek10 Image](/assets/Week10-progress.png)
 
 ##### Monday
 On Monday I tried to get requests to the API working by trying to execute python in javascript and though I got it to work to run python in javascript, the errors from the requests module still existed so this was still not an option. Though it should allow GET requests, CORS is still not allowing me to request to the API. So I tried to see whether I could figure out how to do it from the original javascript approach. So far without success. I also started on documenting my experimenting and research on CORS.

@@ -21,7 +21,7 @@ I managed to make a Marker-based AR application (in html) for the poster.
 The deadline of the poster meant that I spent more time focusing on creating the poster and figuring out things for that than on things such as the EDA which also needs some research still.
 
 ### Daily progress
-![Test Image](basic-weekly-template.png)
+![ProgressWeek6 Image](/assets/Week6-progress.png)
 
 ##### Monday
 Monday was a day that was filled with other meetings and preparing for those meetings. I started by preparing for a presentation I would be giving for game design students to tell them about the lectorate. After that I had a meeting with a recruiter and a coordinator from the digital forensics team at the police that went extremely well but did take some time. After that I was supposed to do the game design students presentation, but this got moved to Friday. Seeing as I didn't have a lot of time between then and when I had to leave for the different location as I had a training there later, I decided to explore my options for minors some more and have lunch. When I was at the other location I rehearsed my pitch for the training again as I needed to know it by memory at the training.

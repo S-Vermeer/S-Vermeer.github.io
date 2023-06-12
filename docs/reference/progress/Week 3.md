@@ -21,7 +21,7 @@ I got in contact with an expert on Fine Dust, who will help me extend my researc
 The data is taking a long time, much longer than expected. This is quite a setback as I have it on a different branch to help with separating the different aspects, however if I want to change branches, the file I use to collect the data is absent so I can't do anything until I merge the data collection branch to the main branch.
 
 ### Daily progress
-![Daily Progress Week 3](Week3-progress.png)
+![Daily Progress Week 3](/assets/Week3-progress.png)
 
 ##### Monday
 During the holiday the data was scraping, but it was not done yet. That is why it was still going on on Monday. Meanwhile I fixed an issue with my git that my commits weren't pushing due to me sending too big of a chunk of large files in one go. This could be solved by pushing using the terminal. I also contacted my stakeholder again as she was supposed to check my project plan and research but during the holiday she sent me a message that she would check it Wednesday of the holiday at the latest. I hadn't received anything yet so I wanted to confirm that I wasn't missing where it was. During the holiday I also contacted Aytaç again as he hadn't been online on teams since I sent him a message, so I contacted him through email this time.

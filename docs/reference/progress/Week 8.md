@@ -21,7 +21,7 @@ Displaying the AR relative to the user in an iframe.
 It has been a while since I used CSS and JQuery, so it took longer than it should have to use these. 
 
 ### Daily progress
-![Test Image](basic-weekly-template.png)
+![ProgressWeek8 Image](/assets/Week8-progress.png)
 
 ##### Monday
 On Monday I started experimenting more with AR. I have no clue how, but for some reason the code I had at that moment worked relative to the phone instead of GPS based, which is what we wanted. I made the proof of concepts a little more defined.

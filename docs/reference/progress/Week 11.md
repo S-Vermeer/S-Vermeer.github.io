@@ -21,7 +21,7 @@ I managed to get my pipeline deployed for the front-end using docker, so now if 
 Due to a national holiday and a holiday coming up I wasn't as productive as I would have liked. I was also struggling quite a bit with questions that I couldn't get answers to until I spoke with Simona on Wednesday.
 
 ### Daily progress
-![Test Image](basic-weekly-template.png)
+![ProgressWeek11 Image](/assets/Week11-progress.png)
 
 ##### Monday
 On monday I started the day by talking to Bart. He was asking how it was going and I mentioned that I was trying to figure out how much a fine dust particle weighed. After talking about this, he mentioned that it might help to prepare things for the knowledge sharing sessions, as it might help me think differently. If I prepare it so it is explainable to my colleagues, it might help make things clear as well as make it easier to ask for help. He also said that I needed to watch the balance of doing proper research and actually doing what I needed to do, as acknowledging your limitations is also part of the learning process. I also mentioned that I believed figuring out what particles weighed was a proper internship research in itself, so figuring out how much effort to put into it was quite difficult. 

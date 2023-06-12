@@ -21,7 +21,7 @@ I practically finished my project plan. There might be some minor points of feed
 The past data for fine dust is not easily accessible. You can download it, but if you want to download all of them it really messes with the columns. However, you can seperate which ones you download, but you can only download in batches of 70 days. There is an API but I have not found a way yet where you can get past data so  I also can't automate the process (yet). So I either need to manually select and wait for 58 locations to download and do that in sets of max 70 days, or I need to figure out a way for the API to do it automatically or figure out a way to fix the columns.
 
 ### Daily progress
-![Daily Progress week 2](Week2-progress.png)
+![Daily Progress week 2](/assets/Week2-progress.png)
 
 ##### Monday
 On Monday I started by setting up a FHICT gitlab repository and transferring all my current research on there so it was easily accessible and I could more easily share the markdown files I was creating in the note taking program I am using, Obsidian. This because I noticed that once I converted them to PDF it didn't look as clean as I wanted, and some of the links weren't working. So I decided to invest some time to set up both a gitlab repository that I would be using later, as well as converting some of my previous markdown as some references only worked in obsidian but there were also multifunctional references that would work in both Obsidian and the Gitlab markdown view. I didn't update all links, just the documents I was working on at that moment.
