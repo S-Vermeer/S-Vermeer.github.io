@@ -249,7 +249,7 @@ information so the user has the impression that the object is not there (Carmign
 
 To visualize this problem, based on the requests and feedback from the stakeholder and expert we started by creating
 sketches.
-{Scan and upload sketches}
+![Sketches](/assets/Pasted image 20230612111839.png)
 
 After creating these sketches, we talked them through with the stakeholder. She said that the zoom-in designs both look
 good, and the zoomed-in version looks the best. A good idea is to add a 'confidence level' to the designs to indicate

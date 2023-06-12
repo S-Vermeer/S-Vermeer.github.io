@@ -205,9 +205,9 @@ market, however, the attendance at this event was not as high as expected and th
 Based on their feedback, I updated my designs and then verified them with my company coach and the expert.
 
 Based on these verified designs, I started developing the application using HTML, CSS and Javascript in combination with AR.js and Aframe. I created some custom models, so I could test the application using a custom model instead of the built-in features such as a-plane. I used [Blender](https://www.blender.org/) for this as this is an application I was already somewhat familiar with.
-{MODEL -> on different laptop}
+![Initial model](/assets/Pasted image 20230612112628.png)
 The model was a good recognizable model for the development, but it didn't look good so when the problem of the weight of Fine Dust came up, I decided together with Simona to go for brightly coloured sphere's scaled to the particle.
-{MODEL -> on different laptop}
+![Example of new model, PM2.5](/assets/Pasted image 20230612112803.png)
 Around this same time the visual was adjusted to have the sphere's depicted on a plane instead of flying around, to make it easier to position and see.
 ![IT festival visual -> model on plane](/assets/it-festival-demo-visual.jpg)
 
@@ -544,9 +544,8 @@ My first scope wasn't the final scope, but I did work on better adjusting the sc
 have achieved my original scope if the TNO data didn't cause such a delay, but this is also part of scoping. I did
 manage to follow most of my approach and due to my progress reports I also have better indications of how long I spent
 on something so I could better scope in the future. I did discuss the scope with Simona multiple times. I have sometimes adjusted it based on her feedback, and other times she just agreed with it.
+![Image of effort every week](/assets/Pasted image 20230612111453.png)
 
-![Image of effort every week](/assets/Pasted image 20230608153429.png)
-(still needs to be updated)
 
 
 ##### Ask for help on time
